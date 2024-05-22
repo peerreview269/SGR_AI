@@ -9,7 +9,7 @@ Before running the scripts, make sure you have the following dependencies instal
 
 - Pytorch
 - Transformers
-- sk-learn
+- scikit-learn
 - Datasets
 
 You can install these packages using pip:
