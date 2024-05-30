@@ -52,7 +52,3 @@ In each script, choose the appropriate dataset in the `Load Dataset` portion of 
 For different context configurations in the BERT models, modify the `custom_configurations` line in the script. You can modify type of context (previous, subsequent, both) and 
 the window size (integer).
 
-## Contribution
-
-Contributions are welcome! Please fork the repository and use a feature branch. Pull requests should include tests.
-
