@@ -20,7 +20,7 @@ pip install torch transformers scikit-learn datasets
 
 ## Installation and Setup
 
-Clone the repository to your local machine:
+Clone the repository to your local machine or just donwload the files. Whatever you want:
 
 ```bash
 git clone https://github.com/peerreview269/SGR_AI
