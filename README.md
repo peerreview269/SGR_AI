@@ -1,7 +1,7 @@
 
 # Coding Small Group Communication: Transformer and RNN Models with Context
 
-This repository provides instructions and scripts for reproducing RNN and Transformer models with context using the Silicone datasets. The project aims to facilitate the coding of small group communication dynamics.
+This repository provides instructions and scripts for reproducing RNN and Transformer models with context windows using the Silicone datasets (https://huggingface.co/datasets/eusip/silicone). The project aims to facilitate the coding of small group communication dynamics.
 
 ## Prerequisites
 
@@ -49,7 +49,8 @@ In each script, choose the appropriate dataset in the `Load Dataset` portion of 
 
 ### Configuring Context in BERT Models
 
-For different context configurations in the BERT models, modify the `custom_configurations` line in the script.
+For different context configurations in the BERT models, modify the `custom_configurations` line in the script. You can modify type of context (previous, subsequent, both) and 
+the window size (integer).
 
 ## Contribution
 
