@@ -43,11 +43,11 @@ python run_BERT_with_context.py
 python run_RNN_LSTM.py
 ```
 
-### Selecting the Dataset
+## Selecting the Dataset
 
 In each script, choose the appropriate dataset in the `Load Dataset` portion of the file.
 
-### Configuring Context in BERT Models
+## Configuring Context in BERT Models
 
 For different context configurations in the BERT models, modify the `custom_configurations` line in the script. You can modify type of context (previous, subsequent, both) and 
 the window size (integer).
