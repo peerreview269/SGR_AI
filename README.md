@@ -47,6 +47,17 @@ python run_RNN_LSTM.py
 
 In each script, choose the appropriate dataset in the `Load Dataset` portion of the file.
 
+## Running the AMI using BERT with Context
+
+```bash
+python AMI.py
+```
+### RNN Model (LSTM) using AMI
+
+```bash
+python AMI_RNN.py
+```
+
 ## Configuring Context in BERT Models
 
 For different context configurations in the BERT models, modify the `custom_configurations` line in the script. You can modify type of context (previous, subsequent, both) and 
