@@ -1,0 +1,2930 @@
+Set,ID,Spaker,Text,Label
+validation,q1ec6.txt,g,right,ready
+validation,q1ec6.txt,g,go south and you'll pass some cliffs on your right,instruct
+validation,q1ec6.txt,f,okay,acknowledge
+validation,q1ec6.txt,f,yeah,acknowledge
+validation,q1ec6.txt,g,and keep going down south,instruct
+validation,q1ec6.txt,f,mmhmm,acknowledge
+validation,q1ec6.txt,g,past a forge on your right,query_yn
+validation,q1ec6.txt,f,past a what,query_w
+validation,q1ec6.txt,g,a forge,reply_w
+validation,q1ec6.txt,g,well keep going down,instruct
+validation,q1ec6.txt,g,right,align
+validation,q1ec6.txt,g,and then loop towards the east,instruct
+validation,q1ec6.txt,f,underneath what wheatfields,query_yn
+validation,q1ec6.txt,f,so i go straight,check
+validation,q1ec6.txt,g,not as far down as that,reply_n
+validation,q1ec6.txt,f,not as far down as that,check
+validation,q1ec6.txt,g,no,reply_n
+validation,q1ec6.txt,f,right,acknowledge
+validation,q1ec6.txt,f,and do a loop,check
+validation,q1ec6.txt,g,and do a loop,reply_y
+validation,q1ec6.txt,g,and then start going back up again you're going kind of northeast,clarify
+validation,q1ec6.txt,f,right,acknowledge
+validation,q1ec6.txt,g,right,ready
+validation,q1ec6.txt,g,you there's a,explain
+validation,q1ec6.txt,f,and am i going to come like between these cliffs and pine or,query_yn
+validation,q1ec6.txt,g,oh you go up past the pine pine's on your right,reply_w
+validation,q1ec6.txt,f,right okay,acknowledge
+validation,q1ec6.txt,g,and go up past it 'til you're just above the top of the pine,reply_w
+validation,q1ec6.txt,f,right okay,acknowledge
+validation,q1ec6.txt,g,and then east again,instruct
+validation,q1ec6.txt,f,east again,check
+validation,q1ec6.txt,g,east again,reply_y
+validation,q1ec6.txt,f,right okay right,acknowledge
+validation,q1ec6.txt,f,sorry right,acknowledge
+validation,q1ec6.txt,g,right,align
+validation,q1ec6.txt,g,right,ready
+validation,q1ec6.txt,g,east sort of for a wee bit,clarify
+validation,q1ec6.txt,g,um,ready
+validation,q1ec6.txt,g,and then start going southeast,instruct
+validation,q1ec6.txt,f,right okay,acknowledge
+validation,q1ec6.txt,g,there's a pine forest on your way,query_yn
+validation,q1ec6.txt,f,ehm yeah that's right uh-huh,reply_y
+validation,q1ec6.txt,g,right,align
+validation,q1ec6.txt,f,right okay,reply_y
+validation,q1ec6.txt,g,'til you get to just underneath the pine forest,instruct
+validation,q1ec6.txt,f,right,acknowledge
+validation,q1ec6.txt,g,and then start going south,instruct
+validation,q1ec6.txt,f,okay,acknowledge
+validation,q1ec6.txt,g,and then go east again and you loop round about a bakery,instruct
+validation,q1ec6.txt,f,yeah,acknowledge
+validation,q1ec6.txt,g,right,align
+validation,q1ec6.txt,f,i'm going east underneath the bakery,check
+validation,q1ec6.txt,g,underneath the bakery,reply_y
+validation,q1ec6.txt,f,right okay,acknowledge
+validation,q1ec6.txt,g,uh-huh right,reply_y
+validation,q1ec6.txt,g,and coming back round towards the west,clarify
+validation,q1ec6.txt,f,whoa whoa wait a minute right,ready
+validation,q1ec6.txt,f,i'm coming down by the pine forest i'm going right down straight down and then you s--,check
+validation,q1ec6.txt,g,right,reply_y
+validation,q1ec6.txt,g,'til you're not 'til you're at the top of the bakery,clarify
+validation,q1ec6.txt,f,ah right sorry right okay,acknowledge
+validation,q1ec6.txt,g,right,align
+validation,q1ec6.txt,g,and loop round a bit until you're underneath it right and then west,clarify
+validation,q1ec6.txt,f,right okay right got that,acknowledge
+validation,q1ec6.txt,g,right,align
+validation,q1ec6.txt,g,and then down south,instruct
+validation,q1ec6.txt,f,okay,acknowledge
+validation,q1ec6.txt,g,and there's a crane bay,explain
+validation,q1ec6.txt,f,yeah that's it,acknowledge
+validation,q1ec6.txt,g,right,align
+validation,q1ec6.txt,f,uh-huh,reply_y
+validation,q1ec6.txt,g,and it's got a,explain
+validation,q1ec6.txt,g,can you curve follow the curve,instruct
+validation,q1ec6.txt,f,yeah right,acknowledge
+validation,q1ec6.txt,g,of crane bay so you're going west,instruct
+validation,q1ec6.txt,f,uh-huh,acknowledge
+validation,q1ec6.txt,f,yep,acknowledge
+validation,q1ec6.txt,g,right and then um,ready
+validation,q1ec6.txt,g,you're going southwest,instruct
+validation,q1ec6.txt,f,mmhmm,acknowledge
+validation,q1ec6.txt,g,between the wheatfields and the warehouse between the two of them,instruct
+validation,q1ec6.txt,f,right okay,acknowledge
+validation,q1ec6.txt,g,right,ready
+validation,q1ec6.txt,g,you're going,instruct
+validation,q1ec6.txt,f,yep,acknowledge
+validation,q1ec6.txt,g,and then,ready
+validation,q1ec6.txt,g,like go west,instruct
+validation,q1ec6.txt,f,right,acknowledge
+validation,q1ec6.txt,g,so you're underneath them between them,instruct
+validation,q1ec6.txt,f,between them,check
+validation,q1ec6.txt,g,um mmhmm,reply_y
+validation,q1ec6.txt,f,right okay,acknowledge
+validation,q1ec6.txt,g,and then,ready
+validation,q1ec6.txt,g,southwest towards the edge of the map,instruct
+validation,q1ec6.txt,f,right okay,acknowledge
+validation,q1ec6.txt,g,right,ready
+validation,q1ec6.txt,g,and then south,instruct
+validation,q1ec6.txt,f,mm right,acknowledge
+validation,q1ec6.txt,g,and then um,ready
+validation,q1ec6.txt,g,you're going east you come to the lighthouse,instruct
+validation,q1ec6.txt,f,so right down past the caves,query_yn
+validation,q1ec6.txt,g,until you then go east until you get to the lighthouse,clarify
+validation,q1ec6.txt,f,right okay,acknowledge
+validation,q1ec6.txt,g,right,ready
+validation,q1ec6.txt,g,that's the end,instruct
+validation,q1ec6.txt,f,above or below,query_w
+validation,q1ec6.txt,g,at the side,reply_w
+validation,q3ec5.txt,g,okay eh,ready
+validation,q3ec5.txt,g,you've got a starting point,align
+validation,q3ec5.txt,f,just above a forest fire site of a forest fire,reply_w
+validation,q3ec5.txt,g,yeah right,acknowledge
+validation,q3ec5.txt,g,so if you go left to the edge of the page and then,instruct
+validation,q3ec5.txt,f,left to the edge of the page,check
+validation,q3ec5.txt,g,left to left to the edge of the page,clarify
+validation,q3ec5.txt,f,right okay,acknowledge
+validation,q3ec5.txt,g,and go straight down eh almost to the bottom of the page,instruct
+validation,q3ec5.txt,g,you got a picnic site there,query_yn
+validation,q3ec5.txt,f,no i haven't,reply_n
+validation,q3ec5.txt,g,no okay ehm,acknowledge
+validation,q3ec5.txt,f,almost to the bottom,check
+validation,q3ec5.txt,g,almost to the bottom of the page,clarify
+validation,q3ec5.txt,g,eh okay,ready
+validation,q3ec5.txt,g,have you got an adventure playground,query_yn
+validation,q3ec5.txt,f,uh-huh i have,reply_y
+validation,q3ec5.txt,g,okay,acknowledge
+validation,q3ec5.txt,g,if you go right until you're eh just at the left-hand edge of the adventure playground underneath it,instruct
+validation,q3ec5.txt,f,right,acknowledge
+validation,q3ec5.txt,g,and go straight up eh to the top of the adventure playground,instruct
+validation,q3ec5.txt,f,in between the adventure playground and the forest fire,check
+validation,q3ec5.txt,g,uh-huh,reply_y
+validation,q3ec5.txt,f,how far up,query_w
+validation,q3ec5.txt,g,just to the very top of the adventure playground,clarify
+validation,q3ec5.txt,f,right,acknowledge
+validation,q3ec5.txt,g,okay ehm now,ready
+validation,q3ec5.txt,g,have you got a granite quarry marked,query_yn
+validation,q3ec5.txt,f,uh-huh,reply_y
+validation,q3ec5.txt,g,in the middle almost in the middle of the page,query_yn
+validation,q3ec5.txt,f,yes,reply_y
+validation,q3ec5.txt,g,can you go straight right until you're at the at the right-hand edge of the granite quarry you go straight right until you're onto that without hitting anything,instruct
+validation,q3ec5.txt,f,is there privately owned fields on your thing,query_yn
+validation,q3ec5.txt,g,i haven't got it no,reply_n
+validation,q3ec5.txt,f,right,acknowledge
+validation,q3ec5.txt,g,okay,acknowledge
+validation,q3ec5.txt,g,now can you go straight up to the top of the granite quarry,instruct
+validation,q3ec5.txt,f,in between the granite quarry and the quarry and the fallen cairn,check
+validation,q3ec5.txt,g,yeah,reply_y
+validation,q3ec5.txt,f,right,acknowledge
+validation,q3ec5.txt,f,that's okay,explain
+validation,q3ec5.txt,g,now eh left and then down to the bottom of the the other side of the granite quarry,instruct
+validation,q3ec5.txt,g,can you do that without,query_yn
+validation,q3ec5.txt,f,mmhmm,reply_y
+validation,q3ec5.txt,g,left and then down,instruct
+validation,q3ec5.txt,f,right,ready
+validation,q3ec5.txt,g,now eh have you got a waterfall marked,query_yn
+validation,q3ec5.txt,f,i've got waterfall,reply_y
+validation,q3ec5.txt,g,okay,acknowledge
+validation,q3ec5.txt,g,if you go left from there to the the to the left-hand edge of the waterfall,instruct
+validation,q3ec5.txt,f,right,ready
+validation,q3ec5.txt,g,and can you go straight up to the top of the waterfall,instruct
+validation,q3ec5.txt,f,right,ready
+validation,q3ec5.txt,g,eh and then right to the right-hand edge of the waterfall,instruct
+validation,q3ec5.txt,g,okay ehm,ready
+validation,q3ec5.txt,g,have you got cornfields marked at the top of the page,query_yn
+validation,q3ec5.txt,f,yes i have,reply_y
+validation,q3ec5.txt,g,okay,acknowledge
+validation,q3ec5.txt,g,if you go straight up eh until you're halfway between the waterfall and the cornfields,instruct
+validation,q3ec5.txt,g,okay,align
+validation,q3ec5.txt,g,now can you go like eh diagonally ehm southeast from there,instruct
+validation,q3ec5.txt,g,have you got a fallen cairn marked,query_yn
+validation,q3ec5.txt,f,uh-huh,reply_y
+validation,q3ec5.txt,g,eh at the right-hand side of the,query_yn
+validation,q3ec5.txt,f,yeah,reply_y
+validation,q3ec5.txt,f,there's have you got a public footpath that's just like to just to the the southeast between me and the fallen cairn just now,query_yn
+validation,q3ec5.txt,g,i don't have it,reply_n
+validation,q3ec5.txt,f,so i'll just go,explain
+validation,q3ec5.txt,g,okay,acknowledge
+validation,q3ec5.txt,g,if you get to the bottom of the fallen cairn from there without,instruct
+validation,q3ec5.txt,g,i haven't got anything else marked between there so,explain
+validation,q3ec5.txt,f,so it's more or less have you got more or less a straight line so,check
+validation,q3ec5.txt,g,more or less a straight line down,reply_y
+validation,q3ec5.txt,f,right so if i just avoid this public footpath and then go down from there,explain
+validation,q3ec5.txt,g,so yeah,acknowledge
+validation,q3ec5.txt,f,right,ready
+validation,q3ec5.txt,f,i'm at the fallen cairn,explain
+validation,q3ec5.txt,g,okay,acknowledge
+validation,q3ec5.txt,g,now if you go round to the other side of the fallen cairn and just up to the top of it,instruct
+validation,q3ec5.txt,f,right,acknowledge
+validation,q3ec5.txt,g,you know underneath it and up,instruct
+validation,q3ec5.txt,f,underneath it,check
+validation,q3ec5.txt,g,mmhmm,reply_y
+validation,q3ec5.txt,f,and up right side,acknowledge
+validation,q3ec5.txt,f,to the fallen cairn right,acknowledge
+validation,q3ec5.txt,f,i'm at the bottom right-hand side of the fallen cairn,explain
+validation,q3ec5.txt,g,top,instruct
+validation,q3ec5.txt,g,okay ehm,acknowledge
+validation,q3ec5.txt,f,you want me to go up,check
+validation,q3ec5.txt,g,if you go up to the top of it,clarify
+validation,q3ec5.txt,g,then almost come back come back to like the the middle of it almost up and then you know left along,instruct
+validation,q3ec5.txt,f,right,acknowledge
+validation,q3ec5.txt,g,just to the middle of it,instruct
+validation,q3ec5.txt,f,i've got it,acknowledge
+validation,q3ec5.txt,g,eh now can you go straight up from there,instruct
+validation,q3ec5.txt,f,uh-huh,reply_y
+validation,q3ec5.txt,g,eh have you got a lake marked at the top yeah,query_yn
+validation,q3ec5.txt,f,i have got an east lake,reply_w
+validation,q3ec5.txt,g,okay,acknowledge
+validation,q3ec5.txt,g,if you can you go straight up to the lake from there,instruct
+validation,q3ec5.txt,f,right,acknowledge
+validation,q3ec5.txt,g,and if you follow the line of the bottom of the lake until it's you know about half an inch past the end of it just like go straight along the line of it,instruct
+validation,q3ec5.txt,f,right,acknowledge
+validation,q3ec5.txt,g,and that should be the finish there that's it,explain
+validation,q3ec5.txt,f,how far eh between the lake and the cornfields,query_w
+validation,q3ec5.txt,g,well just at at like if you,clarify
+validation,q3ec5.txt,g,you know you've got the top corner of the lake,align
+validation,q3ec5.txt,g,just underneath the top corner of it,clarify
+validation,q3ec5.txt,f,oh the top corner on the right,check
+validation,q3ec5.txt,g,on the left,clarify
+validation,q3ec5.txt,f,on the left,acknowledge
+validation,q3ec5.txt,f,so it's the top corner,check
+validation,q3ec5.txt,g,just so if you just stop you know anywhere,clarify
+validation,q3ec5.txt,g,right,acknowledge
+validation,q3ec5.txt,f,right that's it,acknowledge
+validation,q4nc6.txt,g,er you've got the start right,align
+validation,q4nc6.txt,f,above a camera shop,reply_y
+validation,q4nc6.txt,g,you've you've got a camera shop,check
+validation,q4nc6.txt,f,right,reply_y
+validation,q4nc6.txt,g,you've not got there's a park van parked van just below that,explain
+validation,q4nc6.txt,g,right,align
+validation,q4nc6.txt,g,it's about three or four centimetres down from that,explain
+validation,q4nc6.txt,f,right okay,acknowledge
+validation,q4nc6.txt,g,eh what you're going to do is go in between the camera shop and the left-hand side of the page,instruct
+validation,q4nc6.txt,g,right,align
+validation,q4nc6.txt,f,uh-huh,reply_y
+validation,q4nc6.txt,g,see how there's about a centimetre,align
+validation,q4nc6.txt,f,yeah,reply_y
+validation,q4nc6.txt,g,you go from the start sort of do a curve to get back onto the line and go down due south for bddllpp eh,instruct
+validation,q4nc6.txt,f,right,acknowledge
+validation,q4nc6.txt,f,just missing the camera shop,check
+validation,q4nc6.txt,g,just missing the camera shop yeah,reply_y
+validation,q4nc6.txt,f,right,acknowledge
+validation,q4nc6.txt,f,is there allotments,query_yn
+validation,q4nc6.txt,g,down to where's the allotments,acknowledge
+validation,q4nc6.txt,g,yes there is,reply_y
+validation,q4nc6.txt,g,oh you go down about double the length of that,instruct
+validation,q4nc6.txt,g,see between the start and the allotments,align
+validation,q4nc6.txt,f,uh-huh,reply_y
+validation,q4nc6.txt,g,do the same distance again between that in fact a wee bit more i'd say about twelve thirteen centimetres down to the bottom,instruct
+validation,q4nc6.txt,f,down,check
+validation,q4nc6.txt,g,right,align
+validation,q4nc6.txt,f,right okay,reply_y
+validation,q4nc6.txt,g,so you should be about a centimetre away from the left-hand side of the page and about two two or three centimetres above the bottom,instruct
+validation,q4nc6.txt,f,the bottom of the page,acknowledge
+validation,q4nc6.txt,g,right,align
+validation,q4nc6.txt,f,oh wait a minute how many centimetres from the,query_w
+validation,q4nc6.txt,g,about one centimetre from the left-hand side of the page,reply_w
+validation,q4nc6.txt,f,oh right,acknowledge
+validation,q4nc6.txt,f,well so going back a bit,check
+validation,q4nc6.txt,g,yeah,reply_y
+validation,q4nc6.txt,f,right okay then i know right i know what i'm doing now,acknowledge
+validation,q4nc6.txt,g,uh-huh uh-huh right,acknowledge
+validation,q4nc6.txt,g,okay,align
+validation,q4nc6.txt,f,right okay,reply_y
+validation,q4nc6.txt,g,you've just really got a straight line down from the start missing the camera shop,instruct
+validation,q4nc6.txt,f,right aye right i've got it,acknowledge
+validation,q4nc6.txt,g,"okay eh now i've got a parked van here so i'm just trying to go round it you're sort of doing a ""u"" shape back round past where my parked van is so just go east for about four five centimetres",instruct
+validation,q4nc6.txt,f,right okay,reply_y
+validation,q4nc6.txt,g,right,align
+validation,q4nc6.txt,g,so you're going aiming towards the yacht club but you're going nowhere near as far as that,instruct
+validation,q4nc6.txt,g,right,align
+validation,q4nc6.txt,f,right,acknowledge
+validation,q4nc6.txt,f,so i'm just like below the allotments just now,check
+validation,q4nc6.txt,g,below it not as far along as that,reply_w
+validation,q4nc6.txt,g,are you at whereabouts what letter are you under in the allotments,query_w
+validation,q4nc6.txt,f,oh right,acknowledge
+validation,q4nc6.txt,f,no i'm no i'm just actually,reply_w
+validation,q4nc6.txt,g,all right,acknowledge
+validation,q4nc6.txt,f,just before it i'm not actually touched the allotments yet,reply_w
+validation,q4nc6.txt,g,all right that's good that's good,acknowledge
+validation,q4nc6.txt,g,because what you're doing is you're going up the side of the allotments,clarify
+validation,q4nc6.txt,f,right okay i'm just,acknowledge
+validation,q4nc6.txt,g,"so you're doing you're continuing that ""u"" shape from where you were at the start you're sort of going back up heading north towards the side of the allotments",instruct
+validation,q4nc6.txt,g,right,align
+validation,q4nc6.txt,f,right,reply_y
+validation,q4nc6.txt,g,see the wee black house at the left-hand side of the allotments,align
+validation,q4nc6.txt,f,am i just going straight up,check
+validation,q4nc6.txt,g,yes straight up from there right,reply_y
+validation,q4nc6.txt,f,right,acknowledge
+validation,q4nc6.txt,f,is that all right,check
+validation,q4nc6.txt,f,right okay right,acknowledge
+validation,q4nc6.txt,g,right so you're at the you're at the,align
+validation,q4nc6.txt,f,i'm at the wee black house now at the left of the allotments,explain
+validation,q4nc6.txt,g,at the wee black house that's brilliant that's brilliant,acknowledge
+validation,q4nc6.txt,f,right,acknowledge
+validation,q4nc6.txt,g,"so have you got a sort of ""u""-shaped a sort of half ""u"" shape",align
+validation,q4nc6.txt,f,yeah,reply_y
+validation,q4nc6.txt,g,right that's okay that's fine,acknowledge
+validation,q4nc6.txt,f,okay,acknowledge
+validation,q4nc6.txt,g,right this is where it gets difficult,explain
+validation,q4nc6.txt,f,right,acknowledge
+validation,q4nc6.txt,g,'cause you're aiming into the middle of nowhere there's about,explain
+validation,q4nc6.txt,g,i've got a yacht club right,check
+validation,q4nc6.txt,g,at the bottom right-hand side,check
+validation,q4nc6.txt,f,ehm,acknowledge
+validation,q4nc6.txt,f,uh-huh right,reply_y
+validation,q4nc6.txt,g,right,acknowledge
+validation,q4nc6.txt,g,see if you forget about the line for a minute if you pick a point about sssh,instruct
+validation,q4nc6.txt,g,see the edge of the left-hand yacht right,align
+validation,q4nc6.txt,f,uh-huh,reply_y
+validation,q4nc6.txt,g,the bottom edge of it the corner,align
+validation,q4nc6.txt,f,right,reply_y
+validation,q4nc6.txt,g,if you aim above that for about six centimetres right,instruct
+validation,q4nc6.txt,f,right,reply_y
+validation,q4nc6.txt,g,a point up there,instruct
+validation,q4nc6.txt,f,uh-huh,reply_y
+validation,q4nc6.txt,g,if you can draw a diagonal line from the wee black house in the allotments up to the top up to the where that point is about six centimetres,instruct
+validation,q4nc6.txt,f,have you got a flight museum,query_yn
+validation,q4nc6.txt,g,i've not no,reply_n
+validation,q4nc6.txt,g,have you got a flight museum in the middle somewhere,query_w
+validation,q4nc6.txt,f,right,acknowledge
+validation,q4nc6.txt,f,ehm,acknowledge
+validation,q4nc6.txt,f,right,ready
+validation,q4nc6.txt,f,i've got a flight,reply_w
+validation,q4nc6.txt,f,right,ready
+validation,q4nc6.txt,f,if i go up from the bottom left-hand corner of this yacht if i go up about six centimetres,explain
+validation,q4nc6.txt,g,right,acknowledge
+validation,q4nc6.txt,f,i'm just like about one centimetre from this to the left of this eh to the right of this flight museum,explain
+validation,q4nc6.txt,g,one centimetre to the right,acknowledge
+validation,q4nc6.txt,f,but i suppose ehm i suppose if i draw a line from that wee house it might just miss the flight museum,explain
+validation,q4nc6.txt,g,i think that's pff,explain
+validation,q4nc6.txt,g,right well what you're doing is you're drawing a line it's not exactly eh east right it's sort of between two and three o'clock it's very very gradual incline up for about fourteen centimetres twelve,instruct
+validation,q4nc6.txt,f,right i i know what i know what what you're doing,acknowledge
+validation,q4nc6.txt,g,see what i'm,align
+validation,q4nc6.txt,g,doing i'm going up on a,clarify
+validation,q4nc6.txt,f,yeah,reply_y
+validation,q4nc6.txt,f,right okay,acknowledge
+validation,q4nc6.txt,f,uh it's just at the bottom of my flight museum,clarify
+validation,q4nc6.txt,g,aye,acknowledge
+validation,q4nc6.txt,g,it's sort of between two and three o'clock,clarify
+validation,q4nc6.txt,f,aye that's,acknowledge
+validation,q4nc6.txt,g,right,align
+validation,q4nc6.txt,f,alright i know where you are,reply_y
+validation,q4nc6.txt,g,its at the bottom of your flight museum,check
+validation,q4nc6.txt,f,uh-huh it's the bottom of my flight museum,reply_y
+validation,q4nc6.txt,g,so you should be eh you,align
+validation,q4nc6.txt,f,and have you got a telephone box further up,query_yn
+validation,q4nc6.txt,g,i've got it aye that's a way up at the uh-huh,reply_y
+validation,q4nc6.txt,f,ah i'm just like underneath the telephone box about like about fourteen centimetres away from the telephone box,explain
+validation,q4nc6.txt,g,are you directly underneath that are you as far,check
+validation,q4nc6.txt,f,it's,reply_w
+validation,q4nc6.txt,f,"no no i'm underneath ah well i'm about nearly underneath the ""t""",reply_w
+validation,q4nc6.txt,g,a wee bit aye,acknowledge
+validation,q4nc6.txt,g,right that's fine that's fine,acknowledge
+validation,q4nc6.txt,f,right is that where i should be,query_yn
+validation,q4nc6.txt,g,that's great actually that's exactly it,reply_y
+validation,q4nc6.txt,f,right okay,acknowledge
+validation,q4nc6.txt,g,right,ready
+validation,q4nc6.txt,g,you've got a disused monastery,check
+validation,q4nc6.txt,f,uh-huh,reply_y
+validation,q4nc6.txt,g,haven't you,check
+validation,q4nc6.txt,g,"see from where you are just now under the ""t"" away down a wee bit fifteen centimetres down",align
+validation,q4nc6.txt,f,uh-huh,reply_y
+validation,q4nc6.txt,g,you're going up and you're just doing a wee hill over the monastery from the right of the monastery over to the left,instruct
+validation,q4nc6.txt,g,right,ready
+validation,q4nc6.txt,g,you're just doing a big bump right over it,instruct
+validation,q4nc6.txt,g,do you see what i mean,align
+validation,q4nc6.txt,f,right so i i i go up do i go up straight first,query_yn
+validation,q4nc6.txt,g,go up just well any way you want really,reply_w
+validation,q4nc6.txt,g,this this sort of does a curve just over the top of the monastery going from right to left,clarify
+validation,q4nc6.txt,f,right okay,acknowledge
+validation,q4nc6.txt,f,right over the top of it,acknowledge
+validation,q4nc6.txt,g,okay,align
+validation,q4nc6.txt,g,and you're going down to just to the bottom left-hand side to the the disused monastery,clarify
+validation,q4nc6.txt,f,there's there's this wee black box just there,explain
+validation,q4nc6.txt,g,right uh-huh,acknowledge
+validation,q4nc6.txt,g,you're just going just a wee bit below that,clarify
+validation,q4nc6.txt,f,okay,acknowledge
+validation,q4nc6.txt,g,right,align
+validation,q4nc6.txt,f,right,reply_y
+validation,q4nc6.txt,g,eh now you've got a have you got an alpine garden,query_yn
+validation,q4nc6.txt,f,uh-huh,reply_y
+validation,q4nc6.txt,g,you have right,acknowledge
+validation,q4nc6.txt,g,all you're doing is you're sort of doing see that wee bump you've got over the monastery at the moment,align
+validation,q4nc6.txt,f,yeah,reply_y
+validation,q4nc6.txt,g,you're sort of doing that in reverse and going up towards the alpine garden so you do the bump in reverse and end up just going straight north up the left-hand side of the alpine garden,instruct
+validation,q4nc6.txt,g,do you see what i mean,align
+validation,q4nc6.txt,g,"so that if you turned the sheet on its side it'd be a big ""s""",instruct
+validation,q4nc6.txt,f,right,reply_y
+validation,q4nc6.txt,f,right okay,acknowledge
+validation,q4nc6.txt,g,right,align
+validation,q4nc6.txt,f,but i've have you got a west lake,query_yn
+validation,q4nc6.txt,g,eh i've not no,reply_n
+validation,q4nc6.txt,g,have you got a west lake in the middle somewhere,query_w
+validation,q4nc6.txt,f,yeah,reply_y
+validation,q4nc6.txt,f,but i've missed the west lake,explain
+validation,q4nc6.txt,g,oh you aye,acknowledge
+validation,q4nc6.txt,g,draw round it,instruct
+validation,q4nc6.txt,f,don't suppose i'll go through it,acknowledge
+validation,q4nc6.txt,g,oh score it out somewhere,instruct
+validation,q4nc6.txt,f,right okay right right i know what i know what i'm doing,acknowledge
+validation,q4nc6.txt,g,eh so you're,ready
+validation,q4nc6.txt,g,right,ready
+validation,q4nc6.txt,g,so you're going up so you go up to the alpine garden you're just going sort of straight north to the,clarify
+validation,q4nc6.txt,f,and now a bit of i've a a couple of centimetres from the left-hand side of the page,check
+validation,q4nc6.txt,g,yes that's right,reply_y
+validation,q4nc6.txt,f,right okay,acknowledge
+validation,q4nc6.txt,g,that's exactly have you got a picket fence at the top,query_yn
+validation,q4nc6.txt,f,uh-huh,reply_y
+validation,q4nc6.txt,g,"you're sort of under the ""n"" or ""c"" or something of the picket fence but you're about about ten centimetres down well",clarify
+validation,q4nc6.txt,f,yeah now that's,acknowledge
+validation,q4nc6.txt,g,you're just at the top left of the alpine garden,align
+validation,q4nc6.txt,f,that's right,acknowledge
+validation,q4nc6.txt,g,right,acknowledge
+validation,q4nc6.txt,f,right i'm at the top left of the alpine garden,reply_y
+validation,q4nc6.txt,g,have you got a youth hostel which is,query_yn
+validation,q4nc6.txt,f,no,reply_n
+validation,q4nc6.txt,g,no you've not,acknowledge
+validation,q4nc6.txt,f,i've got a parked van away up the top,explain
+validation,q4nc6.txt,f,i've just noticed that there,explain
+validation,q4nc6.txt,g,aye the parked the parked van's got nothing,acknowledge
+validation,q4nc6.txt,f,oh god it's moved,acknowledge
+validation,q4nc6.txt,g,aye,acknowledge
+validation,q4nc6.txt,g,he doesn't he doesn't go anywhere,acknowledge
+validation,q4nc6.txt,f,right,acknowledge
+validation,q4nc6.txt,g,your yacht club should be nothing as well at the moment,explain
+validation,q4nc6.txt,g,that should be in the middle of nowhere,explain
+validation,q4nc6.txt,f,right okay,acknowledge
+validation,q4nc6.txt,g,eh you've got the alpine garden at the top eh you're at the top left of the alpine garden right,align
+validation,q4nc6.txt,f,right that's me,reply_y
+validation,q4nc6.txt,g,"you're under ""n"" or ""c"" or something like that of picket fence",align
+validation,q4nc6.txt,f,uh-huh,reply_y
+validation,q4nc6.txt,f,right,reply_y
+validation,q4nc6.txt,g,eh what you're doing now is you're going along to the right just above the top of the alpine garden whatever those if that's weeds or something eh you're going along for two to three centimetres,instruct
+validation,q4nc6.txt,g,okay,align
+validation,q4nc6.txt,f,right so i'm going to the right of the alpine garden the top of it,check
+validation,q4nc6.txt,g,uh-huh to the right uh-huh,reply_y
+validation,q4nc6.txt,g,the top just straight across right,reply_y
+validation,q4nc6.txt,f,right okay,acknowledge
+validation,q4nc6.txt,g,"and you should be above the ""d"" end above the ""d"" of garden but you're on top of the you know",clarify
+validation,q4nc6.txt,f,right that's me,acknowledge
+validation,q4nc6.txt,g,right,align
+validation,q4nc6.txt,g,and then you're going just due north for three another three or four centimetres,instruct
+validation,q4nc6.txt,g,right,align
+validation,q4nc6.txt,f,right,reply_y
+validation,q4nc6.txt,f,eh have you got a level crossing to the right,query_yn
+validation,q4nc6.txt,g,okay,ready
+validation,q4nc6.txt,g,have i got ah no i haven't no,reply_n
+validation,q4nc6.txt,f,i just wondered if i was,explain
+validation,q4nc6.txt,g,have you have you got a thatched,query_yn
+validation,q4nc6.txt,g,no you've not i'd had this out with neil a thatched mud hut,explain
+validation,q4nc6.txt,g,you've not got that no,check
+validation,q4nc6.txt,f,no,acknowledge
+validation,q4nc6.txt,g,eh you've got the,explain
+validation,q4nc6.txt,f,right i've gone up about three centimetres,explain
+validation,q4nc6.txt,g,right,acknowledge
+validation,q4nc6.txt,g,so you should be sort of halfway between your alpine garden and your parked van really if you know what i mean,instruct
+validation,q4nc6.txt,f,ah right okay i'll go up a wee bit,acknowledge
+validation,q4nc6.txt,g,right is that right round about there,align
+validation,q4nc6.txt,f,i'll go up a wee bit further,acknowledge
+validation,q4nc6.txt,f,right okay that's about it,reply_y
+validation,q4nc6.txt,g,eh,ready
+validation,q4nc6.txt,f,right,reply_y
+validation,q4nc6.txt,g,then you're going now where are you you've just gone north haven't you,align
+validation,q4nc6.txt,f,i've just gone north up towards the parked van,reply_y
+validation,q4nc6.txt,g,right okay,acknowledge
+validation,q4nc6.txt,g,eh now go right for about two centimetres,instruct
+validation,q4nc6.txt,g,okay,align
+validation,q4nc6.txt,f,right okay,reply_y
+validation,q4nc6.txt,g,just a straight line right for two centimetres,instruct
+validation,q4nc6.txt,f,so have you got this parked van,query_yn
+validation,q4nc6.txt,g,yeah,reply_y
+validation,q4nc6.txt,g,"you should be under the under the letter ""v"" i think round about ""v""",reply_w
+validation,q4nc6.txt,f,what what letter,query_w
+validation,q4nc6.txt,f,right okay that's me,acknowledge
+validation,q4nc6.txt,g,right okay so you're about two to three centimetres below the parked van at the moment,align
+validation,q4nc6.txt,f,uh-huh that's me,reply_y
+validation,q4nc6.txt,g,just right right,ready
+validation,q4nc6.txt,g,you've got that point there now you've got your telephone box right,check
+validation,q4nc6.txt,f,aye,reply_y
+validation,q4nc6.txt,g,"see the letter ""t""",align
+validation,q4nc6.txt,f,uh-huh,reply_y
+validation,q4nc6.txt,g,draw a line from where you are at the moment diagonally right down it's a southeast,instruct
+validation,q4nc6.txt,f,uh-huh,acknowledge
+validation,q4nc6.txt,g,it's a big massive diagonal line it's about fifteen centimetres long or something like that,instruct
+validation,q4nc6.txt,f,right down to the,check
+validation,q4nc6.txt,g,"right down to the letter ""t"" right down to the bottom",instruct
+validation,q4nc6.txt,f,to the top of it,check
+validation,q4nc6.txt,f,or the bottom of it right okay,acknowledge
+validation,q4nc6.txt,g,to the bottom of it sorry,clarify
+validation,q4nc6.txt,g,"just underneath the letter ""t""",clarify
+validation,q4nc6.txt,g,okay,align
+validation,q4nc6.txt,f,right that's me,acknowledge
+validation,q4nc6.txt,g,right,ready
+validation,q4nc6.txt,g,and then all you,instruct
+validation,q4nc6.txt,f,this looks quite nice,explain
+validation,q4nc6.txt,g,frame it and,instruct
+validation,q4nc6.txt,f,i'm quite pleased,acknowledge
+validation,q4nc6.txt,g,oh you should have seen neil's we had to start all over again you know,explain
+validation,q4nc6.txt,f,had to do that with dawn anyway,acknowledge
+validation,q4nc6.txt,f,right,ready
+validation,q4nc6.txt,f,"we're at the bottom of the ""t""",align
+validation,q4nc6.txt,g,"we're underneath the letter ""t"" at the moment",align
+validation,q4nc6.txt,g,"go along just sort of underline telephone box just a a fraction underneath telephone underline it right to the letter ""x""",instruct
+validation,q4nc6.txt,f,right,acknowledge
+validation,q4nc6.txt,g,right,align
+validation,q4nc6.txt,f,right okay,acknowledge
+validation,q4nc6.txt,g,"and you just go to the edge of the letter ""x""",instruct
+validation,q4nc6.txt,g,right,align
+validation,q4nc6.txt,f,right,reply_y
+validation,q4nc6.txt,g,you're on the right-hand side of it,align
+validation,q4nc6.txt,f,uh-huh,reply_y
+validation,q4nc6.txt,g,then all you're doing is going up for about another three centimetres to just just above the top of the telephone box,instruct
+validation,q4nc6.txt,f,right,acknowledge
+validation,q4nc6.txt,g,about half a centimetre above the top of the telephone box,instruct
+validation,q4nc6.txt,g,okay,align
+validation,q4nc6.txt,f,right,acknowledge
+validation,q4nc6.txt,g,now this is where you've not got a thatched mud hut,explain
+validation,q4nc6.txt,f,oh,acknowledge
+validation,q4nc6.txt,g,eh you've got an east lake haven't you,query_yn
+validation,q4nc6.txt,f,aye,reply_y
+validation,q4nc6.txt,g,right uh-huh,reply_y
+validation,q4nc6.txt,f,away at the top,query_yn
+validation,q4nc6.txt,f,of the page yeah,reply_y
+validation,q4nc6.txt,g,eh well what you're wanting to do is you see the bottom of the east lake the the line that's going down sort of diagonally sort of,align
+validation,q4nc6.txt,f,uh-huh,reply_y
+validation,q4nc6.txt,f,the bottom right-hand corner,check
+validation,q4nc6.txt,g,uh-huh,reply_y
+validation,q4nc6.txt,g,"well you're wanting see the ""k"" of lake",align
+validation,q4nc6.txt,f,uh-huh,reply_y
+validation,q4nc6.txt,g,"you're wanting to end up just about half a centimetre away from the bottom of the lake itself but underneath the letter ""k""",instruct
+validation,q4nc6.txt,g,right,align
+validation,q4nc6.txt,f,right okay,reply_y
+validation,q4nc6.txt,g,but don't draw a straight diagonal line,instruct
+validation,q4nc6.txt,g,okay,align
+validation,q4nc6.txt,g,because you want to from where you are just now you're above the telephone box that right,align
+validation,q4nc6.txt,f,right,reply_y
+validation,q4nc6.txt,f,uh-huh i'm above the telephone box,reply_y
+validation,q4nc6.txt,g,you're wanting to sort of go it's a sort of curve aiming to the left and then going straight north,instruct
+validation,q4nc6.txt,g,"do you know what i mean it's like the left-hand side of a ""u"" or something like that right",align
+validation,q4nc6.txt,f,right,reply_y
+validation,q4nc6.txt,g,you're at the bottom of,instruct
+validation,q4nc6.txt,f,have have you got this,query_yn
+validation,q4nc6.txt,f,oh you've not got this level crossing on have you,check
+validation,q4nc6.txt,g,i've not got a level crossing no,reply_y
+validation,q4nc6.txt,f,right okay,acknowledge
+validation,q4nc6.txt,f,so whereabouts is this mud this thatched mud hut,query_w
+validation,q4nc6.txt,g,eh so you're,ready
+validation,q4nc6.txt,g,thatched mud hut it's directly above the telephone box at the moment,reply_w
+validation,q4nc6.txt,g,so that's what you're trying to avoid if you can imagine a thatched mud hut sort of halfway between the telephone box and the bottom right-hand corner of the east lake,instruct
+validation,q4nc6.txt,g,right you're sort of going left,reply_y
+validation,q4nc6.txt,f,right,acknowledge
+validation,q4nc6.txt,f,so i'm wanting to go left,check
+validation,q4nc6.txt,g,"and then north up to just below the ""k"" but on the don't go into the lake just stay outside it",clarify
+validation,q4nc6.txt,f,right okay,acknowledge
+validation,q4nc6.txt,f,i kind of right i see that's that there right,reply_y
+validation,q4nc6.txt,g,right,align
+validation,q4nc6.txt,g,do you sort of see where i'm going,align
+validation,q4nc6.txt,f,i know you're going,reply_y
+validation,q4nc6.txt,g,"so you should have a sort of a ""u"" shape there",instruct
+validation,q4nc6.txt,f,but i've got this stupid level crossing,explain
+validation,q4nc6.txt,g,oh forget it oh you can you can walk across that,instruct
+validation,q4nc6.txt,f,right i'll just go up this side of it right,acknowledge
+validation,q4nc6.txt,f,i think i've missed it,reply_w
+validation,q4nc6.txt,g,right,align
+validation,q4nc6.txt,g,right okay,align
+validation,q4nc6.txt,f,right,reply_y
+validation,q4nc6.txt,g,and then you're so you're just underneath the bottom,align
+validation,q4nc6.txt,f,"i'm about i'm about under the ""k""",align
+validation,q4nc6.txt,g,right that's right,reply_y
+validation,q4nc6.txt,f,i'm not in the lake though,align
+validation,q4nc6.txt,g,that's right,reply_y
+validation,q4nc6.txt,g,just you know the bottom of the lake it's sort of going diagonally,align
+validation,q4nc6.txt,f,uh-huh,reply_y
+validation,q4nc6.txt,g,follow that the bottom of the lake right up keep about half a centimetre away from it and follow it up to the left,instruct
+validation,q4nc6.txt,g,right,ready
+validation,q4nc6.txt,g,to the bottom corner of the lake the pointy bit,instruct
+validation,q4nc6.txt,g,see it,align
+validation,q4nc6.txt,f,oh right this this is to the left this is towards the parked van,check
+validation,q4nc6.txt,g,have you got a pointy bit,query_yn
+validation,q4nc6.txt,g,yes this is aiming towards the parked van,reply_y
+validation,q4nc6.txt,f,right okay right okay,acknowledge
+validation,q4nc6.txt,g,so you're right under the bottom corner at the moment,align
+validation,q4nc6.txt,f,uh-huh,acknowledge
+validation,q4nc6.txt,f,right,reply_y
+validation,q4nc6.txt,g,and just continue that line for about another centimetre and that's the finish just in the exact same,instruct
+validation,q4nc6.txt,f,just below that wee bump,query_yn
+validation,q4nc6.txt,g,that's just below the wee bump that's it,reply_y
+validation,q4nc6.txt,f,right okay,acknowledge
+validation,q4nc6.txt,g,exactly,reply_y
+validation,q4nc6.txt,g,and that's it,explain
+validation,q4nc6.txt,f,right,acknowledge
+validation,q4nc6.txt,f,ah,acknowledge
+validation,q4nc6.txt,g,that's it very good,explain
+validation,q4nc6.txt,f,no problem,acknowledge
+validation,q4nc6.txt,g,that was that was a lot easier than the one with neil i'll tell you that,explain
+validation,q4nc6.txt,f,we're a team,acknowledge
+validation,q5ec7.txt,g,okay,align
+validation,q5ec7.txt,f,right,reply_y
+validation,q5ec7.txt,g,are you ready,align
+validation,q5ec7.txt,f,uh-huh,reply_y
+validation,q5ec7.txt,g,i'll just take this carefully,explain
+validation,q5ec7.txt,f,oh,acknowledge
+validation,q5ec7.txt,g,now you're starting at the top of the caravan park,instruct
+validation,q5ec7.txt,f,yeah,acknowledge
+validation,q5ec7.txt,g,okay,align
+validation,q5ec7.txt,f,uh-huh,reply_y
+validation,q5ec7.txt,g,you're turning you're going towards the outside of the map,instruct
+validation,q5ec7.txt,f,uh-huh,acknowledge
+validation,q5ec7.txt,f,what to the bit,check
+validation,q5ec7.txt,g,and you turn you're turning left around the caravan park,instruct
+validation,q5ec7.txt,f,right okay,acknowledge
+validation,q5ec7.txt,f,down,check
+validation,q5ec7.txt,g,so you so you should end up going down the map,instruct
+validation,q5ec7.txt,f,right,acknowledge
+validation,q5ec7.txt,g,with the caravan park on your left,instruct
+validation,q5ec7.txt,f,yeah,acknowledge
+validation,q5ec7.txt,g,okay you got that,align
+validation,q5ec7.txt,f,right,reply_y
+validation,q5ec7.txt,g,don't say right it confuses me,instruct
+validation,q5ec7.txt,f,okay,acknowledge
+validation,q5ec7.txt,g,eh you're just oh about an inch off the bottom of the map you turn left in towards the centre of the map,instruct
+validation,q5ec7.txt,f,right,acknowledge
+validation,q5ec7.txt,g,okay,align
+validation,q5ec7.txt,f,uh-huh,reply_y
+validation,q5ec7.txt,g,you keep going,instruct
+validation,q5ec7.txt,f,uh-huh,acknowledge
+validation,q5ec7.txt,g,for a couple of inches then you turn left again so you're going back up the map,instruct
+validation,q5ec7.txt,f,uh-huh right,acknowledge
+validation,q5ec7.txt,g,now you should see an old mill,align
+validation,q5ec7.txt,f,uh-huh,reply_y
+validation,q5ec7.txt,g,is that you keep that on your right-hand side,instruct
+validation,q5ec7.txt,f,right,acknowledge
+validation,q5ec7.txt,g,and you go round it keeping it always on your right-hand side,instruct
+validation,q5ec7.txt,f,right,acknowledge
+validation,q5ec7.txt,g,so you go up past the side of it along the top,instruct
+validation,q5ec7.txt,f,uh-huh,acknowledge
+validation,q5ec7.txt,g,okay,align
+validation,q5ec7.txt,f,of the old mill,check
+validation,q5ec7.txt,g,of the old mill,reply_y
+validation,q5ec7.txt,g,now go at just a slight diagonal up towards the opposite side of the page,instruct
+validation,q5ec7.txt,f,uh-huh,acknowledge
+validation,q5ec7.txt,f,right,acknowledge
+validation,q5ec7.txt,g,okay,align
+validation,q5ec7.txt,g,now do you see a fenced meadow,query_yn
+validation,q5ec7.txt,f,uh-huh,reply_y
+validation,q5ec7.txt,g,well that above the fenced meadow you turn up the page,instruct
+validation,q5ec7.txt,f,right,acknowledge
+validation,q5ec7.txt,f,uh-huh,acknowledge
+validation,q5ec7.txt,g,okay,align
+validation,q5ec7.txt,g,now do you see the abandoned cottage,query_yn
+validation,q5ec7.txt,f,right,reply_y
+validation,q5ec7.txt,f,uh-huh,reply_y
+validation,q5ec7.txt,g,you go around the abandoned cottage keeping it always on your left-hand side so you go up past the abandoned cottage along the roof back down the other side of it,instruct
+validation,q5ec7.txt,f,uh-huh,acknowledge
+validation,q5ec7.txt,g,and turn right,instruct
+validation,q5ec7.txt,f,okay,acknowledge
+validation,q5ec7.txt,g,okay,align
+validation,q5ec7.txt,g,do you come to another fenced meadow,query_yn
+validation,q5ec7.txt,f,does that not,check
+validation,q5ec7.txt,f,i'm going to be crossing my path,explain
+validation,q5ec7.txt,f,see when it see when you said the abandoned cottage,align
+validation,q5ec7.txt,g,yes,reply_y
+validation,q5ec7.txt,f,"so you go round the the side of the abandoned cottage where the ""a"" of the abandoned is",check
+validation,q5ec7.txt,g,yeah,reply_y
+validation,q5ec7.txt,g,no,reply_n
+validation,q5ec7.txt,g,you're round the other,explain
+validation,q5ec7.txt,f,the other side oh dear,acknowledge
+validation,q5ec7.txt,g,the abandoned cottage should always be on your left,explain
+validation,q5ec7.txt,f,right so my left,acknowledge
+validation,q5ec7.txt,g,well left is you wouldnae be on the map,explain
+validation,q5ec7.txt,f,okay right okay,acknowledge
+validation,q5ec7.txt,g,so you've now went round one side of the cottage,align
+validation,q5ec7.txt,f,uh-huh,reply_y
+validation,q5ec7.txt,g,along the roof of the cottage,align
+validation,q5ec7.txt,f,uh-huh,reply_y
+validation,q5ec7.txt,g,and down the other side of the cottage okay,align
+validation,q5ec7.txt,f,yeah,reply_y
+validation,q5ec7.txt,f,okay,reply_y
+validation,q5ec7.txt,g,now you turn to your right which will take you towards the outside of the page,instruct
+validation,q5ec7.txt,f,what the start side of the page,check
+validation,q5ec7.txt,g,yes,reply_y
+validation,q5ec7.txt,f,right,acknowledge
+validation,q5ec7.txt,g,now do you see a fenced meadow,query_yn
+validation,q5ec7.txt,f,no i don't have one,reply_n
+validation,q5ec7.txt,g,okay,acknowledge
+validation,q5ec7.txt,g,well you see where your start position is,align
+validation,q5ec7.txt,f,uh-huh,reply_y
+validation,q5ec7.txt,g,well be a couple of centimetres in,instruct
+validation,q5ec7.txt,f,right,acknowledge
+validation,q5ec7.txt,g,on that same line you go up towards a lake,instruct
+validation,q5ec7.txt,f,yeah,acknowledge
+validation,q5ec7.txt,g,okay,align
+validation,q5ec7.txt,g,up towards the lake,instruct
+validation,q5ec7.txt,f,uh-huh,acknowledge
+validation,q5ec7.txt,g,you go around the lake keeping the lake on your left-hand side,instruct
+validation,q5ec7.txt,g,now do you see a trig point,query_yn
+validation,q5ec7.txt,f,no i don't have one,reply_n
+validation,q5ec7.txt,g,okay,acknowledge
+validation,q5ec7.txt,g,do you see the bulge at the top of the lake,query_yn
+validation,q5ec7.txt,f,i've got two bulges,explain
+validation,q5ec7.txt,f,is that one called west lake or does it not have a name,check
+validation,q5ec7.txt,g,er er yes it's west lake,reply_y
+validation,q5ec7.txt,f,right,acknowledge
+validation,q5ec7.txt,g,okay,align
+validation,q5ec7.txt,f,okay,reply_y
+validation,q5ec7.txt,g,now you see the west lake has two i suppose you'd call them fingers,align
+validation,q5ec7.txt,g,pointing up towards the top corner of the page,align
+validation,q5ec7.txt,f,uh-huh,reply_y
+validation,q5ec7.txt,f,yeah,reply_y
+validation,q5ec7.txt,f,right,acknowledge
+validation,q5ec7.txt,g,well at at the finger closest to the middle of the page okay,instruct
+validation,q5ec7.txt,f,right okay,acknowledge
+validation,q5ec7.txt,g,at the end of it you turn in to the right okay,instruct
+validation,q5ec7.txt,f,uh-huh,acknowledge
+validation,q5ec7.txt,g,got that,align
+validation,q5ec7.txt,f,right uh-huh,reply_y
+validation,q5ec7.txt,g,now you're going down diagonally down the page towards the monument,instruct
+validation,q5ec7.txt,f,right okay so that's right,acknowledge
+validation,q5ec7.txt,g,right,align
+validation,q5ec7.txt,g,you skip you go round the monument keeping the monument on your left-hand side so you go,instruct
+validation,q5ec7.txt,f,towards the edge of the page,check
+validation,q5ec7.txt,g,page,reply_y
+validation,q5ec7.txt,g,you go in below the monument,instruct
+validation,q5ec7.txt,f,right,acknowledge
+validation,q5ec7.txt,g,around the monument,instruct
+validation,q5ec7.txt,f,right,acknowledge
+validation,q5ec7.txt,g,so you come up again on the vertical,instruct
+validation,q5ec7.txt,f,right,acknowledge
+validation,q5ec7.txt,g,going towards the east lake,instruct
+validation,q5ec7.txt,f,right,acknowledge
+validation,q5ec7.txt,g,okay,align
+validation,q5ec7.txt,g,up towards the east lake,instruct
+validation,q5ec7.txt,f,uh-huh,acknowledge
+validation,q5ec7.txt,g,you stop on the shores turn back in towards the middle of the page,instruct
+validation,q5ec7.txt,f,uh-huh,acknowledge
+validation,q5ec7.txt,g,and that should be you just about a centimetre or so past the finish past the east lake,instruct
+validation,q5ec7.txt,f,right okay,acknowledge
+validation,q5ec7.txt,g,okay,align
+validation,q5ec7.txt,f,that's it finished,check
+validation,q5ec7.txt,g,that's it,reply_y
+validation,q5ec7.txt,f,fine,acknowledge
+validation,q5ec7.txt,g,okay,acknowledge
+validation,q5nc8.txt,g,right,ready
+validation,q5nc8.txt,g,do you see the start point above the stony desert,align
+validation,q5nc8.txt,f,aye,reply_y
+validation,q5nc8.txt,f,aye,reply_y
+validation,q5nc8.txt,g,ehm heading towards the left for about two centimetres 'til you reach s-- above a-- equal to the end of the stony desert,instruct
+validation,q5nc8.txt,f,aye right,acknowledge
+validation,q5nc8.txt,g,ehm then start sloping downwards to the left,instruct
+validation,q5nc8.txt,f,right,acknowledge
+validation,q5nc8.txt,g,towards the bottom so you should be about an inch from the top from the bottom of the page,instruct
+validation,q5nc8.txt,f,right,acknowledge
+validation,q5nc8.txt,g,do you see the site of the plane crash,query_yn
+validation,q5nc8.txt,f,no,reply_n
+validation,q5nc8.txt,g,no,acknowledge
+validation,q5nc8.txt,f,oh yeah i do,reply_y
+validation,q5nc8.txt,f,right up at the top,check
+validation,q5nc8.txt,g,oh,reply_n
+validation,q5nc8.txt,g,no no,reply_n
+validation,q5nc8.txt,f,no you must have another one,explain
+validation,q5nc8.txt,g,right okay ehm,ready
+validation,q5nc8.txt,g,he-- keep heading towards the le-- in a straight line towards the l-- the left of the page 'til you're about ehm an inch and a half away from the the left the far left-hand side of the page,instruct
+validation,q5nc8.txt,f,right,acknowledge
+validation,q5nc8.txt,g,and then start sloping up,instruct
+validation,q5nc8.txt,g,do you see the collapsed shelter,query_yn
+validation,q5nc8.txt,f,mmhmm,reply_y
+validation,q5nc8.txt,g,right ehm,ready
+validation,q5nc8.txt,g,if you start sloping upwards slightly towards the right 'til you're about parallel with the top of the collapsed shelter but still oh about an inch and a half from the left-hand side of the page,instruct
+validation,q5nc8.txt,f,right,acknowledge
+validation,q5nc8.txt,g,so that should be about three and a half inches,instruct
+validation,q5nc8.txt,f,mmhmm,acknowledge
+validation,q5nc8.txt,g,right,ready
+validation,q5nc8.txt,g,so then start heading towards the right of the page ehm over the top of the collapsed shelter about three inches,instruct
+validation,q5nc8.txt,f,right,acknowledge
+validation,q5nc8.txt,g,ehm so you should be just at about the end of the collapsed shelter,align
+validation,q5nc8.txt,f,aye,reply_y
+validation,q5nc8.txt,g,right so go down to just down the side of the the down the right-hand side of the collapsed shelter 'til you're equal with about the bottom of it,instruct
+validation,q5nc8.txt,f,right,acknowledge
+validation,q5nc8.txt,g,now,ready
+validation,q5nc8.txt,g,do you see the savannah,query_yn
+validation,q5nc8.txt,f,aye,reply_y
+validation,q5nc8.txt,g,right ehm,ready
+validation,q5nc8.txt,g,it should be about if you s-- a slight slope upwards to the bottom of the savannah it should be about three inches,instruct
+validation,q5nc8.txt,f,aye,acknowledge
+validation,q5nc8.txt,g,right,ready
+validation,q5nc8.txt,g,so if you just head up towards the bottom of the savannah,instruct
+validation,q5nc8.txt,f,right,acknowledge
+validation,q5nc8.txt,g,not underneath it though,instruct
+validation,q5nc8.txt,f,right,acknowledge
+validation,q5nc8.txt,g,right mm,ready
+validation,q5nc8.txt,g,do you see the slate mountain,query_yn
+validation,q5nc8.txt,f,no,reply_n
+validation,q5nc8.txt,g,no ehm never mind,acknowledge
+validation,q5nc8.txt,g,ehm once you get to the side of the s-- head up the left-hand side of the savannah about four inches,instruct
+validation,q5nc8.txt,f,right,acknowledge
+validation,q5nc8.txt,g,ehm now about an inch and a half back to the left,instruct
+validation,q5nc8.txt,f,right,acknowledge
+validation,q5nc8.txt,g,ehm do you see the hot wells,query_yn
+validation,q5nc8.txt,f,hot springs,check
+validation,q5nc8.txt,g,hot springs yeah,reply_y
+validation,q5nc8.txt,f,aye,reply_y
+validation,q5nc8.txt,g,ehm from from where you are at the moment to about the bottom of the hot springs in a sort of d-- if you slope towards the bottom in a d-- uh the middle halfway you know underneath the middle of them about like a forty-five degree line,instruct
+validation,q5nc8.txt,f,aye right,acknowledge
+validation,q5nc8.txt,f,right,acknowledge
+validation,q5nc8.txt,g,right,ready
+validation,q5nc8.txt,g,and now go to the left about an inch just un-- so that you're going under the hot wells,instruct
+validation,q5nc8.txt,f,right,acknowledge
+validation,q5nc8.txt,g,then,ready
+validation,q5nc8.txt,g,another sort of diagonal slope downwards but ehm slightly steeper than forty-five degree line,instruct
+validation,q5nc8.txt,g,forty-five degrees for about an inch,instruct
+validation,q5nc8.txt,f,aye,acknowledge
+validation,q5nc8.txt,f,right,acknowledge
+validation,q5nc8.txt,g,ehm,ready
+validation,q5nc8.txt,g,right,ready
+validation,q5nc8.txt,g,then ehm,ready
+validation,q5nc8.txt,g,do you see the white mountain,query_yn
+validation,q5nc8.txt,f,mmhmm,reply_y
+validation,q5nc8.txt,g,right,ready
+validation,q5nc8.txt,g,well you want to curve up towards it but making where from where you are now so that it looks like the bottom of a basin curving up to the side of the white mountains it's about six or seven inches maybe not as much as that,instruct
+validation,q5nc8.txt,f,right i think so,acknowledge
+validation,q5nc8.txt,f,where is it i need to end up the left or the right side of the white mountain,query_w
+validation,q5nc8.txt,g,ehm the left,reply_w
+validation,q5nc8.txt,f,right,acknowledge
+validation,q5nc8.txt,g,mm,ready
+validation,q5nc8.txt,g,so go up the left-hand side of the mountain as if you were climbing it,instruct
+validation,q5nc8.txt,f,right,acknowledge
+validation,q5nc8.txt,g,and then ehm,ready
+validation,q5nc8.txt,g,head upwards straight in a straight line to about two and a half inches,instruct
+validation,q5nc8.txt,f,past the round rocks,check
+validation,q5nc8.txt,g,ehm well yeah i don't have that so,explain
+validation,q5nc8.txt,f,right,acknowledge
+validation,q5nc8.txt,g,just keep going straight up,clarify
+validation,q5nc8.txt,g,ehm uh do you see the lake,query_yn
+validation,q5nc8.txt,f,uh-huh,reply_y
+validation,q5nc8.txt,g,right,ready
+validation,q5nc8.txt,g,if you start heading towards the lake in a straight line about three in-- just about three inches 'til you get to the the edge of the lake,instruct
+validation,q5nc8.txt,f,right,acknowledge
+validation,q5nc8.txt,g,then you're going round the lake in a clockwise direction,instruct
+validation,q5nc8.txt,f,right,acknowledge
+validation,q5nc8.txt,g,but not right round it,instruct
+validation,q5nc8.txt,f,uh-huh,acknowledge
+validation,q5nc8.txt,g,do you see the roman baths,query_yn
+validation,q5nc8.txt,f,nope,reply_n
+validation,q5nc8.txt,g,no eh never mind,acknowledge
+validation,q5nc8.txt,g,ehm just come round the lake and then as if you were heading back to the left-hand side of the page but but just if you just stop where you're parallel to where you started going round the lake about an inch down from there,instruct
+validation,q5nc8.txt,f,ah right aye right got you,acknowledge
+validation,q5nc8.txt,g,right,ready
+validation,q5nc8.txt,g,and then do you see the where the antelopes are,query_yn
+validation,q5nc8.txt,f,uh-huh,reply_y
+validation,q5nc8.txt,g,if you just head down about three or four inches straight down and go down the left-hand side of them,instruct
+validation,q5nc8.txt,f,the left-hand side,check
+validation,q5nc8.txt,g,yeah,reply_y
+validation,q5nc8.txt,f,right,acknowledge
+validation,q5nc8.txt,g,uh-huh,reply_y
+validation,q5nc8.txt,g,just keep going straight down,clarify
+validation,q5nc8.txt,g,and then,ready
+validation,q5nc8.txt,g,so you should be just underneath the antelope,align
+validation,q5nc8.txt,f,mmhmm,reply_y
+validation,q5nc8.txt,g,then just,ready
+validation,q5nc8.txt,g,go in a straight line towards the right about two inches and that's your finishing point,instruct
+validation,q5nc8.txt,f,right,acknowledge
+validation,q5nc8.txt,f,that's it,check
+validation,q5nc8.txt,g,yeah,reply_y
+validation,q6ec2.txt,g,um are you at the start,query_yn
+validation,q6ec2.txt,g,um move downwards on the map so that the telephone kiosk you're to the left of the telephone kiosk,instruct
+validation,q6ec2.txt,f,right,acknowledge
+validation,q6ec2.txt,g,and continue to move downwards until you are level with the stone circle,instruct
+validation,q6ec2.txt,f,i haven't got a stone circle,explain
+validation,q6ec2.txt,g,you don't have a stone circle,check
+validation,q6ec2.txt,f,no,reply_n
+validation,q6ec2.txt,g,okay,acknowledge
+validation,q6ec2.txt,g,do you have a stone circle on the map at all,query_yn
+validation,q6ec2.txt,f,um i have a ruined monastery,reply_w
+validation,q6ec2.txt,g,fine,acknowledge
+validation,q6ec2.txt,g,um do you have any obstacle below the telephone kiosk,query_yn
+validation,q6ec2.txt,f,a broken gate and a meadow,reply_w
+validation,q6ec2.txt,g,a,acknowledge
+validation,q6ec2.txt,g,a broken gate,acknowledge
+validation,q6ec2.txt,g,directly below the telephone kiosk,query_yn
+validation,q6ec2.txt,f,oh not directly below no,reply_n
+validation,q6ec2.txt,g,do you have anything directly below the telephone kiosk no,check
+validation,q6ec2.txt,g,move downwards,instruct
+validation,q6ec2.txt,f,mmhmm,acknowledge
+validation,q6ec2.txt,g,until move completely move downwards until you're almost at the bottom of the paper,instruct
+validation,q6ec2.txt,f,right,acknowledge
+validation,q6ec2.txt,f,will i not fall over broken stones,query_yn
+validation,q6ec2.txt,g,uh-huh,reply_y
+validation,q6ec2.txt,g,are you downwards until you're almost at the bottom of the paper,align
+validation,q6ec2.txt,f,yep,reply_y
+validation,q6ec2.txt,g,then move right along not for if you want it in inches about four inches,instruct
+validation,q6ec2.txt,f,have you got a meadow,query_yn
+validation,q6ec2.txt,g,yeah,reply_y
+validation,q6ec2.txt,g,but that's farther along,explain
+validation,q6ec2.txt,g,not that far along,instruct
+validation,q6ec2.txt,f,not that far along,acknowledge
+validation,q6ec2.txt,f,to about the middle,check
+validation,q6ec2.txt,g,no no no no no,reply_n
+validation,q6ec2.txt,g,move when you have gone down from the telephone kiosk and you're almost at the bottom of the paper,clarify
+validation,q6ec2.txt,f,mmhmm mmhmm,acknowledge
+validation,q6ec2.txt,g,move in inches about three inches along the map,clarify
+validation,q6ec2.txt,f,right okay,acknowledge
+validation,q6ec2.txt,g,okay,align
+validation,q6ec2.txt,f,okay,reply_y
+validation,q6ec2.txt,g,now move,instruct
+validation,q6ec2.txt,g,do you have a farmer's gate upwards from where you are at the moment,query_yn
+validation,q6ec2.txt,f,mm yeah,reply_y
+validation,q6ec2.txt,f,it's broken,explain
+validation,q6ec2.txt,g,broken yeah,acknowledge
+validation,q6ec2.txt,g,but it says farmer's gate or does it say broken gate,query_w
+validation,q6ec2.txt,f,no,reply_n
+validation,q6ec2.txt,f,it says broken gate aye,explain
+validation,q6ec2.txt,g,okay fine,acknowledge
+validation,q6ec2.txt,g,move upwards so that you're to the left of the broken gate,instruct
+validation,q6ec2.txt,f,i'm too far along here,explain
+validation,q6ec2.txt,g,and just level to the gatepost,instruct
+validation,q6ec2.txt,f,so you want me to the left of the gate,check
+validation,q6ec2.txt,g,to the gate yeah,reply_y
+validation,q6ec2.txt,f,i'll have to go back a bit now then,explain
+validation,q6ec2.txt,g,yeah,acknowledge
+validation,q6ec2.txt,g,well i wasn't sure about the distance,explain
+validation,q6ec2.txt,f,okay,acknowledge
+validation,q6ec2.txt,g,okay,ready
+validation,q6ec2.txt,g,now you are at the left of the gatepost,align
+validation,q6ec2.txt,f,mmhmm,reply_y
+validation,q6ec2.txt,g,and if you see what i mean standing at the top of it yeah ehm,align
+validation,q6ec2.txt,f,do you want me to go through the gate,query_yn
+validation,q6ec2.txt,g,no,reply_n
+validation,q6ec2.txt,f,oh okay,acknowledge
+validation,q6ec2.txt,g,ah if as long as you're um next to the gatepost to the left that's fine,instruct
+validation,q6ec2.txt,f,mmhmm,acknowledge
+validation,q6ec2.txt,g,um now,ready
+validation,q6ec2.txt,g,on this map if you were to move upwards slightly and to the right and then once you'd moved to the right 'til about three quarters along the paper,explain
+validation,q6ec2.txt,f,mmhmm,acknowledge
+validation,q6ec2.txt,g,and then move upwards,explain
+validation,q6ec2.txt,f,uh-huh,acknowledge
+validation,q6ec2.txt,g,you would come to a ruined monastery,explain
+validation,q6ec2.txt,f,uh-huh,acknowledge
+validation,q6ec2.txt,g,is that the same,query_yn
+validation,q6ec2.txt,f,yeah,reply_y
+validation,q6ec2.txt,f,have you got a youth hostel,query_yn
+validation,q6ec2.txt,g,no,reply_n
+validation,q6ec2.txt,f,oh,acknowledge
+validation,q6ec2.txt,g,okay,align
+validation,q6ec2.txt,f,well,ready
+validation,q6ec2.txt,f,if i go up and right i come to a youth hostel before i come to a ruined monastery,explain
+validation,q6ec2.txt,g,yeah,ready
+validation,q6ec2.txt,g,well it doesn't exist on mine so,explain
+validation,q6ec2.txt,f,is that okay,query_yn
+validation,q6ec2.txt,f,i can go via the,explain
+validation,q6ec2.txt,g,you just have to move round okay,instruct
+validation,q6ec2.txt,g,you just you just have to move round okay now move,instruct
+validation,q6ec2.txt,f,okay,acknowledge
+validation,q6ec2.txt,g,right,ready
+validation,q6ec2.txt,g,i'll explain what to do before you do it,explain
+validation,q6ec2.txt,g,but on your map you'll have to avoid the youth hostel,instruct
+validation,q6ec2.txt,f,why,query_w
+validation,q6ec2.txt,g,because i don't have one on mine,reply_w
+validation,q6ec2.txt,f,well,ready
+validation,q6ec2.txt,f,can i not go through it anyway,query_yn
+validation,q6ec2.txt,f,it's not going to eat me,explain
+validation,q6ec2.txt,g,don't you think,query_yn
+validation,q6ec2.txt,f,it might,reply_w
+validation,q6ec2.txt,g,anyway,ready
+validation,q6ec2.txt,g,okay eh,ready
+validation,q6ec2.txt,g,i'll just relay mine,explain
+validation,q6ec2.txt,g,okay,align
+validation,q6ec2.txt,f,am i supposed to go through this gate,query_yn
+validation,q6ec2.txt,g,now you're at,align
+validation,q6ec2.txt,g,you're at the broken gate,align
+validation,q6ec2.txt,f,yeah,reply_y
+validation,q6ec2.txt,f,do i,query_yn
+validation,q6ec2.txt,g,don't move through the broken gate,reply_n
+validation,q6ec2.txt,f,why not,query_w
+validation,q6ec2.txt,f,do i have to climb the wall,query_yn
+validation,q6ec2.txt,g,'cause i don't,reply_w
+validation,q6ec2.txt,f,oh,acknowledge
+validation,q6ec2.txt,g,okay,align
+validation,q6ec2.txt,f,okay,reply_y
+validation,q6ec2.txt,g,so,ready
+validation,q6ec2.txt,g,what does your obstacle look like,query_w
+validation,q6ec2.txt,f,what obstacle,query_w
+validation,q6ec2.txt,g,the gate,reply_w
+validation,q6ec2.txt,g,what's it look like,query_w
+validation,q6ec2.txt,f,no gate,check
+validation,q6ec2.txt,f,well,ready
+validation,q6ec2.txt,f,it's like a wall and then it's like a gate which is broken,reply_w
+validation,q6ec2.txt,g,so it's it's basically two posts with a broken gate,check
+validation,q6ec2.txt,f,if i don't go through the gate i have to,explain
+validation,q6ec2.txt,f,uh-huh,reply_y
+validation,q6ec2.txt,g,okay,ready
+validation,q6ec2.txt,g,and you're standing to the left of the left-hand post,align
+validation,q6ec2.txt,f,mmhmm,reply_y
+validation,q6ec2.txt,f,by the wall,explain
+validation,q6ec2.txt,g,yep well,ready
+validation,q6ec2.txt,g,move up until you're slightly clear of the gatepost if you see what i mean,instruct
+validation,q6ec2.txt,f,right,ready
+validation,q6ec2.txt,f,shall i jump over the wall,check
+validation,q6ec2.txt,g,no,reply_n
+validation,q6ec2.txt,g,i didn't realise that there was a wall,explain
+validation,q6ec2.txt,g,mine doesn't have a wall,explain
+validation,q6ec2.txt,f,oh mine does,explain
+validation,q6ec2.txt,g,okay,ready
+validation,q6ec2.txt,g,well just,reply_y
+validation,q6ec2.txt,g,basically jump over the wall yeah,reply_y
+validation,q6ec2.txt,f,okay jumped,acknowledge
+validation,q6ec2.txt,g,okay,ready
+validation,q6ec2.txt,g,now move right,instruct
+validation,q6ec2.txt,f,right okay,acknowledge
+validation,q6ec2.txt,g,and move along to about three quarters along the way of the paper,instruct
+validation,q6ec2.txt,f,three quarters,acknowledge
+validation,q6ec2.txt,f,okay i'll go that side okay,acknowledge
+validation,q6ec2.txt,g,now,ready
+validation,q6ec2.txt,g,on my map if you were to move straight up until slightly higher than halfway up the paper,instruct
+validation,q6ec2.txt,f,mmhmm,acknowledge
+validation,q6ec2.txt,f,here's a ruined monastery,explain
+validation,q6ec2.txt,g,there's a ruined monastery,acknowledge
+validation,q6ec2.txt,f,okey-dokey,acknowledge
+validation,q6ec2.txt,g,now,ready
+validation,q6ec2.txt,g,move around the ruined monastery to the left,instruct
+validation,q6ec2.txt,f,to the left mmhmm,acknowledge
+validation,q6ec2.txt,g,and then move,instruct
+validation,q6ec2.txt,g,do you have any obstacles between the monastery and the lake,query_yn
+validation,q6ec2.txt,f,um not directly no,reply_n
+validation,q6ec2.txt,g,the lake is slightly the lake is lower down the lake is lower down than the monastery is,explain
+validation,q6ec2.txt,f,is it,check
+validation,q6ec2.txt,g,it is on this one yeah,reply_y
+validation,q6ec2.txt,f,oh well my lake's in the top right-hand corner,explain
+validation,q6ec2.txt,g,oh i see,acknowledge
+validation,q6ec2.txt,g,i have a west lake which is on the east actually but never mind,explain
+validation,q6ec2.txt,f,oh i have an east lake,explain
+validation,q6ec2.txt,g,yeah okay,acknowledge
+validation,q6ec2.txt,g,do you have a stile,query_yn
+validation,q6ec2.txt,f,yes,reply_y
+validation,q6ec2.txt,g,you do have a stile,check
+validation,q6ec2.txt,f,i have a stile,reply_y
+validation,q6ec2.txt,g,now is the,query_yn
+validation,q6ec2.txt,f,it's above the monastery,explain
+validation,q6ec2.txt,g,it's,query_w
+validation,q6ec2.txt,f,above the monastery,clarify
+validation,q6ec2.txt,g,it's above and to the left of the monastery,check
+validation,q6ec2.txt,f,yeah,reply_y
+validation,q6ec2.txt,g,okay,ready
+validation,q6ec2.txt,g,now move over the top of the monastery if you see what i mean in relation to the paper,instruct
+validation,q6ec2.txt,f,oh i've just moved underneath,explain
+validation,q6ec2.txt,g,no no well,reply_n
+validation,q6ec2.txt,g,go back and move over the top,instruct
+validation,q6ec2.txt,f,okay right okey-dokey,acknowledge
+validation,q6ec2.txt,g,and then move left and upwards 'til you come to the stile,instruct
+validation,q6ec2.txt,g,i'm not sure how that's going to affect your lake,explain
+validation,q6ec2.txt,f,what on a diagonal,query_yn
+validation,q6ec2.txt,g,well,ready
+validation,q6ec2.txt,g,you could move you could move around and down in a sort of circular if you like you don't have to move diagonally,reply_w
+validation,q6ec2.txt,f,well,ready
+validation,q6ec2.txt,f,it's the easiest way,explain
+validation,q6ec2.txt,g,yeah i suppose,acknowledge
+validation,q6ec2.txt,f,shorter,explain
+validation,q6ec2.txt,g,i suppose,acknowledge
+validation,q6ec2.txt,g,don't tire yourself out erm,instruct
+validation,q6ec2.txt,g,now move,ready
+validation,q6ec2.txt,g,directly upwards until you're clear of the stile much the same way as you did with the gate,instruct
+validation,q6ec2.txt,f,mmhmm,acknowledge
+validation,q6ec2.txt,f,jumping over the fence,explain
+validation,q6ec2.txt,g,yeah,acknowledge
+validation,q6ec2.txt,g,and then move,instruct
+validation,q6ec2.txt,g,do you have any obstacles between the stile and the dead tree,query_yn
+validation,q6ec2.txt,g,do you have a dead tree,query_yn
+validation,q6ec2.txt,f,i have no,reply_n
+validation,q6ec2.txt,g,no,acknowledge
+validation,q6ec2.txt,f,i have a,explain
+validation,q6ec2.txt,g,in relation to the,explain
+validation,q6ec2.txt,f,dutch elm if that's any good,explain
+validation,q6ec2.txt,g,so where are you at the moment,query_w
+validation,q6ec2.txt,f,i'm above the stile,reply_w
+validation,q6ec2.txt,g,above the stile that's fine,acknowledge
+validation,q6ec2.txt,g,now,ready
+validation,q6ec2.txt,g,if level with the stile on the extreme right-hand side there's a dead tree,explain
+validation,q6ec2.txt,f,mmhmm,acknowledge
+validation,q6ec2.txt,f,well,ready
+validation,q6ec2.txt,f,i've got a dutch elm,explain
+validation,q6ec2.txt,g,well,ready
+validation,q6ec2.txt,g,that's dead isn't it,query_yn
+validation,q6ec2.txt,f,not necessarily,reply_n
+validation,q6ec2.txt,g,why,query_w
+validation,q6ec2.txt,f,it might not have had dutch elm disease,reply_w
+validation,q6ec2.txt,g,it wouldn't be a dutch elm then,explain
+validation,q6ec2.txt,g,fine okay you've got a tree,acknowledge
+validation,q6ec2.txt,f,okay,ready
+validation,q6ec2.txt,f,yes,reply_y
+validation,q6ec2.txt,f,i've got a tree,explain
+validation,q6ec2.txt,g,now,ready
+validation,q6ec2.txt,g,i'll just have to relay the route on the map,explain
+validation,q6ec2.txt,g,okay,align
+validation,q6ec2.txt,f,okay,reply_y
+validation,q6ec2.txt,g,move left from where you are at the moment so that you're above the stile but stop when you get past the stile,instruct
+validation,q6ec2.txt,f,yeah,acknowledge
+validation,q6ec2.txt,g,okay ehm,ready
+validation,q6ec2.txt,f,i'm above the stile now,explain
+validation,q6ec2.txt,g,you're above the stile,acknowledge
+validation,q6ec2.txt,g,now move in a move right so that when you so that you stop just after the stile finishes,instruct
+validation,q6ec2.txt,g,you're bloody useless,explain
+validation,q6ec2.txt,f,i'm on the right of the stile anyway,explain
+validation,q6ec2.txt,g,are you,check
+validation,q6ec2.txt,f,yeah,reply_y
+validation,q6ec2.txt,g,why aren't you on the left of it,query_w
+validation,q6ec2.txt,f,well,ready
+validation,q6ec2.txt,f,i didn't go to the left of it,reply_w
+validation,q6ec2.txt,g,well,ready
+validation,q6ec2.txt,g,you ought to have gone to the left of it,instruct
+validation,q6ec2.txt,f,well,ready
+validation,q6ec2.txt,f,you didn't say,explain
+validation,q6ec2.txt,g,okay,ready
+validation,q6ec2.txt,g,i'm saying now,instruct
+validation,q6ec2.txt,f,so,ready
+validation,q6ec2.txt,f,you want me to go to the left and then back to the right again,check
+validation,q6ec2.txt,g,yeah,reply_y
+validation,q6ec2.txt,g,go to the left,clarify
+validation,q6ec2.txt,f,right okay,acknowledge
+validation,q6ec2.txt,g,okay,align
+validation,q6ec2.txt,g,then move upwards and to the right,clarify
+validation,q6ec2.txt,f,okay,acknowledge
+validation,q6ec2.txt,g,and stop when the stile stops,clarify
+validation,q6ec2.txt,f,okay,acknowledge
+validation,q6ec2.txt,g,okay,align
+validation,q6ec2.txt,f,i'm in exactly the same place as i was before when you going to,explain
+validation,q6ec2.txt,g,yeah i know,acknowledge
+validation,q6ec2.txt,g,but but at least you've gone round the stile,explain
+validation,q6ec2.txt,f,okay,acknowledge
+validation,q6ec2.txt,g,and there might be a monster who inhabits the right-hand of the stile you don't know,explain
+validation,q6ec2.txt,f,oh,ready
+validation,q6ec2.txt,f,well,acknowledge
+validation,q6ec2.txt,f,i've missed it now,explain
+validation,q6ec2.txt,g,now right,ready
+validation,q6ec2.txt,g,now move straight up until you're about three quarters,instruct
+validation,q6ec2.txt,f,what about this dead tree,query_w
+validation,q6ec2.txt,g,well,ready
+validation,q6ec2.txt,g,we're coming to that in a minute,reply_w
+validation,q6ec2.txt,f,okay right,acknowledge
+validation,q6ec2.txt,g,so,ready
+validation,q6ec2.txt,g,move three quarters upwards in relation,instruct
+validation,q6ec2.txt,f,three quarters of what upwards,query_w
+validation,q6ec2.txt,g,to the entire map,reply_w
+validation,q6ec2.txt,f,well,ready
+validation,q6ec2.txt,f,i'm about three quarters upwards anyway,explain
+validation,q6ec2.txt,g,well,ready
+validation,q6ec2.txt,f,a bit further upwards,acknowledge
+validation,q6ec2.txt,g,don't move very much then,instruct
+validation,q6ec2.txt,f,have you got a popular tourist spot,query_yn
+validation,q6ec2.txt,g,a poplar,query_w
+validation,q6ec2.txt,f,popular tourist spot,reply_w
+validation,q6ec2.txt,g,no,reply_n
+validation,q6ec2.txt,f,oh i have,explain
+validation,q6ec2.txt,f,shall i miss it out,query_yn
+validation,q6ec2.txt,g,well well,ready
+validation,q6ec2.txt,g,if the maps may not be the same presumably you're we're going to have to avoid these obstacles,reply_w
+validation,q6ec2.txt,f,mmhmm,acknowledge
+validation,q6ec2.txt,f,have you got a great viewpoint,query_yn
+validation,q6ec2.txt,g,yeah,align
+validation,q6ec2.txt,g,yeah,reply_y
+validation,q6ec2.txt,g,i've actually got two great viewpoints,explain
+validation,q6ec2.txt,f,oh i've only got one that's not fair,explain
+validation,q6ec2.txt,f,how far do i walk from where,query_w
+validation,q6ec2.txt,g,you can have my map if you want two i'm i'm not very keen on great viewpoints,explain
+validation,q6ec2.txt,f,okay,ready
+validation,q6ec2.txt,f,so do i go near the great viewpoint or not very far,query_w
+validation,q6ec2.txt,g,um ah,ready
+validation,q6ec2.txt,g,so the great viewpoint's in the way,check
+validation,q6ec2.txt,f,well,ready
+validation,q6ec2.txt,f,it's about sort of four inches up,reply_w
+validation,q6ec2.txt,g,four inches up and slightly to the left,check
+validation,q6ec2.txt,f,well,ready
+validation,q6ec2.txt,f,very very slightly,reply_y
+validation,q6ec2.txt,f,are we going to go to this tree afterwards,query_yn
+validation,q6ec2.txt,g,uh-huh,reply_y
+validation,q6ec2.txt,f,well,ready
+validation,q6ec2.txt,f,can i not go straight down because otherwise i'll have to go over the,query_yn
+validation,q6ec2.txt,g,where are you at the moment,query_w
+validation,q6ec2.txt,f,above the stile,reply_w
+validation,q6ec2.txt,g,above the stile,acknowledge
+validation,q6ec2.txt,g,on this map there's a a sort of a bump basically in in the route,explain
+validation,q6ec2.txt,f,bump like a like a hill,check
+validation,q6ec2.txt,g,yeah,reply_y
+validation,q6ec2.txt,g,no no no,reply_n
+validation,q6ec2.txt,g,well like a hill except yeah i suppose,reply_y
+validation,q6ec2.txt,f,yeah okay so,acknowledge
+validation,q6ec2.txt,g,what i mean by that is there's a bump in the route there isn't a bump on the map,explain
+validation,q6ec2.txt,f,okay,acknowledge
+validation,q6ec2.txt,f,i'll go right,ready
+validation,q6ec2.txt,f,i've gone i've gone further up,explain
+validation,q6ec2.txt,g,right,ready
+validation,q6ec2.txt,g,now move right and down in a sort of circular sweep until you get to the dead tree,instruct
+validation,q6ec2.txt,f,right,acknowledge
+validation,q6ec2.txt,f,to the tree,query_yn
+validation,q6ec2.txt,f,yay,acknowledge
+validation,q6ec2.txt,g,and then move around and,instruct
+validation,q6ec2.txt,f,what side of the tree do you want me to be on,query_w
+validation,q6ec2.txt,g,oh on the right side of the tree i want you to finish up on the right side of the tree,reply_w
+validation,q6ec2.txt,f,right okay,acknowledge
+validation,q6ec2.txt,g,then move up and left and up so that you're to the right of the great viewpoint when you finish,instruct
+validation,q6ec2.txt,f,okay,acknowledge
+validation,q6ec2.txt,g,assuming that your great viewpoint's in the same place as mine,explain
+validation,q6ec2.txt,f,oh i've got to be on the left hang on,check
+validation,q6ec2.txt,g,ah,acknowledge
+validation,q6ec2.txt,f,what,query_w
+validation,q6ec2.txt,g,i have two great viewpoints,reply_w
+validation,q6ec2.txt,f,oh,acknowledge
+validation,q6ec2.txt,g,okay tuba ehm,ready
+validation,q6ec2.txt,g,go back until you're right of the dead tree,instruct
+validation,q6ec2.txt,f,right i'm by the tree,acknowledge
+validation,q6ec2.txt,g,right,acknowledge
+validation,q6ec2.txt,g,do you have a lake to the top,query_yn
+validation,q6ec2.txt,f,i've an east lake,reply_w
+validation,q6ec2.txt,g,to the top that's fine,acknowledge
+validation,q6ec2.txt,g,now,ready
+validation,q6ec2.txt,g,below the east lake,explain
+validation,q6ec2.txt,f,uh-huh,acknowledge
+validation,q6ec2.txt,g,there's a great viewpoint as well,explain
+validation,q6ec2.txt,f,well i've got a rocket launch pad,explain
+validation,q6ec2.txt,g,well,ready
+validation,q6ec2.txt,g,that probably,explain
+validation,q6ec2.txt,f,same thing,explain
+validation,q6ec2.txt,g,similar,explain
+validation,q6ec2.txt,g,yeah,reply_y
+validation,q6ec2.txt,g,fine,ready
+validation,q6ec2.txt,g,so if you can move,instruct
+validation,q6ec2.txt,g,where is the rocket launch pad in relation to the lake,query_w
+validation,q6ec2.txt,f,erm it's beneath the lake on the right side,reply_w
+validation,q6ec2.txt,g,beneath the lake on the right side,check
+validation,q6ec2.txt,f,mmhmm,reply_y
+validation,q6ec2.txt,g,mm,acknowledge
+validation,q6ec2.txt,g,how can it be beneath the lake and on the right,query_w
+validation,q6ec2.txt,f,well,ready
+validation,q6ec2.txt,f,it's beneath the lake and a bit on the right edge of the lake rather than on the left edge of the lake,clarify
+validation,q6ec2.txt,g,nope,reply_n
+validation,q6ec2.txt,g,oh i see,acknowledge
+validation,q6ec2.txt,g,oh,acknowledge
+validation,q6ec2.txt,f,is that not it,query_yn
+validation,q6ec2.txt,g,well,ready
+validation,q6ec2.txt,g,the great viewpoint that i have is below the lake and if there was a midline through the lake it would be probably very slightly to the left of the midline,reply_w
+validation,q6ec2.txt,f,oh oh okay well,ready
+validation,q6ec2.txt,f,if i just go up say about by the edge of the lake where it's,explain
+validation,q6ec2.txt,g,if you go upwards and stop below the bottom of the lake so that you're about two thirds along the length of the lake,instruct
+validation,q6ec2.txt,f,mmhmm,acknowledge
+validation,q6ec2.txt,f,right,acknowledge
+validation,q6ec2.txt,f,okay,acknowledge
+validation,q6ec2.txt,g,okay,align
+validation,q6ec2.txt,f,right,reply_y
+validation,q6ec2.txt,g,now,ready
+validation,q6ec2.txt,g,if you move left and along the bottom of the lake until the lake finishes,instruct
+validation,q6ec2.txt,f,yeah hang on i've done this wrong,explain
+validation,q6ec2.txt,g,no,reply_n
+validation,q6ec2.txt,g,yeah,acknowledge
+validation,q6ec2.txt,f,right,ready
+validation,q6ec2.txt,f,i was underneath the tree,explain
+validation,q6ec2.txt,g,uh-huh,acknowledge
+validation,q6ec2.txt,f,and i've done a very squiggly line,explain
+validation,q6ec2.txt,g,yeah,acknowledge
+validation,q6ec2.txt,f,and i went up and along left and then up again,explain
+validation,q6ec2.txt,g,you went up,check
+validation,q6ec2.txt,f,and up and along and up,clarify
+validation,q6ec2.txt,g,up along to the left and then up,check
+validation,q6ec2.txt,f,uh-huh,reply_y
+validation,q6ec2.txt,f,and i'm about two thirds along the lake,explain
+validation,q6ec2.txt,g,from the left of the lake two thirds along,query_yn
+validation,q6ec2.txt,f,and,ready
+validation,q6ec2.txt,f,no,reply_n
+validation,q6ec2.txt,f,two thirds along from the right,explain
+validation,q6ec2.txt,g,i see,acknowledge
+validation,q6ec2.txt,g,no you want to be two thirds along from the left,instruct
+validation,q6ec2.txt,f,okay,ready
+validation,q6ec2.txt,f,so after the rocket launch,check
+validation,q6ec2.txt,g,yeah,reply_y
+validation,q6ec2.txt,f,okay,ready
+validation,q6ec2.txt,f,and then where do i go up to the lake and along left,query_w
+validation,q6ec2.txt,g,now,ready
+validation,q6ec2.txt,g,where you are from where you are at the moment if you were,instruct
+validation,q6ec2.txt,f,making a right pig's ear of this map,explain
+validation,q6ec2.txt,g,if you move,ready
+validation,q6ec2.txt,g,left and along the base of the lake,instruct
+validation,q6ec2.txt,f,okay,acknowledge
+validation,q6ec2.txt,f,okay all along right,acknowledge
+validation,q6ec2.txt,g,until the lake finishes,instruct
+validation,q6ec2.txt,f,well,ready
+validation,q6ec2.txt,f,the lake's quite long,explain
+validation,q6ec2.txt,g,yeah,acknowledge
+validation,q6ec2.txt,f,right okay,acknowledge
+validation,q6ec2.txt,g,now,ready
+validation,q6ec2.txt,g,you ought to be standing at the,instruct
+validation,q6ec2.txt,f,mmhmm,acknowledge
+validation,q6ec2.txt,f,do you want me to go down a bit,query_yn
+validation,q6ec2.txt,g,no,reply_n
+validation,q6ec2.txt,g,you ought to be standing,clarify
+validation,q6ec2.txt,g,if the lake continued down if the edge of the lake wasn't curved,align
+validation,q6ec2.txt,f,mm upwards,check
+validation,q6ec2.txt,g,yeah,reply_y
+validation,q6ec2.txt,f,mmhmm,reply_y
+validation,q6ec2.txt,g,then you ought to be standing at the extreme left edge of the lake,instruct
+validation,q6ec2.txt,f,yeah,acknowledge
+validation,q6ec2.txt,g,you are,check
+validation,q6ec2.txt,f,mmhmm,reply_y
+validation,q6ec2.txt,g,well,ready
+validation,q6ec2.txt,g,that's you finished,instruct
+validation,q6ec2.txt,f,oh,acknowledge
+validation,q6ec5.txt,g,okay ehm,ready
+validation,q6ec5.txt,g,are you starting above the missionary camp,query_yn
+validation,q6ec5.txt,f,missionary camp where's that,query_w
+validation,q6ec5.txt,g,the bottom right-hand corner,reply_w
+validation,q6ec5.txt,f,oh right yeah,reply_y
+validation,q6ec5.txt,g,right erm,ready
+validation,q6ec5.txt,g,have you got gorillas in the bottom left,query_yn
+validation,q6ec5.txt,f,no,reply_n
+validation,q6ec5.txt,f,i've got banana tree,explain
+validation,q6ec5.txt,g,right okay,ready
+validation,q6ec5.txt,g,well you want to go along to the end of the missionary camp left,instruct
+validation,q6ec5.txt,f,right,acknowledge
+validation,q6ec5.txt,g,and then down,instruct
+validation,q6ec5.txt,f,right,acknowledge
+validation,q6ec5.txt,g,to about four centimetres from the top of the page and then,instruct
+validation,q6ec5.txt,f,the bottom of the page you mean,check
+validation,q6ec5.txt,g,yeah,reply_y
+validation,q6ec5.txt,f,right,acknowledge
+validation,q6ec5.txt,g,and then go left,instruct
+validation,q6ec5.txt,f,mmhmm,acknowledge
+validation,q6ec5.txt,g,straight along until you get to the gorillas or the banana tree or whatever it is,instruct
+validation,q6ec5.txt,f,right,acknowledge
+validation,q6ec5.txt,g,and then up so that you're about,instruct
+validation,q6ec5.txt,g,have you got a rope bridge,query_yn
+validation,q6ec5.txt,f,mmhmm,reply_y
+validation,q6ec5.txt,g,well,ready
+validation,q6ec5.txt,g,you go up and then you turn right across the rope bridge,instruct
+validation,q6ec5.txt,f,right,acknowledge
+validation,q6ec5.txt,g,you go over the rope bridge and then you go down straight down a couple of centimetres,instruct
+validation,q6ec5.txt,f,mm,acknowledge
+validation,q6ec5.txt,g,have you got a waterfall,query_yn
+validation,q6ec5.txt,f,mmhmm,reply_y
+validation,q6ec5.txt,g,with water coming out of it yeah,query_yn
+validation,q6ec5.txt,f,yeah,reply_y
+validation,q6ec5.txt,g,well,ready
+validation,q6ec5.txt,g,if you just go sort of about an angle of ten degrees,instruct
+validation,q6ec5.txt,f,along the river,check
+validation,q6ec5.txt,g,oh i don't have a river,reply_w
+validation,q6ec5.txt,f,oh right,acknowledge
+validation,q6ec5.txt,g,about an angle of ten degrees along so that you come to the edge of the waterfall,instruct
+validation,q6ec5.txt,f,right,acknowledge
+validation,q6ec5.txt,g,about the bottom,instruct
+validation,q6ec5.txt,g,yeah,align
+validation,q6ec5.txt,f,uh-huh,reply_y
+validation,q6ec5.txt,g,then,ready
+validation,q6ec5.txt,g,do you have lost steps,query_yn
+validation,q6ec5.txt,f,yeah,reply_y
+validation,q6ec5.txt,f,way up the top of the page,check
+validation,q6ec5.txt,g,no,reply_n
+validation,q6ec5.txt,f,uh-huh,reply_n
+validation,q6ec5.txt,g,have you got fallen pillars,query_yn
+validation,q6ec5.txt,f,sort of in the middle,check
+validation,q6ec5.txt,g,yeah,reply_y
+validation,q6ec5.txt,f,mmhmm,reply_y
+validation,q6ec5.txt,g,well,ready
+validation,q6ec5.txt,f,to the left well to the left,check
+validation,q6ec5.txt,g,they should,explain
+validation,q6ec5.txt,g,above the rope bridge,check
+validation,q6ec5.txt,f,yeah,reply_y
+validation,q6ec5.txt,g,well,ready
+validation,q6ec5.txt,g,i've got some lost steps to the right of that,explain
+validation,q6ec5.txt,g,okay,align
+validation,q6ec5.txt,f,under the gazelles,query_yn
+validation,q6ec5.txt,f,you don't have gazelles,query_yn
+validation,q6ec5.txt,g,well yeah i do,reply_y
+validation,q6ec5.txt,g,but,ready
+validation,q6ec5.txt,g,just,ready
+validation,q6ec5.txt,g,between the rope bridge and the waterfall in line with the fallen pillars,explain
+validation,q6ec5.txt,f,between the rope bridge and the waterfall right okay,acknowledge
+validation,q6ec5.txt,g,so you want to come up from the waterfall,instruct
+validation,q6ec5.txt,f,mmhmm,acknowledge
+validation,q6ec5.txt,g,straight up,instruct
+validation,q6ec5.txt,f,straight up,check
+validation,q6ec5.txt,g,uh-huh,reply_y
+validation,q6ec5.txt,f,right,acknowledge
+validation,q6ec5.txt,g,'til you get,instruct
+validation,q6ec5.txt,f,to in line with the fallen pillars,query_yn
+validation,q6ec5.txt,g,to the top of them,instruct
+validation,q6ec5.txt,g,and then you go along,instruct
+validation,q6ec5.txt,f,mmhmm,acknowledge
+validation,q6ec5.txt,f,left,query_yn
+validation,q6ec5.txt,g,yeah,reply_y
+validation,q6ec5.txt,g,about four centimetres and then you curve down so that you're going underneath the fallen pillars,instruct
+validation,q6ec5.txt,f,right,acknowledge
+validation,q6ec5.txt,g,now you should be at the end of the fallen pillars,instruct
+validation,q6ec5.txt,f,right,acknowledge
+validation,q6ec5.txt,g,and you've to go down about four centimetres,instruct
+validation,q6ec5.txt,f,right,acknowledge
+validation,q6ec5.txt,g,and curve round along left,instruct
+validation,q6ec5.txt,f,to the left,query_yn
+validation,q6ec5.txt,f,do you have flamingoes,query_yn
+validation,q6ec5.txt,g,no but,reply_n
+validation,q6ec5.txt,f,well i do,explain
+validation,q6ec5.txt,g,so you go round them,instruct
+validation,q6ec5.txt,f,right,acknowledge
+validation,q6ec5.txt,f,and up,check
+validation,q6ec5.txt,g,well now,ready
+validation,q6ec5.txt,g,if you just sort of curve round until you're in line with the fallen pillars but you're still going sort of straight up if you know,instruct
+validation,q6ec5.txt,f,right,acknowledge
+validation,q6ec5.txt,g,what i mean,instruct
+validation,q6ec5.txt,g,and do you have ancient ruins,query_yn
+validation,q6ec5.txt,f,got a ruined city with three wee birds at the top,reply_w
+validation,q6ec5.txt,g,i think it's the same thing,explain
+validation,q6ec5.txt,g,ehm just sort of go about an angle of eighty degrees so that you're approaching that but you don't go into it you stick to the left-hand side of it,instruct
+validation,q6ec5.txt,f,right okay,acknowledge
+validation,q6ec5.txt,f,right,acknowledge
+validation,q6ec5.txt,g,until you reach there,instruct
+validation,q6ec5.txt,g,then in the top left there's some stones,explain
+validation,q6ec5.txt,f,top left of where,query_w
+validation,q6ec5.txt,g,of the map,reply_w
+validation,q6ec5.txt,f,no i don't,explain
+validation,q6ec5.txt,f,right,acknowledge
+validation,q6ec5.txt,g,well they're about four centimetres from the top,explain
+validation,q6ec5.txt,f,right,acknowledge
+validation,q6ec5.txt,g,so you've to go straight up from the ruins to about four centimetres from the top,instruct
+validation,q6ec5.txt,f,straight up up from the middle of the ruins or straight up from the left,query_w
+validation,q6ec5.txt,g,from about the left,reply_w
+validation,q6ec5.txt,f,right,acknowledge
+validation,q6ec5.txt,f,right,acknowledge
+validation,q6ec5.txt,g,and then you've to turn right,instruct
+validation,q6ec5.txt,f,mmhmm,acknowledge
+validation,q6ec5.txt,g,and you've got a white mountain,check
+validation,q6ec5.txt,f,mmhmm,reply_y
+validation,q6ec5.txt,g,to the left-hand side of the white mountain,instruct
+validation,q6ec5.txt,g,now go up one side and down the other,instruct
+validation,q6ec5.txt,g,and underneath the white mountain there's a soft furnishings store,explain
+validation,q6ec5.txt,f,mm don't have that,explain
+validation,q6ec5.txt,g,well,ready
+validation,q6ec5.txt,g,it's about the it's about three or four centimetres down from the white mountain,explain
+validation,q6ec5.txt,f,from the middle of it,query_yn
+validation,q6ec5.txt,g,uh-huh,reply_y
+validation,q6ec5.txt,g,it's about the same width,explain
+validation,q6ec5.txt,f,so like curving,check
+validation,q6ec5.txt,f,oh right i see,acknowledge
+validation,q6ec5.txt,g,ehm so if you come from the right-hand side of the mountain,instruct
+validation,q6ec5.txt,f,mmhmm,acknowledge
+validation,q6ec5.txt,g,along and you want to go over the soft furnishing store,instruct
+validation,q6ec5.txt,f,so,ready
+validation,q6ec5.txt,f,sort of diagonally between them both then,check
+validation,q6ec5.txt,g,well,ready
+validation,q6ec5.txt,g,you come down from mountain and curve round,clarify
+validation,q6ec5.txt,f,curve round the mountain,check
+validation,q6ec5.txt,f,to where,query_w
+validation,q6ec5.txt,f,the middle or the other end,query_yn
+validation,q6ec5.txt,g,the bottom of the mountain,reply_w
+validation,q6ec5.txt,g,until you get to the left-hand side of the white mountain,instruct
+validation,q6ec5.txt,f,right okay,acknowledge
+validation,q6ec5.txt,g,that sort of,instruct
+validation,q6ec5.txt,f,so i've nearly made a circle round it,check
+validation,q6ec5.txt,g,yeah,reply_y
+validation,q6ec5.txt,f,right,acknowledge
+validation,q6ec5.txt,g,now you're going,instruct
+validation,q6ec5.txt,g,you have the gazelles,query_yn
+validation,q6ec5.txt,f,yeah,reply_y
+validation,q6ec5.txt,f,down quite a bit uh-huh,explain
+validation,q6ec5.txt,g,you're going straight down and underneath them,instruct
+validation,q6ec5.txt,f,to their left or their right,query_w
+validation,q6ec5.txt,g,the right,reply_w
+validation,q6ec5.txt,f,right,acknowledge
+validation,q6ec5.txt,g,okay erm,ready
+validation,q6ec5.txt,g,are you underneath the gazelles,align
+validation,q6ec5.txt,f,yeah,reply_y
+validation,q6ec5.txt,f,in the middle,check
+validation,q6ec5.txt,g,uh-huh,reply_y
+validation,q6ec5.txt,f,right,reply_y
+validation,q6ec5.txt,g,just go right so that you're in line with the right-hand side of the white mountain,instruct
+validation,q6ec5.txt,f,do i turn back and go right sort of thing,query_w
+validation,q6ec5.txt,f,or i'm no meant to be in the middle of the gazelles,check
+validation,q6ec5.txt,g,right,ready
+validation,q6ec5.txt,g,you've come down from the soft furnishing store you've come straight down,align
+validation,q6ec5.txt,f,the right-hand side of the gazelles and then turn right,check
+validation,q6ec5.txt,g,you've you've come straight down okay,align
+validation,q6ec5.txt,f,mm okay nearly,reply_y
+validation,q6ec5.txt,g,from the soft furnishing store,align
+validation,q6ec5.txt,f,right okay uh-huh,reply_y
+validation,q6ec5.txt,g,and you've gone underneath the gazelles and you're turning right sort of a right angle,align
+validation,q6ec5.txt,f,okay,acknowledge
+validation,q6ec5.txt,f,right,acknowledge
+validation,q6ec5.txt,g,what've you got,query_w
+validation,q6ec5.txt,f,i'm now underneath the right-hand side of the white mountain,reply_w
+validation,q6ec5.txt,g,uh-huh,acknowledge
+validation,q6ec5.txt,f,oh yeah uh-huh,acknowledge
+validation,q6ec5.txt,g,like,ready
+validation,q6ec5.txt,g,just over halfway,align
+validation,q6ec5.txt,f,like in line with the gazelles,reply_w
+validation,q6ec5.txt,g,uh-huh sort of,acknowledge
+validation,q6ec5.txt,f,right uh-huh,acknowledge
+validation,q6ec5.txt,g,about two thirds of the way up the page,align
+validation,q6ec5.txt,f,yeah,reply_y
+validation,q6ec5.txt,g,right that's okay,acknowledge
+validation,q6ec5.txt,g,that's it,instruct
+validation,q6ec5.txt,f,that's it right,acknowledge
+validation,q6nc2.txt,g,right,ready
+validation,q6nc2.txt,g,start just above a telephone kiosk,instruct
+validation,q6nc2.txt,f,yeah,acknowledge
+validation,q6nc2.txt,f,the thing the cross that says start yeah,check
+validation,q6nc2.txt,g,does it,check
+validation,q6nc2.txt,f,uh-huh,reply_y
+validation,q6nc2.txt,g,right,ready
+validation,q6nc2.txt,g,now you go down on the the left-hand side the telephone,instruct
+validation,q6nc2.txt,f,the left-hand side right,acknowledge
+validation,q6nc2.txt,g,down past the stone circle,instruct
+validation,q6nc2.txt,f,the what,query_w
+validation,q6nc2.txt,g,the stone circle,reply_w
+validation,q6nc2.txt,f,i've not got a stone circle,explain
+validation,q6nc2.txt,f,you got a have you got a broken gate to the right and at the bottom of the telephone kiosk,query_yn
+validation,q6nc2.txt,g,yeah,reply_y
+validation,q6nc2.txt,g,and underneath right underneath the telephone kiosk at the bottom there's a stone circle,explain
+validation,q6nc2.txt,f,oh right,acknowledge
+validation,q6nc2.txt,f,i don't have that,explain
+validation,q6nc2.txt,f,now,ready
+validation,q6nc2.txt,f,how roughly how far down is that,query_w
+validation,q6nc2.txt,g,eh say about five centimetres on the map,reply_w
+validation,q6nc2.txt,f,right,ready
+validation,q6nc2.txt,f,so it's about in a in a straight down from telephone kiosk,check
+validation,q6nc2.txt,g,yeah,reply_y
+validation,q6nc2.txt,f,and about in a line with the the writing of broken gate roughly,check
+validation,q6nc2.txt,g,yeah,reply_y
+validation,q6nc2.txt,g,the broken gate ends the left-hand side of broken gate is the right-hand side the stone circle,explain
+validation,q6nc2.txt,f,right,acknowledge
+validation,q6nc2.txt,f,and where's the the other side the stone circle eh,query_w
+validation,q6nc2.txt,g,eh the left-hand side of the telephone kiosk,reply_w
+validation,q6nc2.txt,f,right,acknowledge
+validation,q6nc2.txt,f,and the bottom it's just at the writing of broken gate or,query_w
+validation,q6nc2.txt,g,no,reply_n
+validation,q6nc2.txt,g,it's it's eh it's about three centimetres down from the broken gate,explain
+validation,q6nc2.txt,f,right,acknowledge
+validation,q6nc2.txt,g,which is called farmer's gate,explain
+validation,q6nc2.txt,f,right,acknowledge
+validation,q6nc2.txt,f,so i want to go from start to underneath,check
+validation,q6nc2.txt,g,underneath the stone circle,reply_y
+validation,q6nc2.txt,f,sort of it's directly down from telephone kiosk,check
+validation,q6nc2.txt,g,yeah,reply_y
+validation,q6nc2.txt,f,right,acknowledge
+validation,q6nc2.txt,f,right i'm there,explain
+validation,q6nc2.txt,g,right,ready
+validation,q6nc2.txt,g,you're underneath it,align
+validation,q6nc2.txt,f,uh-huh,reply_y
+validation,q6nc2.txt,g,right,ready
+validation,q6nc2.txt,g,you go up past the end of the stone circle,instruct
+validation,q6nc2.txt,f,eh underneath the broken gate,query_yn
+validation,q6nc2.txt,g,no,reply_n
+validation,q6nc2.txt,g,you go up past the stone circle,clarify
+validation,q6nc2.txt,g,and around the top of the the farmer's gate the gate,instruct
+validation,q6nc2.txt,f,so i go between the the circle the stone circle and the gate then,check
+validation,q6nc2.txt,g,yeah,reply_y
+validation,q6nc2.txt,f,so that's quite a small space is it i i presume,check
+validation,q6nc2.txt,g,yeah,reply_y
+validation,q6nc2.txt,f,right,acknowledge
+validation,q6nc2.txt,f,and where where should i end up,query_w
+validation,q6nc2.txt,g,just stop above the farmer's gate,reply_w
+validation,q6nc2.txt,f,right,ready
+validation,q6nc2.txt,f,directly above it,query_yn
+validation,q6nc2.txt,g,yeah,reply_y
+validation,q6nc2.txt,f,right,acknowledge
+validation,q6nc2.txt,g,you there,align
+validation,q6nc2.txt,f,uh-huh straight above it,reply_y
+validation,q6nc2.txt,g,right now,ready
+validation,q6nc2.txt,g,do you have the meadow,query_yn
+validation,q6nc2.txt,f,yeah i do,reply_y
+validation,q6nc2.txt,f,on the bottom bottom right,check
+validation,q6nc2.txt,g,right,reply_y
+validation,q6nc2.txt,g,well,ready
+validation,q6nc2.txt,f,uh-huh,reply_y
+validation,q6nc2.txt,g,you just ignore that completely,instruct
+validation,q6nc2.txt,g,right,align
+validation,q6nc2.txt,f,uh-huh,reply_y
+validation,q6nc2.txt,g,what do well basically you go up sort of a very slight diagonal line until you're above the meadow,instruct
+validation,q6nc2.txt,f,right,acknowledge
+validation,q6nc2.txt,f,so it's just a sort of very small gradient above the meadow,check
+validation,q6nc2.txt,g,yeah,reply_y
+validation,q6nc2.txt,f,right,acknowledge
+validation,q6nc2.txt,g,right,ready
+validation,q6nc2.txt,g,have you got what have you got the lake,query_yn
+validation,q6nc2.txt,f,no,reply_n
+validation,q6nc2.txt,g,no,acknowledge
+validation,q6nc2.txt,f,i'm i'm at the moment i'm underneath overnight accommodation and just almost in the i'm just in the beginning of the meadow,explain
+validation,q6nc2.txt,g,i don't have that,explain
+validation,q6nc2.txt,g,i don't have overnight accommodation,explain
+validation,q6nc2.txt,f,right well,ready
+validation,q6nc2.txt,f,that's just eh if you take the the left of the meadow and go straight up to eh then the overnight accommodation is straight up from the left of the meadow and it's just slightly above the well it's actually in a line with the start writing,explain
+validation,q6nc2.txt,f,"if you put a wee ""x"" there for overnight accommodation",instruct
+validation,q6nc2.txt,g,yeah well,ready
+validation,q6nc2.txt,g,that's that'll be that's probably where you should go then,instruct
+validation,q6nc2.txt,g,if that's overnight accommodation probably want go there,instruct
+validation,q6nc2.txt,f,oh,ready
+validation,q6nc2.txt,f,where's your map say to go,query_w
+validation,q6nc2.txt,g,it doesn't say go anywhere it just it turns turns northwards,reply_w
+validation,q6nc2.txt,f,oh right i see,acknowledge
+validation,q6nc2.txt,g,at that point,reply_w
+validation,q6nc2.txt,f,so i so it's going to overnight accommodation then,check
+validation,q6nc2.txt,g,yeah,reply_y
+validation,q6nc2.txt,f,where's it head after that,query_w
+validation,q6nc2.txt,g,right,ready
+validation,q6nc2.txt,g,well it goes,reply_w
+validation,q6nc2.txt,f,i'll just just tell briefly and then i'll go to overnight accommodation we'll start again just sort of point of interest,instruct
+validation,q6nc2.txt,g,it goes up for it goes up for about ten ten or twelve centimetres it it goes round the north of the the ruined monastery,reply_w
+validation,q6nc2.txt,f,right right well,ready
+validation,q6nc2.txt,f,i'll i'll move into overnight accommodation,explain
+validation,q6nc2.txt,f,and it just goes straight up from where i say overnight accommodation would be just right up northwards yeah,check
+validation,q6nc2.txt,g,oh,ready
+validation,q6nc2.txt,g,where how is it is your overnight accommodation directly above the meadow,query_yn
+validation,q6nc2.txt,f,it's the middle of of it's a wee a wee house the middle of it is straight up from the meadow,reply_w
+validation,q6nc2.txt,g,right,acknowledge
+validation,q6nc2.txt,f,on the left of the meadow the the far left the meadow straight up from there,reply_w
+validation,q6nc2.txt,g,yeah,acknowledge
+validation,q6nc2.txt,g,just above the wee birds,check
+validation,q6nc2.txt,f,yeah above the wee birds uh-huh,reply_y
+validation,q6nc2.txt,g,right that's right i know where you are,acknowledge
+validation,q6nc2.txt,f,and sight and eh the start of it is straight across from the start writing,reply_w
+validation,q6nc2.txt,g,right that's it,acknowledge
+validation,q6nc2.txt,f,so,ready
+validation,q6nc2.txt,g,right,acknowledge
+validation,q6nc2.txt,g,that's that's where on my map is,explain
+validation,q6nc2.txt,f,uh-huh,acknowledge
+validation,q6nc2.txt,f,so i just want to go up from there,check
+validation,q6nc2.txt,g,uh-huh,reply_y
+validation,q6nc2.txt,f,which side of the ruined monastery should i sort of be coming out at the right side,query_w
+validation,q6nc2.txt,g,oh have you got the ruined monastery,check
+validation,q6nc2.txt,f,yeah,reply_y
+validation,q6nc2.txt,f,the ruined monastery's,explain
+validation,q6nc2.txt,g,right,ready
+validation,q6nc2.txt,g,you should go up the right side and over over the top and down the left,instruct
+validation,q6nc2.txt,f,sort of,explain
+validation,q6nc2.txt,g,but then stop once you're at the left side of it,instruct
+validation,q6nc2.txt,g,right,align
+validation,q6nc2.txt,f,right,reply_y
+validation,q6nc2.txt,f,right,ready
+validation,q6nc2.txt,f,so i go straight up round to the right over the top and down by the left,check
+validation,q6nc2.txt,g,yeah,reply_y
+validation,q6nc2.txt,f,and how far down so i'm just sort of where the writing is on the left-hand side,query_yn
+validation,q6nc2.txt,g,just,reply_w
+validation,q6nc2.txt,g,yeah just about there,reply_y
+validation,q6nc2.txt,f,right right i'm there,acknowledge
+validation,q6nc2.txt,g,are you,align
+validation,q6nc2.txt,f,uh-huh,reply_y
+validation,q6nc2.txt,g,right,ready
+validation,q6nc2.txt,g,we go eh left right along,instruct
+validation,q6nc2.txt,g,'cause there's a lake just underneath that there's west lake,explain
+validation,q6nc2.txt,g,have you got that,query_yn
+validation,q6nc2.txt,f,no,reply_n
+validation,q6nc2.txt,f,i've only got east lake i've not got west lake,explain
+validation,q6nc2.txt,g,right,ready
+validation,q6nc2.txt,g,west lake is between the start and where you are and it's sort of a big circle and it's the eh the the top of it's just just very just underneath the ruined monastery writing,explain
+validation,q6nc2.txt,f,uh-huh,acknowledge
+validation,q6nc2.txt,g,so it's just a sort of big circle,explain
+validation,q6nc2.txt,g,so if you draw that in,instruct
+validation,q6nc2.txt,f,right,ready
+validation,q6nc2.txt,f,it starts just under the ruined monastery it goes to the start,check
+validation,q6nc2.txt,f,and now what is it,query_w
+validation,q6nc2.txt,g,well,ready
+validation,q6nc2.txt,g,it's it's sort of,instruct
+validation,q6nc2.txt,f,what's this,query_w
+validation,q6nc2.txt,g,it's above the start whereas the what is it it's a sort of eh,instruct
+validation,q6nc2.txt,g,how can i describe the shape,query_w
+validation,q6nc2.txt,g,it go so straight along the top straight straight down the right-hand side,instruct
+validation,q6nc2.txt,g,right,align
+validation,q6nc2.txt,g,just along a wee bit then a diagonal line up so it's like a triangle,instruct
+validation,q6nc2.txt,g,you could join the bottom of the lake with the start and the and the left-hand side of it to make a triangle,instruct
+validation,q6nc2.txt,f,you join the the bottom,check
+validation,q6nc2.txt,f,oh see i've not got the bottom lake,explain
+validation,q6nc2.txt,f,the bottom lake's the start you say,check
+validation,q6nc2.txt,g,yeah,reply_y
+validation,q6nc2.txt,f,uh-huh,acknowledge
+validation,q6nc2.txt,g,but it doesn't go right the way along to the start it stops about halfway,instruct
+validation,q6nc2.txt,f,right,acknowledge
+validation,q6nc2.txt,f,right okay,acknowledge
+validation,q6nc2.txt,g,right,align
+validation,q6nc2.txt,f,i've got that roughly,reply_y
+validation,q6nc2.txt,f,and where's the next point in the triangle just under the ruined monastery,query_yn
+validation,q6nc2.txt,g,eh no wait a minute,reply_n
+validation,q6nc2.txt,g,what have you drawn,query_w
+validation,q6nc2.txt,f,i've got a,reply_w
+validation,q6nc2.txt,g,a line along the top,instruct
+validation,q6nc2.txt,f,a line right a straight line along the top,check
+validation,q6nc2.txt,g,right,reply_y
+validation,q6nc2.txt,f,from from where i am sort of thing,check
+validation,q6nc2.txt,g,yeah,reply_y
+validation,q6nc2.txt,f,right,acknowledge
+validation,q6nc2.txt,g,it's not really straight but it's but it's easier to draw it straight,instruct
+validation,q6nc2.txt,f,oh,acknowledge
+validation,q6nc2.txt,f,right uh-huh,acknowledge
+validation,q6nc2.txt,f,right i've got that,acknowledge
+validation,q6nc2.txt,g,then,ready
+validation,q6nc2.txt,g,straight line down the right-hand side,instruct
+validation,q6nc2.txt,f,eh to just the start bit down from down from where where's it start going down from the stile or from the start or what,query_w
+validation,q6nc2.txt,g,eh it's going down towards the start,reply_w
+validation,q6nc2.txt,f,right,acknowledge
+validation,q6nc2.txt,f,straight down or sort of diagonally down towards it,query_w
+validation,q6nc2.txt,g,sort of straight down,reply_w
+validation,q6nc2.txt,f,right,acknowledge
+validation,q6nc2.txt,f,and the other one's sort of,query_w
+validation,q6nc2.txt,g,it goes about three centimetres towards uh it stops at the start you know,instruct
+validation,q6nc2.txt,f,uh-huh right,acknowledge
+validation,q6nc2.txt,g,in line with it it goes about three centimetres towards it,instruct
+validation,q6nc2.txt,f,right,acknowledge
+validation,q6nc2.txt,g,right,ready
+validation,q6nc2.txt,g,and then goes up in a diagonal line for about five six centimetres,instruct
+validation,q6nc2.txt,f,right,acknowledge
+validation,q6nc2.txt,g,and then,ready
+validation,q6nc2.txt,g,it and then it joins with the start it joins with the top,instruct
+validation,q6nc2.txt,f,right okay,acknowledge
+validation,q6nc2.txt,g,right,align
+validation,q6nc2.txt,f,five,acknowledge
+validation,q6nc2.txt,f,right,ready
+validation,q6nc2.txt,f,i've got the sort of basic shape anyway so i should be able to avoid it,explain
+validation,q6nc2.txt,g,avoid it,instruct
+validation,q6nc2.txt,g,right,acknowledge
+validation,q6nc2.txt,g,that's west lake,explain
+validation,q6nc2.txt,f,right,acknowledge
+validation,q6nc2.txt,g,so,ready
+validation,q6nc2.txt,g,you're currently stopped in line with the ruined monastery wording,align
+validation,q6nc2.txt,f,i should be above i should be slightly above the lake then am i,check
+validation,q6nc2.txt,g,yeah,reply_y
+validation,q6nc2.txt,f,uh-huh right,acknowledge
+validation,q6nc2.txt,g,right,ready
+validation,q6nc2.txt,g,you go left along 'til you're in line with the left-hand side of the stile,instruct
+validation,q6nc2.txt,f,right,acknowledge
+validation,q6nc2.txt,g,then go up and over the top the stile and stop there,instruct
+validation,q6nc2.txt,f,straight up over the stile,check
+validation,q6nc2.txt,g,straight up,reply_y
+validation,q6nc2.txt,g,and ehm,ready
+validation,q6nc2.txt,g,as soon as you reach the top the stile turn right and go along 'til you reach the end it,instruct
+validation,q6nc2.txt,f,right,ready
+validation,q6nc2.txt,f,so i'm over the stile i've turn right 'til i reach the end of the stile,check
+validation,q6nc2.txt,g,right,reply_y
+validation,q6nc2.txt,f,uh-huh,acknowledge
+validation,q6nc2.txt,f,so that's just sort of a few centimetres,check
+validation,q6nc2.txt,g,uh-huh,reply_y
+validation,q6nc2.txt,f,right,acknowledge
+validation,q6nc2.txt,g,then you stop,instruct
+validation,q6nc2.txt,f,uh-huh,acknowledge
+validation,q6nc2.txt,g,right,ready
+validation,q6nc2.txt,g,you go go north for about three centimetres,instruct
+validation,q6nc2.txt,f,right,acknowledge
+validation,q6nc2.txt,g,and then go along for about one centimetre one or two i'd say two,instruct
+validation,q6nc2.txt,f,so i'm at the i'm sort of at the left-hand bottom of the popular tourist spot castle thing,check
+validation,q6nc2.txt,f,or have you not got that,query_yn
+validation,q6nc2.txt,g,i don't have that,reply_n
+validation,q6nc2.txt,f,right,acknowledge
+validation,q6nc2.txt,g,it says great viewpoint,explain
+validation,q6nc2.txt,g,it's miles away from that,instruct
+validation,q6nc2.txt,g,there's a great viewpoint,explain
+validation,q6nc2.txt,f,yeah great viewpoint's quite a bit above it,explain
+validation,q6nc2.txt,g,yeah,acknowledge
+validation,q6nc2.txt,f,and to the left yeah,explain
+validation,q6nc2.txt,g,yeah you should be there,instruct
+validation,q6nc2.txt,f,so right,ready
+validation,q6nc2.txt,f,i'm i'm there,acknowledge
+validation,q6nc2.txt,f,is there any hazards round about here then,query_yn
+validation,q6nc2.txt,g,then you go along,instruct
+validation,q6nc2.txt,g,eh no there's nothing on my map,reply_n
+validation,q6nc2.txt,f,right,acknowledge
+validation,q6nc2.txt,g,right,ready
+validation,q6nc2.txt,g,so go about two centimetres along,instruct
+validation,q6nc2.txt,f,eh to my right,check
+validation,q6nc2.txt,g,to your right,reply_y
+validation,q6nc2.txt,f,uh-huh,acknowledge
+validation,q6nc2.txt,g,then take a diagonal route down,instruct
+validation,q6nc2.txt,g,have you got the dead tree marked,query_yn
+validation,q6nc2.txt,f,the dutch elm,check
+validation,q6nc2.txt,g,it says dead tree,reply_w
+validation,q6nc2.txt,f,is it er underneath the rocket launch pad at your right,query_yn
+validation,q6nc2.txt,g,i don't have a a rocket launch pad,reply_w
+validation,q6nc2.txt,f,right well,ready
+validation,q6nc2.txt,f,underneath the,explain
+validation,q6nc2.txt,f,don't have east lake either do you,check
+validation,q6nc2.txt,f,well,ready
+validation,q6nc2.txt,g,yeah i've got the east lake,reply_y
+validation,q6nc2.txt,f,sort of right well it's just sort of ten centimetres down from the right-hand side of the east lake,explain
+validation,q6nc2.txt,f,is that right,align
+validation,q6nc2.txt,g,oh i don't have that,reply_w
+validation,q6nc2.txt,f,ah my my east lake's top hand right corner,explain
+validation,q6nc2.txt,g,yeah,acknowledge
+validation,q6nc2.txt,g,that's where i've got the lake,explain
+validation,q6nc2.txt,f,uh-huh,acknowledge
+validation,q6nc2.txt,g,and there's a great viewpoint just underneath it,explain
+validation,q6nc2.txt,g,have you got that,query_yn
+validation,q6nc2.txt,f,no,reply_n
+validation,q6nc2.txt,f,i've my great viewpoint's the the opposite corner,explain
+validation,q6nc2.txt,g,oh i've got two great viewpoints,explain
+validation,q6nc2.txt,f,ah right i see,acknowledge
+validation,q6nc2.txt,g,right so i've got a great viewpoint just underneath the lake,explain
+validation,q6nc2.txt,g,but there's a tree it's sort of black and wee branches it's it's oh it's dead it's got no leaves on it,explain
+validation,q6nc2.txt,f,yeah i don't i don't have,explain
+validation,q6nc2.txt,f,right,ready
+validation,q6nc2.txt,f,i don't have it in the same place i've got one underneath east lake sort of ten centimetres down so,explain
+validation,q6nc2.txt,g,yeah,acknowledge
+validation,q6nc2.txt,g,that's where mine is,explain
+validation,q6nc2.txt,f,oh right,acknowledge
+validation,q6nc2.txt,f,it's underneath the east lake about ten centimetres down from it,check
+validation,q6nc2.txt,g,uh-huh,reply_y
+validation,q6nc2.txt,f,right,ready
+validation,q6nc2.txt,f,i'm i'm i'm right i'm now sort of above the stile to the right,explain
+validation,q6nc2.txt,f,so where where from here,query_w
+validation,q6nc2.txt,g,you're above the stile to the right,check
+validation,q6nc2.txt,g,did you you you went along to the stile and then you went up,align
+validation,q6nc2.txt,f,uh-huh,reply_y
+validation,q6nc2.txt,f,i went eh along i went along to the right-hand side the stile like you said then went up sort of a few centimetres and along slightly again to the right,reply_w
+validation,q6nc2.txt,g,right,ready
+validation,q6nc2.txt,g,you take a diagonal line down 'til you're underneath the tree,instruct
+validation,q6nc2.txt,f,right,acknowledge
+validation,q6nc2.txt,f,just straight diagonal down,acknowledge
+validation,q6nc2.txt,f,i don't know if i should sort of avoid this popular tourist spot or go to it or what you see i'm not eh i'm not sure if the idea is to have a tremendous holiday or,explain
+validation,q6nc2.txt,g,i don't know,explain
+validation,q6nc2.txt,f,if the tourist spot's a trap or what,explain
+validation,q6nc2.txt,f,right i'll just i'll just go along,explain
+validation,q6nc2.txt,f,down so i'm right underneath the tree,check
+validation,q6nc2.txt,g,right,ready
+validation,q6nc2.txt,g,you go around go round the right-hand side of the tree 'til you're at the top of it,instruct
+validation,q6nc2.txt,f,is it right on top of the tree or just at the right-hand side at the top,query_w
+validation,q6nc2.txt,g,go round the right-hand side the tree,clarify
+validation,q6nc2.txt,f,uh-huh,acknowledge
+validation,q6nc2.txt,g,and then go along along the the top 'til you're right above it,clarify
+validation,q6nc2.txt,f,right i'm right above it,acknowledge
+validation,q6nc2.txt,g,right,ready
+validation,q6nc2.txt,g,now,ready
+validation,q6nc2.txt,g,take a diagonal line up about two centimetres on quite a steep angle,instruct
+validation,q6nc2.txt,f,eh to the left or right,query_w
+validation,q6nc2.txt,g,to the left,reply_w
+validation,q6nc2.txt,f,right,acknowledge
+validation,q6nc2.txt,g,right,acknowledge
+validation,q6nc2.txt,g,then,ready
+validation,q6nc2.txt,g,go straight up to the bottom of the lake,instruct
+validation,q6nc2.txt,f,right well,ready
+validation,q6nc2.txt,f,i've got a rocket launch pad there which i'll sort of sidestep,explain
+validation,q6nc2.txt,g,yeah,acknowledge
+validation,q6nc2.txt,f,so i want to be right underneath the bottom of the lake,check
+validation,q6nc2.txt,g,right,reply_y
+validation,q6nc2.txt,f,on the sort of right-hand side of the lake,query_yn
+validation,q6nc2.txt,g,well,ready
+validation,q6nc2.txt,g,you're about three three centimetres from the right-hand side of the lake,reply_w
+validation,q6nc2.txt,f,oh i shouldn't actually be below the lake no,check
+validation,q6nc2.txt,g,you're about three centimetres from the right hand side of the lake,clarify
+validation,q6nc2.txt,f,oh right,acknowledge
+validation,q6nc2.txt,f,uh-huh that's right i'm,acknowledge
+validation,q6nc2.txt,g,towards the left-hand side,clarify
+validation,q6nc2.txt,f,yeah yeah that's where i am yeah,acknowledge
+validation,q6nc2.txt,f,so i just want to go up so i'm underneath the lake,check
+validation,q6nc2.txt,g,yeah,reply_y
+validation,q6nc2.txt,f,and and the same sort of position,check
+validation,q6nc2.txt,g,now,ready
+validation,q6nc2.txt,g,your lake see the wee bit of the lake know the bottom of the lake stops then it goes up a wee bit before it goes a diagonal,align
+validation,q6nc2.txt,f,ehm yeah uh-huh,reply_y
+validation,q6nc2.txt,g,do you see that,align
+validation,q6nc2.txt,f,yeah,reply_y
+validation,q6nc2.txt,g,right,ready
+validation,q6nc2.txt,g,go straight along the bottom of the lake following it 'til you reach there and then go about two centimetres further and that's the finish,instruct
+validation,q6nc2.txt,f,right so i want to,check
+validation,q6nc2.txt,f,there's the bottom the bottom right of the lake,align
+validation,q6nc2.txt,f,so in other words i want to sort of follow the shape of the lake,check
+validation,q6nc2.txt,g,mmhmm,reply_y
+validation,q6nc2.txt,g,follow the shape of the lake until you until like you reach the,clarify
+validation,q6nc2.txt,f,the sort of diagonal bit near the end,check
+validation,q6nc2.txt,g,'til you reach the end of the,clarify
+validation,q6nc2.txt,g,know the bottom sort of slopes up and then there's a sharp there's er about a ninety degree angle and it goes north,align
+validation,q6nc2.txt,f,uh-huh,reply_y
+validation,q6nc2.txt,g,right,ready
+validation,q6nc2.txt,g,you want to go along to about there and then go another two centimetres following the same line,clarify
+validation,q6nc2.txt,f,so i want to go to the the bottom right-hand corner of the lake to start with,check
+validation,q6nc2.txt,g,yeah,reply_y
+validation,q6nc2.txt,f,right,acknowledge
+validation,q6nc2.txt,f,right,ready
+validation,q6nc2.txt,f,i'm at the bottom right-hand corner of the lake now,explain
+validation,q6nc2.txt,g,right,ready
+validation,q6nc2.txt,g,go it's eh go just about a couple of centimetres past that,instruct
+validation,q6nc2.txt,f,eh up or to the side,query_w
+validation,q6nc2.txt,g,just on the same the same same way,reply_w
+validation,q6nc2.txt,f,right,ready
+validation,q6nc2.txt,f,the same way as the lake goes,check
+validation,q6nc2.txt,g,no,reply_n
+validation,q6nc2.txt,g,the same way you were traveling,clarify
+validation,q6nc2.txt,f,oh eh,acknowledge
+validation,q6nc2.txt,f,well you don't really know which way i'm traveling i'm sort of traveling i if i was doing it the way i'm traveling i'd be going off to the right,explain
+validation,q6nc2.txt,f,you want me to go up or to the right or what,query_w
+validation,q6nc2.txt,g,hmm,query_w
+validation,q6nc2.txt,f,ehm,ready
+validation,q6nc2.txt,f,well i'm at the bottom of the lake,explain
+validation,q6nc2.txt,g,right,acknowledge
+validation,q6nc2.txt,f,the bottom right-hand corner of the lake,explain
+validation,q6nc2.txt,f,do you want me to go two centimetres to the right or do you want me to go up,query_w
+validation,q6nc2.txt,g,oh no,reply_n
+validation,q6nc2.txt,g,you're supposed to be at the bottom left-hand side of the lake,instruct
+validation,q6nc2.txt,f,oh the bottom left-hand side,acknowledge
+validation,q6nc2.txt,g,yeah,reply_y
+validation,q6nc2.txt,f,oh right i see i see what you're doing a bit better now right,acknowledge
+validation,q6nc2.txt,f,i hopefully allowed to scrub that out,explain
+validation,q6nc2.txt,f,so i want to go to the bottom oh right sorry there was a bit of a,explain
+validation,q6nc2.txt,g,no,reply_n
+validation,q6nc2.txt,g,it was my mistake i didn't realise you were saying bottom right-hand,explain
+validation,q6nc2.txt,f,don't know what the what the what the psychologists'll take from that i don't know right from my left perhaps,explain
+validation,q6nc2.txt,f,right,ready
+validation,q6nc2.txt,f,i'm i'm there i'm at the bottom,explain
+validation,q6nc2.txt,f,so i want to just go up same way the lake's going about two centimetres,check
+validation,q6nc2.txt,g,no,reply_n
+validation,q6nc2.txt,g,you want go same way you're traveling,clarify
+validation,q6nc2.txt,f,uh-huh right,acknowledge
+validation,q6nc2.txt,g,just beyond the beyond the bottom of the lake for about two centimetres and that's the finish,clarify
+validation,q6nc2.txt,f,right,acknowledge
+validation,q6nc2.txt,g,it it should be directly under the left-hand side of the lake,instruct
+validation,q6nc2.txt,f,right i know where you are,acknowledge
+validation,q6nc3.txt,f,yeah,reply_y
+validation,q6nc3.txt,g,right,ready
+validation,q6nc3.txt,g,at the bot-- bottom of the map on the right-hand side have you got a missionary camp there,query_yn
+validation,q6nc3.txt,f,i've got the starts marked,explain
+validation,q6nc3.txt,g,right okay,acknowledge
+validation,q6nc3.txt,g,to the left right have you got ehm what is it it says gorillas with two gorillas and you know trees two tree,query_yn
+validation,q6nc3.txt,f,no,reply_n
+validation,q6nc3.txt,g,no,check
+validation,q6nc3.txt,f,no,reply_n
+validation,q6nc3.txt,g,okay right,ready
+validation,q6nc3.txt,g,start from the top of the missionary camp,instruct
+validation,q6nc3.txt,g,right,align
+validation,q6nc3.txt,f,right,reply_y
+validation,q6nc3.txt,f,from the start cross,check
+validation,q6nc3.txt,g,yeah,reply_y
+validation,q6nc3.txt,g,go two centimetres to the left,instruct
+validation,q6nc3.txt,f,right,acknowledge
+validation,q6nc3.txt,g,okay,align
+validation,q6nc3.txt,g,go down,instruct
+validation,q6nc3.txt,f,down towards missionary camp,check
+validation,q6nc3.txt,g,aye,reply_y
+validation,q6nc3.txt,g,just right down uh-huh,clarify
+validation,q6nc3.txt,f,right,ready
+validation,q6nc3.txt,f,i'm i've stopped right above it,explain
+validation,q6nc3.txt,g,then,ready
+validation,q6nc3.txt,g,you've what,query_w
+validation,q6nc3.txt,f,i'm right above the missionary camp,reply_w
+validation,q6nc3.txt,g,just go right down to round down to the bottom of the r-- left-hand side of it,instruct
+validation,q6nc3.txt,f,right,acknowledge
+validation,q6nc3.txt,g,okay,align
+validation,q6nc3.txt,f,so go round it,check
+validation,q6nc3.txt,g,uh-huh,reply_y
+validation,q6nc3.txt,g,round to the left uh the left yeah,check
+validation,q6nc3.txt,f,keep going down,check
+validation,q6nc3.txt,g,uh-huh,reply_y
+validation,q6nc3.txt,g,just stop where you when you reach the missionary camp you know just about s--,clarify
+validation,q6nc3.txt,g,then,ready
+validation,q6nc3.txt,g,turn left all the way down all the way along,instruct
+validation,q6nc3.txt,f,to the banana tree,query_yn
+validation,q6nc3.txt,g,yeah,reply_y
+validation,q6nc3.txt,g,i think that must be the gorillas,explain
+validation,q6nc3.txt,f,i've got a thing that says banana tree,explain
+validation,q6nc3.txt,g,banana tree i've not got that at all,explain
+validation,q6nc3.txt,f,it's a tree with big leaves and it's got a bunch of bananas on it,explain
+validation,q6nc3.txt,g,well,ready
+validation,q6nc3.txt,g,just go left,instruct
+validation,q6nc3.txt,g,okay,align
+validation,q6nc3.txt,f,right,reply_y
+validation,q6nc3.txt,f,so should i stop there,query_yn
+validation,q6nc3.txt,f,it's just underneath the rope bridge,explain
+validation,q6nc3.txt,g,underneath the rope bridge,acknowledge
+validation,q6nc3.txt,f,you know it's it's about five centimetres down and slightly to the left of it,explain
+validation,q6nc3.txt,g,the rope bridge,check
+validation,q6nc3.txt,f,do you not have that,query_yn
+validation,q6nc3.txt,g,yeah i've got a rope bridge,reply_y
+validation,q6nc3.txt,g,you're supposed to pass through well,instruct
+validation,q6nc3.txt,g,supposed to start from the missionary camp go right down to the whatever,instruct
+validation,q6nc3.txt,g,and go back right to the top to the rope bridge,instruct
+validation,q6nc3.txt,f,so i've got to go to the rope bridge,check
+validation,q6nc3.txt,g,yeah,reply_y
+validation,q6nc3.txt,g,have to cross it,instruct
+validation,q6nc3.txt,f,right,ready
+validation,q6nc3.txt,f,so i'm at the rope bridge,explain
+validation,q6nc3.txt,g,right,acknowledge
+validation,q6nc3.txt,f,i just went straight north from the banana tree,explain
+validation,q6nc3.txt,g,okay,ready
+validation,q6nc3.txt,g,turn left just cross it turn to the left,instruct
+validation,q6nc3.txt,f,to the right,check
+validation,q6nc3.txt,g,left,clarify
+validation,q6nc3.txt,f,right,explain
+validation,q6nc3.txt,f,it'll be right to get across it,explain
+validation,q6nc3.txt,g,do well,ready
+validation,q6nc3.txt,g,you're supposed to be on the right-hand side of that,instruct
+validation,q6nc3.txt,f,well,ready
+validation,q6nc3.txt,f,i'm on the left-hand side i would've had to just cross the river,explain
+validation,q6nc3.txt,g,i think you must have different things on your map okay never mind,explain
+validation,q6nc3.txt,g,you're on the right-hand side of it yeah are you on the,align
+validation,q6nc3.txt,f,i'm on the left-hand side of it and i'll need to go r-- r-- right to cross it,clarify
+validation,q6nc3.txt,g,yeah you have to cro-- you have to go to the right-hand side of it,instruct
+validation,q6nc3.txt,f,right,ready
+validation,q6nc3.txt,f,so i'm on the right-hand side,explain
+validation,q6nc3.txt,g,right,ready
+validation,q6nc3.txt,g,go along,instruct
+validation,q6nc3.txt,g,go left about four centimetres,instruct
+validation,q6nc3.txt,g,have you got a waterfall,query_yn
+validation,q6nc3.txt,f,yeah,reply_y
+validation,q6nc3.txt,f,it's on the right-hand side of the map,explain
+validation,q6nc3.txt,g,to your,query_yn
+validation,q6nc3.txt,g,okay right,ready
+validation,q6nc3.txt,g,go that go up to that,instruct
+validation,q6nc3.txt,f,right i'm at the waterfall,acknowledge
+validation,q6nc3.txt,g,right,ready
+validation,q6nc3.txt,g,go straight up,instruct
+validation,q6nc3.txt,g,have you got lost steps,query_yn
+validation,q6nc3.txt,f,yeah,reply_y
+validation,q6nc3.txt,g,right,ready
+validation,q6nc3.txt,g,go straight up to that,instruct
+validation,q6nc3.txt,f,that's quite a bit up,check
+validation,q6nc3.txt,g,yeah,reply_y
+validation,q6nc3.txt,f,right i'm there,acknowledge
+validation,q6nc3.txt,g,right around it it's just from the top right round it,instruct
+validation,q6nc3.txt,g,have you got fallen pillars,query_yn
+validation,q6nc3.txt,f,yeah,reply_y
+validation,q6nc3.txt,f,so i've to go,check
+validation,q6nc3.txt,g,right go right up to the lost steps right go right round it from the top,clarify
+validation,q6nc3.txt,g,then go down to the,instruct
+validation,q6nc3.txt,f,right round it cross my route,check
+validation,q6nc3.txt,g,yeah,reply_y
+validation,q6nc3.txt,g,then go right right round it,clarify
+validation,q6nc3.txt,g,okay,align
+validation,q6nc3.txt,g,to the fallen pillars,instruct
+validation,q6nc3.txt,f,right,reply_y
+validation,q6nc3.txt,f,the fallen pillars are down diagonally,check
+validation,q6nc3.txt,g,yeah,reply_y
+validation,q6nc3.txt,f,past the gazelles,check
+validation,q6nc3.txt,g,at the what,query_w
+validation,q6nc3.txt,f,gazelles i've got,reply_w
+validation,q6nc3.txt,f,they're about halfway down that diagonal line doesn't matter,explain
+validation,q6nc3.txt,f,right,ready
+validation,q6nc3.txt,f,i'm at the fallen pillars,explain
+validation,q6nc3.txt,g,fallen pillars,acknowledge
+validation,q6nc3.txt,f,"just underneath the ""s""",explain
+validation,q6nc3.txt,g,fallen pillars,acknowledge
+validation,q6nc3.txt,g,okay,ready
+validation,q6nc3.txt,g,you have to go right from there right right,instruct
+validation,q6nc3.txt,g,have you got ancient ruins,query_yn
+validation,q6nc3.txt,f,i've got ruined city,reply_w
+validation,q6nc3.txt,f,it's probably the same thing,explain
+validation,q6nc3.txt,g,well,ready
+validation,q6nc3.txt,g,just go right to the top there,instruct
+validation,q6nc3.txt,g,from there you have to go up to the ancient end,instruct
+validation,q6nc3.txt,f,do i go underneath the fallen pillars,query_yn
+validation,q6nc3.txt,g,yeah underneath the fallen pillars,reply_y
+validation,q6nc3.txt,f,right,ready
+validation,q6nc3.txt,f,and then go up to about where about the middle of it or,query_w
+validation,q6nc3.txt,g,the ancient the ancient ruins to the left of it,reply_w
+validation,q6nc3.txt,f,right,acknowledge
+validation,q6nc3.txt,g,okay,ready
+validation,q6nc3.txt,g,have you got stones,query_yn
+validation,q6nc3.txt,f,i've got rock fall,reply_w
+validation,q6nc3.txt,g,rock fall,acknowledge
+validation,q6nc3.txt,g,to the left,query_yn
+validation,q6nc3.txt,f,it's to the right and up,reply_w
+validation,q6nc3.txt,g,just go right up to there,instruct
+validation,q6nc3.txt,f,right i'm at it,acknowledge
+validation,q6nc3.txt,g,okay,acknowledge
+validation,q6nc3.txt,f,goes diagonally up,check
+validation,q6nc3.txt,g,yeah,reply_y
+validation,q6nc3.txt,f,right,acknowledge
+validation,q6nc3.txt,f,says rock fall here,explain
+validation,q6nc3.txt,g,rock fall okay,acknowledge
+validation,q6nc3.txt,g,turn,instruct
+validation,q6nc3.txt,g,have you got white mountains,query_yn
+validation,q6nc3.txt,f,yeah,reply_y
+validation,q6nc3.txt,g,alright,ready
+validation,q6nc3.txt,g,go up to there and,instruct
+validation,q6nc3.txt,f,i'll do i go up the left-hand side of the rock fall,check
+validation,q6nc3.txt,g,no i'd y--,reply_n
+validation,q6nc3.txt,g,where are you at the bottom of it or the top of it,query_w
+validation,q6nc3.txt,f,i'm at the bottom of it i'm at the bottom bottom left-hand corner,reply_w
+validation,q6nc3.txt,g,well,ready
+validation,q6nc3.txt,g,just turn left don't go over it just just turn left,instruct
+validation,q6nc3.txt,f,turn right,check
+validation,q6nc3.txt,f,go underneath it,check
+validation,q6nc3.txt,g,uh-huh go underneath it,reply_y
+validation,q6nc3.txt,f,right,ready
+validation,q6nc3.txt,f,'til i'm directly under the white mountain,check
+validation,q6nc3.txt,g,no,reply_n
+validation,q6nc3.txt,g,just o-- you have to go over it,instruct
+validation,q6nc3.txt,f,so i go,query_w
+validation,q6nc3.txt,g,all the way round over it,clarify
+validation,q6nc3.txt,f,right,acknowledge
+validation,q6nc3.txt,g,then you go right all the way under it,instruct
+validation,q6nc3.txt,g,have you got soft furnishing stores,query_yn
+validation,q6nc3.txt,f,no,reply_n
+validation,q6nc3.txt,g,have you got gazelles,query_yn
+validation,q6nc3.txt,f,yes,reply_y
+validation,q6nc3.txt,g,right,ready
+validation,q6nc3.txt,g,from the white mountains go right down to the gazelles,instruct
+validation,q6nc3.txt,f,right i'm at the gazelles,acknowledge
+validation,q6nc3.txt,f,they're a-- sort of in the middle of the map,check
+validation,q6nc3.txt,g,no,reply_n
+validation,q6nc3.txt,g,and then turn left,instruct
+validation,q6nc3.txt,g,gazelles right go right round it,instruct
+validation,q6nc3.txt,f,towards the ruined city,query_yn
+validation,q6nc3.txt,g,no just,reply_n
+validation,q6nc3.txt,g,you've got down to the gazelles yeah,align
+validation,q6nc3.txt,f,yeah,reply_y
+validation,q6nc3.txt,g,just go underneath it right and just turn,instruct
+validation,q6nc3.txt,f,left or right-hand side,query_w
+validation,q6nc3.txt,g,l-- ehm left,reply_w
+validation,q6nc3.txt,f,right,acknowledge
+validation,q6nc3.txt,g,turn left two or three centimetres that's you finished,instruct
+validation,q6nc3.txt,f,okay,acknowledge
+validation,q7ec1.txt,g,have you read it then,query_yn
+validation,q7ec1.txt,g,okey-dokey,acknowledge
+validation,q7ec1.txt,f,uh-huh,reply_y
+validation,q7ec1.txt,g,go south past the diamond mine then hang a left just at the bottom of it,instruct
+validation,q7ec1.txt,f,right go south mm past the diamond hang a left right i'm going left,acknowledge
+validation,q7ec1.txt,f,how far,query_w
+validation,q7ec1.txt,g,eh left on the paper towards your and you hang left towards the graveyard,clarify
+validation,q7ec1.txt,g,right,align
+validation,q7ec1.txt,g,you're going,clarify
+validation,q7ec1.txt,f,graveyard,check
+validation,q7ec1.txt,f,no graveyard over here,explain
+validation,q7ec1.txt,g,yeah,reply_y
+validation,q7ec1.txt,g,there should be a wee,clarify
+validation,q7ec1.txt,g,well as you walk towards it it should be to the right west east sorry,clarify
+validation,q7ec1.txt,f,just tell me what you what it is to you dave and i'll do it for me,instruct
+validation,q7ec1.txt,g,right,ready
+validation,q7ec1.txt,g,you come down past the diamond mine,clarify
+validation,q7ec1.txt,f,south,check
+validation,q7ec1.txt,f,aye you're south,reply_y
+validation,q7ec1.txt,g,south,acknowledge
+validation,q7ec1.txt,f,and then are going,check
+validation,q7ec1.txt,g,and then you go east towards the graveyard,clarify
+validation,q7ec1.txt,f,east,acknowledge
+validation,q7ec1.txt,f,mind you there's no graveyard on mine,explain
+validation,q7ec1.txt,g,well you hang hang go east for a bit,clarify
+validation,q7ec1.txt,f,i'll just go east,explain
+validation,q7ec1.txt,g,'til you're about two thirds of the way across the paper,clarify
+validation,q7ec1.txt,f,mm,acknowledge
+validation,q7ec1.txt,g,right then,ready
+validation,q7ec1.txt,g,head head north,instruct
+validation,q7ec1.txt,g,and then hang a right around the carved stones,instruct
+validation,q7ec1.txt,f,over them or above,check
+validation,q7ec1.txt,g,above,clarify
+validation,q7ec1.txt,f,mm,acknowledge
+validation,q7ec1.txt,g,then you go south again,instruct
+validation,q7ec1.txt,g,until you get to the indian country then you do a wee chicane,instruct
+validation,q7ec1.txt,g,turn left above the indian country,instruct
+validation,q7ec1.txt,f,so i'm,check
+validation,q7ec1.txt,g,then a wee chicane round and hang a left around the gold mine,instruct
+validation,q7ec1.txt,f,so i'm going round indian country and down to the left then down below the gold mine,check
+validation,q7ec1.txt,g,well you underneath the great rock rock then round then over the top of the gold mine,clarify
+validation,q7ec1.txt,f,oh my map's totally different dave,explain
+validation,q7ec1.txt,g,right,acknowledge
+validation,q7ec1.txt,f,i've got no great rock,explain
+validation,q7ec1.txt,g,have you got a gold mine,query_yn
+validation,q7ec1.txt,f,aye i've got a gold mine,reply_y
+validation,q7ec1.txt,g,right,acknowledge
+validation,q7ec1.txt,g,so you go round the gold mine then you,clarify
+validation,q7ec1.txt,f,below it or above it,check
+validation,q7ec1.txt,g,but what you go round the top of it then hang a left hang south go past it then south,clarify
+validation,q7ec1.txt,f,right i'm going past it here right and then south,check
+validation,q7ec1.txt,g,then south,reply_y
+validation,q7ec1.txt,g,then you go about prf two thirds three quarters of the way down the page,instruct
+validation,q7ec1.txt,f,three quarters of the way down the page well that's about here right,acknowledge
+validation,q7ec1.txt,g,then you hang a left,instruct
+validation,q7ec1.txt,f,left,check
+validation,q7ec1.txt,g,sorry east go east,clarify
+validation,q7ec1.txt,f,you mean right,check
+validation,q7ec1.txt,g,aye,reply_y
+validation,q7ec1.txt,f,right is this below the,check
+validation,q7ec1.txt,g,mmhmm,reply_y
+validation,q7ec1.txt,f,oh well,acknowledge
+validation,q7ec1.txt,g,right right right so you go along there,instruct
+validation,q7ec1.txt,f,mmhmm,acknowledge
+validation,q7ec1.txt,g,then you goes northeast,instruct
+validation,q7ec1.txt,g,have you got a trout farm on your map,query_yn
+validation,q7ec1.txt,f,aye,reply_y
+validation,q7ec1.txt,f,i'm about to if we're going northeast,explain
+validation,q7ec1.txt,g,you go northeast up to just below the trout farm go along the bottom of it,instruct
+validation,q7ec1.txt,g,you got the cavalry,query_yn
+validation,q7ec1.txt,g,no,reply_n
+validation,q7ec1.txt,f,no,reply_n
+validation,q7ec1.txt,g,i wouldnae think so,explain
+validation,q7ec1.txt,g,that's the that's the good guys,explain
+validation,q7ec1.txt,g,er right so,ready
+validation,q7ec1.txt,g,trout farm you you go just about just about halfway past it then down south again,instruct
+validation,q7ec1.txt,f,so just up alongside it,check
+validation,q7ec1.txt,g,just past it,clarify
+validation,q7ec1.txt,f,aye just past it right,acknowledge
+validation,q7ec1.txt,g,then you go south,instruct
+validation,q7ec1.txt,g,go south south away down to,instruct
+validation,q7ec1.txt,f,how can i go south i've just went north past it,query_w
+validation,q7ec1.txt,g,no you don't go north past it ah,clarify
+validation,q7ec1.txt,f,what the hell am i meant to do then,query_w
+validation,q7ec1.txt,g,right,ready
+validation,q7ec1.txt,g,you're at the trout farm right,align
+validation,q7ec1.txt,f,yeah,reply_y
+validation,q7ec1.txt,f,i've gone along the bottom,explain
+validation,q7ec1.txt,g,you're on the bottom,acknowledge
+validation,q7ec1.txt,g,then you turn a right hang south,clarify
+validation,q7ec1.txt,f,so i reach them you want me to did you go past it just a wee bit and then go down,check
+validation,q7ec1.txt,g,and then go south,clarify
+validation,q7ec1.txt,g,yes,reply_y
+validation,q7ec1.txt,f,mm,acknowledge
+validation,q7ec1.txt,g,down towards a cattle stockade,align
+validation,q7ec1.txt,f,yeah,reply_y
+validation,q7ec1.txt,g,eh you pass the cattle stockade on the east hand side,instruct
+validation,q7ec1.txt,f,right,acknowledge
+validation,q7ec1.txt,g,then you go west right underneath it,instruct
+validation,q7ec1.txt,f,mmhmm,acknowledge
+validation,q7ec1.txt,g,and then,instruct
+validation,q7ec1.txt,g,have you got the bandit territory no,query_yn
+validation,q7ec1.txt,f,so we're no it's in the left corner,reply_w
+validation,q7ec1.txt,f,there's i've got parched river bed in between me and a,explain
+validation,q7ec1.txt,g,right,acknowledge
+validation,q7ec1.txt,g,well you go past the stockade then you go you hang a left to have to take it that to avoid the parched river stockade uh parched river on yours,instruct
+validation,q7ec1.txt,g,go underneath that then along the bottom,instruct
+validation,q7ec1.txt,f,so,ready
+validation,q7ec1.txt,f,i'll i'll miss the parched river bed,acknowledge
+validation,q7ec1.txt,g,and along the bottom,instruct
+validation,q7ec1.txt,f,underneath the bandit territory,check
+validation,q7ec1.txt,g,underneath bandit territory,clarify
+validation,q7ec1.txt,g,then north up to the finish,instruct
+validation,q7ec1.txt,f,up to this,acknowledge
+validation,q7ec1.txt,g,up to the wee cross,instruct
+validation,q7ec1.txt,f,start north,acknowledge
+validation,q7ec1.txt,f,mm avoiding the gallows i guess,check
+validation,q7ec1.txt,g,that your finish,query_yn
+validation,q7ec1.txt,f,that's me finished,reply_y
+validation,q7ec1.txt,g,wait a minute i think you've went to the wrong bit,explain
+validation,q7ec1.txt,g,have you no got a wee cross a wee finishing mark beside your bandit territory,query_yn
+validation,q7ec1.txt,f,no,reply_n
+validation,q7ec1.txt,g,nope,acknowledge
+validation,q7ec1.txt,g,okey-dokey right,ready
+validation,q7ec1.txt,g,we'll go over the map again,explain
+validation,q7ec1.txt,g,right you comes down,instruct
+validation,q7ec1.txt,f,down,acknowledge
+validation,q7ec1.txt,g,past the diamond mine,instruct
+validation,q7ec1.txt,f,past the diamond mine,acknowledge
+validation,q7ec1.txt,g,along,instruct
+validation,q7ec1.txt,f,along,acknowledge
+validation,q7ec1.txt,g,have you got the graveyard on yours,query_yn
+validation,q7ec1.txt,f,no,reply_n
+validation,q7ec1.txt,g,well there's a graveyard just past the diamond mine,explain
+validation,q7ec1.txt,g,if you want to mark that in,instruct
+validation,q7ec1.txt,g,right,ready
+validation,q7ec1.txt,g,you go east after the diamond mine,instruct
+validation,q7ec1.txt,g,right,align
+validation,q7ec1.txt,g,well there's a graveyard just before you go north again,explain
+validation,q7ec1.txt,f,mmhmm,acknowledge
+validation,q7ec1.txt,f,mmhmm so there's a wee,acknowledge
+validation,q7ec1.txt,g,just draw a couple of headstones or something,instruct
+validation,q7ec1.txt,f,there's a wee graveyard there,acknowledge
+validation,q7ec1.txt,g,then you go up round the carved stones,instruct
+validation,q7ec1.txt,g,right,align
+validation,q7ec1.txt,f,up round the carved stones,acknowledge
+validation,q7ec1.txt,g,and down towards indian country,instruct
+validation,q7ec1.txt,f,down towards,acknowledge
+validation,q7ec1.txt,f,past the ravine,explain
+validation,q7ec1.txt,g,right,ready
+validation,q7ec1.txt,g,there's a great rock in between the indian country and the gold mine,explain
+validation,q7ec1.txt,f,well there's my great rock's further away it's away somewhere else,explain
+validation,q7ec1.txt,g,yeah,acknowledge
+validation,q7ec1.txt,g,there's another there's another great rock,explain
+validation,q7ec1.txt,f,oh i see,acknowledge
+validation,q7ec1.txt,g,mmhmm,acknowledge
+validation,q7ec1.txt,g,it's about the same bearing north as the indian country about midway between the indian country and the gold mine,explain
+validation,q7ec1.txt,f,right,acknowledge
+validation,q7ec1.txt,f,that's another,acknowledge
+validation,q7ec1.txt,g,right,align
+validation,q7ec1.txt,f,another wee great rock here,acknowledge
+validation,q7ec1.txt,g,right you follow it round and you get to the trout farm,instruct
+validation,q7ec1.txt,g,right follow everything round you get to the trout farm right,align
+validation,q7ec1.txt,f,right,reply_y
+validation,q7ec1.txt,f,i missed the totem pole,explain
+validation,q7ec1.txt,g,right,ready
+validation,q7ec1.txt,g,then just after you hang a right well go,instruct
+validation,q7ec1.txt,f,south,acknowledge
+validation,q7ec1.txt,g,go south,instruct
+validation,q7ec1.txt,g,there's a fort cavalry fort,explain
+validation,q7ec1.txt,f,just after the on which side of the line that i've just drawn down,query_w
+validation,q7ec1.txt,g,underneath the line,reply_w
+validation,q7ec1.txt,f,underneath the trout farm,check
+validation,q7ec1.txt,g,underneath the trout farm slightly slightly east and underneath it,clarify
+validation,q7ec1.txt,f,between that and this,check
+validation,q7ec1.txt,f,and this stockade below it,check
+validation,q7ec1.txt,g,yeah,reply_y
+validation,q7ec1.txt,f,so that's away,check
+validation,q7ec1.txt,g,stockade's directly below it,clarify
+validation,q7ec1.txt,g,then you go round past the cattle stockade,instruct
+validation,q7ec1.txt,g,right,align
+validation,q7ec1.txt,g,then you got your parched river bed,instruct
+validation,q7ec1.txt,f,you're in i've got my parched river which i've avoided,acknowledge
+validation,q7ec1.txt,g,and the bandit territory and your finishing point is pup prrr just just west and slightly above the bandit territory,instruct
+validation,q7ec1.txt,f,oh right so it's there,acknowledge
+validation,q7ec1.txt,f,just makes a slight,explain
+validation,q7ec1.txt,g,so all that that you've got going up past the gallows in,explain
+validation,q7ec1.txt,f,it is rubbish,explain
+validation,q7ec1.txt,g,everything is just the tourist route,explain
+validation,q7ec1.txt,g,right so,acknowledge
+validation,q7ec2.txt,g,right greg,ready
+validation,q7ec2.txt,g,"you've got the start with the ""x""",align
+validation,q7ec2.txt,f,top left-hand corner,check
+validation,q7ec2.txt,g,yeah,reply_y
+validation,q7ec2.txt,f,yes,reply_y
+validation,q7ec2.txt,g,you want to come down to about a centimetre left to the left of the haystack uh in a southwesterly direction,instruct
+validation,q7ec2.txt,f,southeasterly,explain
+validation,q7ec2.txt,g,southeasterly direction yeah,acknowledge
+validation,q7ec2.txt,f,right,acknowledge
+validation,q7ec2.txt,g,now eh,ready
+validation,q7ec2.txt,g,go down about the same distance to directly south below the starting point at about just below the level of the carpenter's house so from the haystack go down to directly below the starting cross to a level just below the carpenter's house,instruct
+validation,q7ec2.txt,f,where it says carpenter,check
+validation,q7ec2.txt,g,well across from that directly below the start,reply_w
+validation,q7ec2.txt,f,mmhmm,acknowledge
+validation,q7ec2.txt,g,so it's going to be in a southwesterly direction,clarify
+validation,q7ec2.txt,f,avoiding the blacksmith,query_yn
+validation,q7ec2.txt,g,what blacksmith,query_w
+validation,q7ec2.txt,f,right,ready
+validation,q7ec2.txt,f,there's a blacksmith next to the carpenter on the left-hand side of it,reply_w
+validation,q7ec2.txt,g,right,ready
+validation,q7ec2.txt,g,i see right,acknowledge
+validation,q7ec2.txt,g,eh take the line towards well along horizontally to eh,instruct
+validation,q7ec2.txt,g,the carpenter's got a couple of stiles,explain
+validation,q7ec2.txt,f,yes,acknowledge
+validation,q7ec2.txt,g,and dykes,explain
+validation,q7ec2.txt,g,just take it about oh i don't know about a couple of centimetres to the bottom you know a couple of cen-- eh about an inch,instruct
+validation,q7ec2.txt,f,an inch,check
+validation,q7ec2.txt,g,no not even an inch about half an inch,reply_n
+validation,q7ec2.txt,g,take it horizontally which takes you about oh about an inch and a half away from the carpenters just below where the carpenter is,instruct
+validation,q7ec2.txt,f,at the stiles just at the stiles,check
+validation,q7ec2.txt,g,just below the stiles below,reply_w
+validation,q7ec2.txt,g,take it down a centimetre and across a centimetre from the last stile to the left horizontally,clarify
+validation,q7ec2.txt,f,okay,acknowledge
+validation,q7ec2.txt,g,right and that,ready
+validation,q7ec2.txt,g,have you got that,align
+validation,q7ec2.txt,f,yes,reply_y
+validation,q7ec2.txt,g,right eh,ready
+validation,q7ec2.txt,g,you've got green bay at the top,query_yn
+validation,q7ec2.txt,g,see green bay,query_yn
+validation,q7ec2.txt,g,no no green bay,query_yn
+validation,q7ec2.txt,f,no green bay,reply_n
+validation,q7ec2.txt,g,well eh,ready
+validation,q7ec2.txt,g,in a northwesterly direction northeasterly direction sorry and you want a line about oh one two hchchch i would take it maybe two and a half inches northwest avoiding the carpenter's house all the way up so you want a north w-- easterly direction about dwrlr thirty five to forty degrees just below forty-five,instruct
+validation,q7ec2.txt,f,for how many inches,query_w
+validation,q7ec2.txt,g,for about two and a half inches,reply_w
+validation,q7ec2.txt,g,right eh,ready
+validation,q7ec2.txt,g,eh about two inches to the slightly below east next you want to go east about s-- just below east for about two inches,instruct
+validation,q7ec2.txt,f,over towards the the seven beeches,check
+validation,q7ec2.txt,g,over towards the seven beeches,reply_y
+validation,q7ec2.txt,g,and you want to finish up about an inch high and about oh three quarters of an inch to the left of the seven beeches,instruct
+validation,q7ec2.txt,f,okay,acknowledge
+validation,q7ec2.txt,g,right,ready
+validation,q7ec2.txt,g,you want to come past the seven beeches,instruct
+validation,q7ec2.txt,g,have you got the chapel,query_yn
+validation,q7ec2.txt,f,no,reply_n
+validation,q7ec2.txt,g,you've not got a chapel,acknowledge
+validation,q7ec2.txt,g,just below well you want to come down aloalo let me see south just off south the same about the same you know how you came below east you want the same to the east of south about the same sort of about five degrees off basically,instruct
+validation,q7ec2.txt,f,right mmhmm,acknowledge
+validation,q7ec2.txt,g,to,instruct
+validation,q7ec2.txt,f,so slightly southeast,check
+validation,q7ec2.txt,g,slightly southeast,reply_y
+validation,q7ec2.txt,g,about five degrees southeast,clarify
+validation,q7ec2.txt,f,mmhmm,acknowledge
+validation,q7ec2.txt,g,and you want to come across you want to come down about two inches again just below where it says eh seven beeches,instruct
+validation,q7ec2.txt,f,right,acknowledge
+validation,q7ec2.txt,g,well that'll be about a centimetre below the beech trees,explain
+validation,q7ec2.txt,f,mmhmm,acknowledge
+validation,q7ec2.txt,f,"so finish up next to the ""s"" of seven",check
+validation,q7ec2.txt,g,basically yes,reply_y
+validation,q7ec2.txt,f,okay,acknowledge
+validation,q7ec2.txt,g,"right on my drawing i've got a chapel that's about an inch long on the on the map it starts directly below the ""s"" and eh",explain
+validation,q7ec2.txt,g,"we've got to go round this in sort of a circular direction you're going to be moving east and then back and finishing about under the second beech tree the right-hand beech tree so you want to what you want to do is you're going down about two inches again but you've got a eh a net move east of about an inch so from the ""s"" you've got about two inches down and one inch two inches south and about one inch east and you want to come round eh about about one inch one inch east and one inch south and do a curve",instruct
+validation,q7ec2.txt,f,curve that one,check
+validation,q7ec2.txt,g,right curve it,reply_y
+validation,q7ec2.txt,g,and then you want to go in a southwest of there like direction until you meet the eh the what i ini-- what i init-- ini-- i initially said,instruct
+validation,q7ec2.txt,g,okay,align
+validation,q7ec2.txt,g,this is complicated,explain
+validation,q7ec2.txt,f,how about,query_w
+validation,q7ec2.txt,g,but what your point your initial point mark a point two inches south one inch east of the where you stopped the last time,instruct
+validation,q7ec2.txt,f,uh-huh,acknowledge
+validation,q7ec2.txt,g,okay have you done that yes,align
+validation,q7ec2.txt,f,yes,reply_y
+validation,q7ec2.txt,g,eh to get the curve i would go one inch down from where your your point is just now and,instruct
+validation,q7ec2.txt,f,one inch south,check
+validation,q7ec2.txt,g,one inch south,reply_y
+validation,q7ec2.txt,g,and one inch east and now you want to do a curve from your initial point to that point then down to the two inch,instruct
+validation,q7ec2.txt,f,then then straight down to the two inch mark,check
+validation,q7ec2.txt,g,no,reply_n
+validation,q7ec2.txt,g,it's southwest er about five ten degrees off south to the southwest to finish under the beech tree the the right-hand beech tree,clarify
+validation,q7ec2.txt,f,going southwest,check
+validation,q7ec2.txt,g,going southwest,reply_y
+validation,q7ec2.txt,f,to finish under the second beech tree i would have to go southeast if i only moved over one inch to the east in the first movement because you said two inches,explain
+validation,q7ec2.txt,g,well make it one and a half inch sorry one and a half inch east,clarify
+validation,q7ec2.txt,f,what's one and a half,query_w
+validation,q7ec2.txt,g,you what you want to do is you want to clear the eh first movement round the chapel will have to clear the beech trees and then come down again to under the first ts on the right-hand beech tree,clarify
+validation,q7ec2.txt,f,right,ready
+validation,q7ec2.txt,f,i'll try and describe it to you what i think,explain
+validation,q7ec2.txt,f,"i've come down from to the ""s"" i'm at the ""s"" just now",explain
+validation,q7ec2.txt,g,right,acknowledge
+validation,q7ec2.txt,f,of seven i'll continue down but curving round to my right,explain
+validation,q7ec2.txt,g,yeah,acknowledge
+validation,q7ec2.txt,f,okay until i've done a quarter curve a quarter of a circle,explain
+validation,q7ec2.txt,g,that's right yeah,acknowledge
+validation,q7ec2.txt,g,and that should be just on the level of the the very end of the wee leaves on the beech trees,clarify
+validation,q7ec2.txt,f,ah in mine that's far more than an inch,explain
+validation,q7ec2.txt,g,well i'll wait to do it until the end then,clarify
+validation,q7ec2.txt,f,right that's okay right i know that n--,acknowledge
+validation,q7ec2.txt,f,and now i can head back,check
+validation,q7ec2.txt,g,right,reply_y
+validation,q7ec2.txt,f,s-- in a s-- southeasterly direction to,check
+validation,q7ec2.txt,g,see what southwesterly aye,reply_y
+validation,q7ec2.txt,f,southwesterly to the point below this trunk of the second beech tree,check
+validation,q7ec2.txt,g,oh that's right yeah,reply_y
+validation,q7ec2.txt,f,right i'll draw that then,acknowledge
+validation,q7ec2.txt,f,right,acknowledge
+validation,q7ec2.txt,g,do you have reclaimed fields,query_yn
+validation,q7ec2.txt,f,yes,reply_y
+validation,q7ec2.txt,g,so eh,ready
+validation,q7ec2.txt,g,you'll be wanting to go,instruct
+validation,q7ec2.txt,f,it's about an inch and a half to two inches below where i am just now,explain
+validation,q7ec2.txt,g,about an inch and a half to two inches below where you are the now,acknowledge
+validation,q7ec2.txt,g,the reclaimed fields,check
+validation,q7ec2.txt,f,mmhmm,reply_y
+validation,q7ec2.txt,g,aye see er,acknowledge
+validation,q7ec2.txt,g,well what you want to do here is you want to go round it in a sort of tube like f-- form like a test tube you want to do a test tube round it,instruct
+validation,q7ec2.txt,g,so you want to go well you're two inches down eh,instruct
+validation,q7ec2.txt,f,will i go down continuing the same gradient i'm on will i go down 'til i'm just above the reclaimed fields,query_yn
+validation,q7ec2.txt,g,well you've got,reply_w
+validation,q7ec2.txt,g,what have you got reclaimed fields and then sort of soiled ground to the right-hand side of it,query_yn
+validation,q7ec2.txt,f,eh there's nothing to the right-hand side,explain
+validation,q7ec2.txt,f,on the left-hand side there's a whitewashed cottage,explain
+validation,q7ec2.txt,g,whitewashed cot--,acknowledge
+validation,q7ec2.txt,g,on the right-hand side,query_yn
+validation,q7ec2.txt,f,on the left-hand side,clarify
+validation,q7ec2.txt,g,left-hand side whitewashed,acknowledge
+validation,q7ec2.txt,g,eh well,ready
+validation,q7ec2.txt,g,we're going we're going to go round the right-hand side of it,instruct
+validation,q7ec2.txt,f,right,acknowledge
+validation,q7ec2.txt,g,okay,align
+validation,q7ec2.txt,g,so you want to come,instruct
+validation,q7ec2.txt,g,do you have crane bay,query_yn
+validation,q7ec2.txt,f,yes,reply_y
+validation,q7ec2.txt,g,well what my map does it does this test tube thing round the reclaimed fields then it heads south towards the,instruct
+validation,q7ec2.txt,g,you've got a lower right-hand tip and then you've got two tips off crane bay on the right-hand side which are just about on the same level,explain
+validation,q7ec2.txt,g,"can you see that just above the ""b"" of crane bay",align
+validation,q7ec2.txt,g,so i want to come round the c-- reclaimed fields and you're heading west and then you head south and you follow the line of crane bay,instruct
+validation,q7ec2.txt,g,yeah,align
+validation,q7ec2.txt,f,right okay,acknowledge
+validation,q7ec2.txt,f,so will i move down to nearer reclaimed fields,query_yn
+validation,q7ec2.txt,g,move down to nearer reclaimed fields,reply_y
+validation,q7ec2.txt,g,go round it,instruct
+validation,q7ec2.txt,f,right right d-- un--,acknowledge
+validation,q7ec2.txt,f,under what letter will i finish the test tube shape,query_w
+validation,q7ec2.txt,g,"eh just past the ""r"" just past the the drawing of the reclaimed fields",reply_w
+validation,q7ec2.txt,f,that that would be me right over at the whitewashed cottage then next to that,explain
+validation,q7ec2.txt,g,just to the left-hand side,reply_w
+validation,q7ec2.txt,g,well don't go that far then come about an inch before it,instruct
+validation,q7ec2.txt,f,right,acknowledge
+validation,q7ec2.txt,f,"and it's that'll be about under the the ""c"" of reclaimed",check
+validation,q7ec2.txt,g,okay that'll f-- do fine yes,reply_y
+validation,q7ec2.txt,f,right,acknowledge
+validation,q7ec2.txt,g,have you got that,align
+validation,q7ec2.txt,f,uh-huh,reply_y
+validation,q7ec2.txt,g,"well just below that south of that there's a point just above the ""b"" of crane bay",explain
+validation,q7ec2.txt,f,mmhmm,acknowledge
+validation,q7ec2.txt,f,like a wee sort of an,check
+validation,q7ec2.txt,f,a wee bay bit in it,check
+validation,q7ec2.txt,g,a wee point,clarify
+validation,q7ec2.txt,g,there's a sm-- a smiley face and then there's a,explain
+validation,q7ec2.txt,f,there's no smiley face,reply_n
+validation,q7ec2.txt,g,see if you want to come due south to that point and then follow the coast a bit,instruct
+validation,q7ec2.txt,f,follow the coast to where,query_w
+validation,q7ec2.txt,g,follow the coast round eh,reply_w
+validation,q7ec2.txt,g,you've got it does a curve and then it meets a point then it goes just about south crane bay it's got a curve and then it goes due south,explain
+validation,q7ec2.txt,g,can you see that,align
+validation,q7ec2.txt,f,mmhmm,reply_y
+validation,q7ec2.txt,g,i've got a meadow to the left of that due south pee,explain
+validation,q7ec2.txt,f,a vast meadow,query_yn
+validation,q7ec2.txt,g,a vast meadow,reply_y
+validation,q7ec2.txt,f,i've got a vast meadow up just below the blacksmiths and carpenters,explain
+validation,q7ec2.txt,g,well is that huge big and there's nothing at all in that space,query_yn
+validation,q7ec2.txt,f,uh-huh,reply_y
+validation,q7ec2.txt,f,except a vast meadow,clarify
+validation,q7ec2.txt,g,about halfway up the page,query_yn
+validation,q7ec2.txt,f,about halfway up the page it's empty on mine,reply_w
+validation,q7ec2.txt,g,well you want to well anyway follow crane bay round the curve,instruct
+validation,q7ec2.txt,f,mmhmm,acknowledge
+validation,q7ec2.txt,g,goes going going,instruct
+validation,q7ec2.txt,f,following the contour more or less,query_yn
+validation,q7ec2.txt,g,going west following the contour,reply_y
+validation,q7ec2.txt,g,until you meet just where you stop going west,clarify
+validation,q7ec2.txt,g,and we head south we head southwest there coming out you see it goes you go just about due south then it finishes it's about an inch and a half long,instruct
+validation,q7ec2.txt,f,uh-huh,acknowledge
+validation,q7ec2.txt,g,and just where it finishes there come about you want to be about an inch to the west of that where you where you stop after going southwest,instruct
+validation,q7ec2.txt,f,so it's south on the actual crane bay then it's about an inch and a half going south,check
+validation,q7ec2.txt,g,yeah,reply_y
+validation,q7ec2.txt,f,and then about an inch going west,check
+validation,q7ec2.txt,g,that's right,reply_y
+validation,q7ec2.txt,g,just about a centimetre above,explain
+validation,q7ec2.txt,f,the west tip,check
+validation,q7ec2.txt,g,the west hand,explain
+validation,q7ec2.txt,g,yeah,acknowledge
+validation,q7ec2.txt,f,right,acknowledge
+validation,q7ec2.txt,f,okay,ready
+validation,q7ec2.txt,f,now have you got attractive cliffs there,query_yn
+validation,q7ec2.txt,g,yes,reply_y
+validation,q7ec2.txt,f,mmhmm,acknowledge
+validation,q7ec2.txt,g,and you want to follow across the top of them west,instruct
+validation,q7ec2.txt,f,across the top,query_yn
+validation,q7ec2.txt,g,west,clarify
+validation,q7ec2.txt,g,just below i've got a vast meadow there,explain
+validation,q7ec2.txt,f,mmhmm,acknowledge
+validation,q7ec2.txt,f,right,acknowledge
+validation,q7ec2.txt,f,where will i stop that line abo-- across the top,query_w
+validation,q7ec2.txt,g,eh about a centimetre after attract-- attractive cliffs,reply_w
+validation,q7ec2.txt,f,right,acknowledge
+validation,q7ec2.txt,g,you want to go down about ten degrees off south southwest,instruct
+validation,q7ec2.txt,f,mm about a hundred and ninety degrees,check
+validation,q7ec2.txt,g,about eh aye,reply_y
+validation,q7ec2.txt,g,about a hundred and ninety-five i would say,clarify
+validation,q7ec2.txt,f,okay,acknowledge
+validation,q7ec2.txt,f,towards crashed spaceship,query_yn
+validation,q7ec2.txt,g,i've not got crashed spaceship er spaceship,explain
+validation,q7ec2.txt,g,and that's that's,explain
+validation,q7ec2.txt,f,do you have the chestnut tree,query_yn
+validation,q7ec2.txt,g,yeah i've got the chestnut tree,reply_y
+validation,q7ec2.txt,g,that's my f-- your finishing point,explain
+validation,q7ec2.txt,f,eh well,ready
+validation,q7ec2.txt,f,i've got a crashed spaceship,explain
+validation,q7ec2.txt,f,the right the the straight distance between attractive cliffs and chestnut tree about half of that distance between them in a straight line and then two inches over to the west,explain
+validation,q7ec2.txt,g,that's just about on the edge of the page,check
+validation,q7ec2.txt,f,uh-huh,reply_y
+validation,q7ec2.txt,g,yeah,acknowledge
+validation,q7ec2.txt,f,there's a crashed spaceship,clarify
+validation,q7ec2.txt,f,we're assuming that the top of the map is north,query_yn
+validation,q7ec2.txt,f,i would imagine right,acknowledge
+validation,q7ec2.txt,g,yes,reply_y
+validation,q7ec2.txt,f,right,ready
+validation,q7ec2.txt,f,so where will i go now,query_w
+validation,q7ec2.txt,g,s-- so where are you at bottom of the attractive cliffs,query_yn
+validation,q7ec2.txt,f,no,reply_n
+validation,q7ec2.txt,f,i'm at the top,explain
+validation,q7ec2.txt,g,the top,acknowledge
+validation,q7ec2.txt,g,well you want one nine five,clarify
+validation,q7ec2.txt,f,right,acknowledge
+validation,q7ec2.txt,f,to where,query_w
+validation,q7ec2.txt,g,to the bottom of the attractive cliffs just about ah about a centimetre below the attractive cliffs,reply_w
+validation,q7ec2.txt,f,right,acknowledge
+validation,q7ec2.txt,g,eh you've got a space craft about here,check
+validation,q7ec2.txt,f,about a,explain
+validation,q7ec2.txt,g,how far from the edge of the page,query_w
+validation,q7ec2.txt,f,well the s-- i just now i'm an inch to the an inch east ah no a centimetre east of the crashed spaceship and at the very top of it,reply_w
+validation,q7ec2.txt,g,well eh,ready
+validation,q7ec2.txt,g,so can you come below it,query_w
+validation,q7ec2.txt,g,you're going to have to come below it yes,check
+validation,q7ec2.txt,g,or can you go round the top,query_w
+validation,q7ec2.txt,f,oh i can come straight down past the side of it i can come south just now if i want to,reply_w
+validation,q7ec2.txt,g,s-- can you come south and then come slightly west then south again or can you go s-- we-- can you go west just now then south and then east to the finish,query_w
+validation,q7ec2.txt,f,i can't go i can't go west just now really,reply_w
+validation,q7ec2.txt,g,you can't go west,acknowledge
+validation,q7ec2.txt,g,take it a bit more southwest until you're below it,instruct
+validation,q7ec2.txt,f,uh-huh,acknowledge
+validation,q7ec2.txt,f,i could go i could go west past the top of it if you wanted to right over to the edge of the page,explain
+validation,q7ec2.txt,g,well do that yeah do that,instruct
+validation,q7ec2.txt,g,and you want to go south when you get about half a centimetre to the edge of the page,instruct
+validation,q7ec2.txt,f,right,acknowledge
+validation,q7ec2.txt,g,until the bottom of the chestnut tree,instruct
+validation,q7ec2.txt,f,in the very bottom,check
+validation,q7ec2.txt,g,the very bottom of the chestnut tree,reply_y
+validation,q7ec2.txt,f,right,acknowledge
+validation,q7ec2.txt,f,ba-- but above the words chestnut tree,check
+validation,q7ec2.txt,g,yeah,reply_y
+validation,q7ec2.txt,g,the bottom of the trunk of the chestnut tree,clarify
+validation,q7ec2.txt,f,mmhmm,acknowledge
+validation,q7ec2.txt,g,and then you want to go east along the line of the bottom of the chestnut tree to about oh half an inch away from the bottom,instruct
+validation,q7ec2.txt,f,right,acknowledge
+validation,q7ec2.txt,g,and then you want to go up to the the mid portion of the chestnut tree to finish just below where the the f-- eh the leaf-line starts,instruct
+validation,q7ec2.txt,f,over at the tree itself,query_yn
+validation,q7ec2.txt,g,well you're about half an inch away from it,reply_w
+validation,q7ec2.txt,f,so,ready
+validation,q7ec2.txt,f,"i'm here just now above the ""c"" of chestnut",explain
+validation,q7ec2.txt,g,yeah,acknowledge
+validation,q7ec2.txt,g,you want to go up like about,clarify
+validation,q7ec2.txt,f,due north,check
+validation,q7ec2.txt,g,due north about half just where the wee bump in the tree is,clarify
+validation,q7ec2.txt,f,right,acknowledge
+validation,q7ec2.txt,g,and that's your finish with a big cross,instruct
+validation,q7ec2.txt,f,right,acknowledge
+validation,q7ec2.txt,f,there's no finish point marked on this,explain
+validation,q7ec2.txt,g,yeah,acknowledge
+validation,q7ec2.txt,g,there's your big cross,clarify
+validation,q7ec2.txt,f,right,acknowledge
+validation,q8nc4.txt,g,right,ready
+validation,q8nc4.txt,g,ehm,ready
+validation,q8nc4.txt,g,from the start g-- go down about ten centimetres down the left-hand side of the camera shop,instruct
+validation,q8nc4.txt,f,mmhmm,acknowledge
+validation,q8nc4.txt,f,uh-huh,acknowledge
+validation,q8nc4.txt,g,and round the bottom of the parked van,instruct
+validation,q8nc4.txt,f,right,ready
+validation,q8nc4.txt,f,where's the parked van,query_w
+validation,q8nc4.txt,f,i haven't got one,explain
+validation,q8nc4.txt,g,right,acknowledge
+validation,q8nc4.txt,g,go down well down about ten centimetres then,instruct
+validation,q8nc4.txt,f,below the camera shop,check
+validation,q8nc4.txt,g,yeah,reply_y
+validation,q8nc4.txt,f,right,acknowledge
+validation,q8nc4.txt,g,then right about five centimetres,instruct
+validation,q8nc4.txt,f,uh-huh,acknowledge
+validation,q8nc4.txt,g,then,ready
+validation,q8nc4.txt,g,do you have the allotments there,query_yn
+validation,q8nc4.txt,f,uh-huh,reply_y
+validation,q8nc4.txt,g,right,acknowledge
+validation,q8nc4.txt,g,go up well 'til you're at the top of the left-hand side of the allotments,instruct
+validation,q8nc4.txt,f,uh-huh,acknowledge
+validation,q8nc4.txt,g,okay,align
+validation,q8nc4.txt,g,then,ready
+validation,q8nc4.txt,g,diagonally to your up and right,instruct
+validation,q8nc4.txt,f,uh-huh,acknowledge
+validation,q8nc4.txt,g,about thirty degrees,instruct
+validation,q8nc4.txt,g,for about fifteen centimetres 'til you're on the right-hand side of the disused monastery but about ten centimetres below it,instruct
+validation,q8nc4.txt,f,uh-huh,acknowledge
+validation,q8nc4.txt,f,nn right,acknowledge
+validation,q8nc4.txt,f,past the west lake,query_yn
+validation,q8nc4.txt,g,i don't have that,reply_w
+validation,q8nc4.txt,f,right,acknowledge
+validation,q8nc4.txt,f,have you got the flight museum,query_yn
+validation,q8nc4.txt,g,nope,reply_n
+validation,q8nc4.txt,g,okay have you got the disused monastery there,align
+validation,q8nc4.txt,f,right,ready
+validation,q8nc4.txt,f,uh-huh,reply_y
+validation,q8nc4.txt,f,so is it to the left of the disused monastery i've to,check
+validation,q8nc4.txt,g,it's to the go diagonally right,clarify
+validation,q8nc4.txt,f,mmhmm,acknowledge
+validation,q8nc4.txt,g,'til you're about ten centimetres below the disused monastery and on its right-hand side,clarify
+validation,q8nc4.txt,f,on its right,check
+validation,q8nc4.txt,g,right-hand side yeah,reply_y
+validation,q8nc4.txt,f,right,acknowledge
+validation,q8nc4.txt,f,uh-huh,acknowledge
+validation,q8nc4.txt,g,then go directly up 'til you're at the top of the disused monastery on the right-hand side,instruct
+validation,q8nc4.txt,f,to the right of it,check
+validation,q8nc4.txt,g,mmhmm,reply_y
+validation,q8nc4.txt,g,just 'til you're at the very top of it,clarify
+validation,q8nc4.txt,f,okay,acknowledge
+validation,q8nc4.txt,f,above it or to the right of it,check
+validation,q8nc4.txt,g,just just on the right-hand side,clarify
+validation,q8nc4.txt,g,and just go round the top of it,instruct
+validation,q8nc4.txt,f,mm,acknowledge
+validation,q8nc4.txt,g,'til you're to the bottom left-hand side of it,instruct
+validation,q8nc4.txt,f,okay,acknowledge
+validation,q8nc4.txt,f,m-- right right round it,check
+validation,q8nc4.txt,g,yeah,reply_y
+validation,q8nc4.txt,f,okay,acknowledge
+validation,q8nc4.txt,g,right,ready
+validation,q8nc4.txt,g,you're bottom left-hand side so just ehm,instruct
+validation,q8nc4.txt,g,have you got the alpine garden,query_yn
+validation,q8nc4.txt,f,uh-huh,reply_y
+validation,q8nc4.txt,g,right just ehm,ready
+validation,q8nc4.txt,g,go right 'til you're at the do-- go directly le-- ehm directly left 'til you're on the left-hand side of the alpine garden and about four centimetres below it,instruct
+validation,q8nc4.txt,f,four centimetres below it,check
+validation,q8nc4.txt,g,below it yeah,reply_y
+validation,q8nc4.txt,g,just go direct to the left,clarify
+validation,q8nc4.txt,f,on the left,check
+validation,q8nc4.txt,f,right okay,acknowledge
+validation,q8nc4.txt,g,yes,reply_y
+validation,q8nc4.txt,g,and go up to the top left-hand side of the alpine garden,instruct
+validation,q8nc4.txt,f,okay,acknowledge
+validation,q8nc4.txt,g,and go directly right about two centimetres,instruct
+validation,q8nc4.txt,f,across the top of it,check
+validation,q8nc4.txt,g,across the top of it yeah,reply_y
+validation,q8nc4.txt,f,uh-huh,acknowledge
+validation,q8nc4.txt,g,have you got a youth hostel,query_yn
+validation,q8nc4.txt,f,nope,reply_n
+validation,q8nc4.txt,g,no,acknowledge
+validation,q8nc4.txt,g,right ehm,ready
+validation,q8nc4.txt,g,go directly up about four centimetres,instruct
+validation,q8nc4.txt,f,eh have you got the parked van or the picket fence,query_yn
+validation,q8nc4.txt,g,yeah,reply_y
+validation,q8nc4.txt,g,you're talk-- it's going to be about four centimetres on the left-hand side of about four centimetres below the parked van on its left-hand side,clarify
+validation,q8nc4.txt,f,okay,acknowledge
+validation,q8nc4.txt,g,go up to about there,clarify
+validation,q8nc4.txt,g,then go right two centimetres,instruct
+validation,q8nc4.txt,f,right,check
+validation,q8nc4.txt,g,mmhmm,reply_y
+validation,q8nc4.txt,f,underneath it,check
+validation,q8nc4.txt,g,yeah,reply_y
+validation,q8nc4.txt,g,you're still going to be quite a bit below the parked van,clarify
+validation,q8nc4.txt,f,okay,acknowledge
+validation,q8nc4.txt,g,then have you got a telephone box,query_yn
+validation,q8nc4.txt,f,nope,reply_n
+validation,q8nc4.txt,g,no,acknowledge
+validation,q8nc4.txt,g,ehm right,ready
+validation,q8nc4.txt,g,down and right diagonally,instruct
+validation,q8nc4.txt,f,have you got the level crossing,query_yn
+validation,q8nc4.txt,f,oh i have got the telephone box,explain
+validation,q8nc4.txt,g,phone box,acknowledge
+validation,q8nc4.txt,g,"oh d-- ehm go from where you are to directly 'til you're below the ""t"" of the telephone box",instruct
+validation,q8nc4.txt,f,mmhmm,acknowledge
+validation,q8nc4.txt,f,right,acknowledge
+validation,q8nc4.txt,f,have you not got the level crossing,query_yn
+validation,q8nc4.txt,g,nope,reply_n
+validation,q8nc4.txt,f,well anyway so,ready
+validation,q8nc4.txt,g,i've not got that,reply_n
+validation,q8nc4.txt,f,i go from,check
+validation,q8nc4.txt,g,go from,clarify
+validation,q8nc4.txt,f,"below the parked van straight down to the ""t"" of the",check
+validation,q8nc4.txt,g,"below the ""t"" of the telephone box",clarify
+validation,q8nc4.txt,f,right,acknowledge
+validation,q8nc4.txt,f,okay,acknowledge
+validation,q8nc4.txt,g,okay then,ready
+validation,q8nc4.txt,g,along below the words telephone box,instruct
+validation,q8nc4.txt,f,uh-huh,acknowledge
+validation,q8nc4.txt,g,then up about three centimetres 'til you're at the top of the telephone box,instruct
+validation,q8nc4.txt,f,uh-huh,acknowledge
+validation,q8nc4.txt,g,have you got a thatched mud hut,query_yn
+validation,q8nc4.txt,f,nope,reply_n
+validation,q8nc4.txt,g,right ehm,ready
+validation,q8nc4.txt,g,diagonally up and left,instruct
+validation,q8nc4.txt,f,mmhmm,acknowledge
+validation,q8nc4.txt,g,about four centimetres 'til you're directly below the middle of the east lake you're like if you see what i mean,instruct
+validation,q8nc4.txt,f,right,acknowledge
+validation,q8nc4.txt,f,a-- above the le-- i've got a level crossing there so,explain
+validation,q8nc4.txt,g,yeah,acknowledge
+validation,q8nc4.txt,g,i've not we've not i've not got one here,explain
+validation,q8nc4.txt,f,right so,ready
+validation,q8nc4.txt,f,i'm am i quite close to the,check
+validation,q8nc4.txt,g,up at up and up and left,clarify
+validation,q8nc4.txt,f,bottom of the east lake,check
+validation,q8nc4.txt,g,no,reply_n
+validation,q8nc4.txt,g,you're still going to be about six centimetres down from it but you're going to be directly below the middle of it,clarify
+validation,q8nc4.txt,f,so i'm probably below the level crossing as well,explain
+validation,q8nc4.txt,g,mm,acknowledge
+validation,q8nc4.txt,f,right,acknowledge
+validation,q8nc4.txt,g,then directly up,instruct
+validation,q8nc4.txt,f,towards the east lake,check
+validation,q8nc4.txt,g,straight up to the east lake 'til you're just eh at the middle of the east lake just at the bottom of it,clarify
+validation,q8nc4.txt,f,uh-huh,acknowledge
+validation,q8nc4.txt,g,to a part of it,clarify
+validation,q8nc4.txt,g,then left about five centimetres to the finish,instruct
+validation,q8nc4.txt,f,is that wh-- where's that in relation to the parked van have you go--,query_w
+validation,q8nc4.txt,g,parked van it's right about five centimetres and down two,reply_w
+validation,q8nc4.txt,f,right,acknowledge
+validation,q8nc4.txt,g,okay,align
+validation,q8nc4.txt,f,okay,reply_y
+validation,q8nc4.txt,g,that's it,instruct
+validation,q8nc4.txt,g,s-- probably it's probably nothing like it but heh and um,explain
+validation,q8nc4.txt,f,i don't think i banged in,explain
+validation,q8nc4.txt,f,no,acknowledge
+validation,q8nc4.txt,f,i think it was sounded all right,explain
+validation,q8nc8.txt,g,ehm do you have the start yeah,query_yn
+validation,q8nc8.txt,f,uh-huh right,reply_y
+validation,q8nc8.txt,g,and the diamond mine,query_yn
+validation,q8nc8.txt,f,in the up at,check
+validation,q8nc8.txt,f,uh-huh,reply_y
+validation,q8nc8.txt,f,up at the top to the left of the diamond mind,check
+validation,q8nc8.txt,g,yeah,reply_y
+validation,q8nc8.txt,f,mine right,acknowledge
+validation,q8nc8.txt,g,ah right,acknowledge
+validation,q8nc8.txt,g,"if you come down to the just below the ""d"" in the diamond",instruct
+validation,q8nc8.txt,f,okay,acknowledge
+validation,q8nc8.txt,f,straight down,check
+validation,q8nc8.txt,g,yeah,reply_y
+validation,q8nc8.txt,g,and then along,instruct
+validation,q8nc8.txt,g,do you have the springboks,query_yn
+validation,q8nc8.txt,f,no,reply_n
+validation,q8nc8.txt,g,no,acknowledge
+validation,q8nc8.txt,g,do you have the highest viewpoint,query_yn
+validation,q8nc8.txt,f,uh-huh,reply_y
+validation,q8nc8.txt,f,over in the right,explain
+validation,q8nc8.txt,f,uh-huh,reply_y
+validation,q8nc8.txt,g,yeah,acknowledge
+validation,q8nc8.txt,g,right,ready
+validation,q8nc8.txt,g,if you move up very slightly to the right along to the right,instruct
+validation,q8nc8.txt,g,yeah,ready
+validation,q8nc8.txt,g,did i say that yeah,query_yn
+validation,q8nc8.txt,g,up very slightly to the right,instruct
+validation,q8nc8.txt,f,right wait a minute,ready
+validation,q8nc8.txt,f,i'm i've to go along the bottom of the diamond diamond mine first,check
+validation,q8nc8.txt,g,uh-huh yeah,reply_y
+validation,q8nc8.txt,f,right,acknowledge
+validation,q8nc8.txt,g,yeah,acknowledge
+validation,q8nc8.txt,f,so i'm,check
+validation,q8nc8.txt,f,right,acknowledge
+validation,q8nc8.txt,g,"ehm from the ""e"" in mine",instruct
+validation,q8nc8.txt,f,uh-huh,acknowledge
+validation,q8nc8.txt,g,i go another maybe six centimetres in the same direction,instruct
+validation,q8nc8.txt,f,mmhmm,acknowledge
+validation,q8nc8.txt,g,and then move if you move around and up to the left almost vertically but not quite,instruct
+validation,q8nc8.txt,f,around,check
+validation,q8nc8.txt,g,uh-huh,reply_y
+validation,q8nc8.txt,f,so right i'm i'm at the moment i'm about halfway between the diamond mine and the highest viewpoint,align
+validation,q8nc8.txt,g,yeah right,reply_y
+validation,q8nc8.txt,g,if you go along another maybe two or three centimetres then,instruct
+validation,q8nc8.txt,f,right,acknowledge
+validation,q8nc8.txt,g,and then up and around to the left almost vertically but not quite,instruct
+validation,q8nc8.txt,f,right oh,acknowledge
+validation,q8nc8.txt,g,'til you get to about level with the bottom of the mountain or hill,instruct
+validation,q8nc8.txt,f,oh right okay mmhmm,acknowledge
+validation,q8nc8.txt,g,okay,align
+validation,q8nc8.txt,g,and then just move around the top about a centimetre space between the your route and the mountain if you just go right around to the,instruct
+validation,q8nc8.txt,f,so wait a minute i'm going right round the top of the mountain then,check
+validation,q8nc8.txt,g,uh-huh uh-huh,reply_y
+validation,q8nc8.txt,f,a just curving right round,check
+validation,q8nc8.txt,g,yeah,reply_y
+validation,q8nc8.txt,g,until you get to the bottom of the mountain at the right-hand side,clarify
+validation,q8nc8.txt,g,you got that yeah,align
+validation,q8nc8.txt,f,uh-huh,reply_y
+validation,q8nc8.txt,g,right,ready
+validation,q8nc8.txt,g,now move down about six centimetres,instruct
+validation,q8nc8.txt,f,just just straight down,check
+validation,q8nc8.txt,g,just vertically down yeah,reply_y
+validation,q8nc8.txt,f,have you got the overgrown gully,query_yn
+validation,q8nc8.txt,g,no,reply_n
+validation,q8nc8.txt,f,all right,acknowledge
+validation,q8nc8.txt,f,have you got the safari truck,query_yn
+validation,q8nc8.txt,g,yeah,reply_y
+validation,q8nc8.txt,g,and if when you stop you should be about two centimetres above the safari truck,instruct
+validation,q8nc8.txt,f,to the right of it,query_yn
+validation,q8nc8.txt,f,oh,acknowledge
+validation,q8nc8.txt,g,yeah,reply_y
+validation,q8nc8.txt,g,yeah,reply_y
+validation,q8nc8.txt,f,right,acknowledge
+validation,q8nc8.txt,f,right,acknowledge
+validation,q8nc8.txt,g,and move down about forty-five degrees to the left,instruct
+validation,q8nc8.txt,g,do you have the field station,query_yn
+validation,q8nc8.txt,f,no oh,reply_n
+validation,q8nc8.txt,g,no,acknowledge
+validation,q8nc8.txt,g,if you move down about seven centimetres to the left,instruct
+validation,q8nc8.txt,f,right,acknowledge
+validation,q8nc8.txt,f,going across the top of the safari truck,check
+validation,q8nc8.txt,g,yeah yeah,reply_y
+validation,q8nc8.txt,f,so going down but to the left at the same time,check
+validation,q8nc8.txt,g,mmhmm,reply_y
+validation,q8nc8.txt,g,when you stop you should be about two centimetres from safari truck and a wee bit below it,clarify
+validation,q8nc8.txt,f,right,acknowledge
+validation,q8nc8.txt,g,okay,ready
+validation,q8nc8.txt,g,and now just move along to the left,instruct
+validation,q8nc8.txt,f,in what way horizontal straight across,query_yn
+validation,q8nc8.txt,g,yeah,reply_y
+validation,q8nc8.txt,g,do you have the banana tree,query_yn
+validation,q8nc8.txt,f,uh-huh,reply_y
+validation,q8nc8.txt,g,right,ready
+validation,q8nc8.txt,g,if you move along and round the top of that,instruct
+validation,q8nc8.txt,f,right okay,acknowledge
+validation,q8nc8.txt,f,so is it straight across,check
+validation,q8nc8.txt,g,mmhmm,reply_y
+validation,q8nc8.txt,f,and then round,check
+validation,q8nc8.txt,g,the top of the banana tree,reply_y
+validation,q8nc8.txt,g,and down on the left-hand side of it,instruct
+validation,q8nc8.txt,f,mmhmm,acknowledge
+validation,q8nc8.txt,g,for about twenty centimetres,instruct
+validation,q8nc8.txt,f,all right,acknowledge
+validation,q8nc8.txt,f,so a good bit down then,check
+validation,q8nc8.txt,g,yeah,reply_y
+validation,q8nc8.txt,f,have you got the,query_yn
+validation,q8nc8.txt,g,do you have the gold mine,query_yn
+validation,q8nc8.txt,f,no,reply_n
+validation,q8nc8.txt,g,no,acknowledge
+validation,q8nc8.txt,g,yeah,reply_y
+validation,q8nc8.txt,g,about twenty centimetres then,clarify
+validation,q8nc8.txt,f,i've got the rock fall,explain
+validation,q8nc8.txt,f,have you got that,query_yn
+validation,q8nc8.txt,g,no,reply_n
+validation,q8nc8.txt,f,oh,acknowledge
+validation,q8nc8.txt,f,right eh right just that's quite a lot then twenty centimetres i draw the line,explain
+validation,q8nc8.txt,f,where,query_w
+validation,q8nc8.txt,f,right,acknowledge
+validation,q8nc8.txt,f,have you got the great lake,query_yn
+validation,q8nc8.txt,g,no i don't have,reply_n
+validation,q8nc8.txt,f,oh right,acknowledge
+validation,q8nc8.txt,g,yes sorry i do,reply_y
+validation,q8nc8.txt,f,so i'm am i still a good bit above the great lake,query_yn
+validation,q8nc8.txt,g,you're about i'd say about ten fifteen centimetres above the great lake,reply_w
+validation,q8nc8.txt,f,right okay,acknowledge
+validation,q8nc8.txt,f,okay,acknowledge
+validation,q8nc8.txt,g,right ehm,ready
+validation,q8nc8.txt,g,if you move along,instruct
+validation,q8nc8.txt,g,do you have the rope bridge,query_yn
+validation,q8nc8.txt,f,ehm uh-huh,reply_y
+validation,q8nc8.txt,f,i've got one over at the right about halfway down the page,explain
+validation,q8nc8.txt,g,uh-huh that's right,acknowledge
+validation,q8nc8.txt,g,if you move along horizontally about three or four centimetres,instruct
+validation,q8nc8.txt,f,mmhmm,acknowledge
+validation,q8nc8.txt,g,and then once you've done that move up to the rope bridge just from where you are to the rope bridge and then cross it,instruct
+validation,q8nc8.txt,f,sort of diagonally,check
+validation,q8nc8.txt,f,right,acknowledge
+validation,q8nc8.txt,f,right,acknowledge
+validation,q8nc8.txt,g,do you have the giraffes,query_yn
+validation,q8nc8.txt,f,uh-huh,reply_y
+validation,q8nc8.txt,f,i've also got some crocodiles,explain
+validation,q8nc8.txt,g,ehm once you've crossed the rope bridge if you move out in the same direction,instruct
+validation,q8nc8.txt,f,mmhmm,acknowledge
+validation,q8nc8.txt,g,curving round a little to maybe two centimetres or so,instruct
+validation,q8nc8.txt,f,right,acknowledge
+validation,q8nc8.txt,f,mmhmm,acknowledge
+validation,q8nc8.txt,g,and then move vertically down to the giraffes,instruct
+validation,q8nc8.txt,f,right,acknowledge
+validation,q8nc8.txt,f,okay,ready
+validation,q8nc8.txt,f,so i'm at the the right of the giraffes,align
+validation,q8nc8.txt,g,mmhmm,reply_y
+validation,q8nc8.txt,f,okay so,ready
+validation,q8nc8.txt,f,what do i do now,query_w
+validation,q8nc8.txt,g,"ehm you you should be around about at the ""s"" in giraffe about a centimetre below it",instruct
+validation,q8nc8.txt,f,okay,acknowledge
+validation,q8nc8.txt,g,and then curve round slightly for about four five centimetres,instruct
+validation,q8nc8.txt,f,what going going left,query_yn
+validation,q8nc8.txt,g,going left sorry yeah,reply_y
+validation,q8nc8.txt,f,so curving up the way,query_yn
+validation,q8nc8.txt,g,no curving down,reply_n
+validation,q8nc8.txt,f,right,acknowledge
+validation,q8nc8.txt,f,have you got the disused warehouse,query_yn
+validation,q8nc8.txt,g,no i don't,reply_n
+validation,q8nc8.txt,f,right,ready
+validation,q8nc8.txt,f,am i going quite near the bottom of the page here then,query_yn
+validation,q8nc8.txt,g,no,reply_n
+validation,q8nc8.txt,g,once you once you've moved you should be about maybe five centimetres from bottom of page,reply_w
+validation,q8nc8.txt,g,and start to curve up the way instead but still going left,instruct
+validation,q8nc8.txt,f,right,acknowledge
+validation,q8nc8.txt,f,i think i'm probably to go underneath the warehouse then,explain
+validation,q8nc8.txt,g,mmhmm,acknowledge
+validation,q8nc8.txt,f,right,acknowledge
+validation,q8nc8.txt,g,and move that down almost vertically down but not quite for about two centimetres,instruct
+validation,q8nc8.txt,f,wait a minute where am i in relation to the great lake now then well i mean,query_w
+validation,q8nc8.txt,g,you should be about,reply_w
+validation,q8nc8.txt,f,at the moment i'm about level with the great lake but about two three centimetres to the right of it,explain
+validation,q8nc8.txt,g,mm that's about okay,acknowledge
+validation,q8nc8.txt,f,right,acknowledge
+validation,q8nc8.txt,g,if you come down so you're about a centimetre below the great lake and just move underneath the great lake,instruct
+validation,q8nc8.txt,f,so i'm going back down again,check
+validation,q8nc8.txt,f,oh right go underneath it,acknowledge
+validation,q8nc8.txt,f,so just straight across then to the left,check
+validation,q8nc8.txt,g,straight across,reply_y
+validation,q8nc8.txt,g,"until you get to the ""g""",instruct
+validation,q8nc8.txt,f,i'll just score that wee bit out then,explain
+validation,q8nc8.txt,f,uh-huh,acknowledge
+validation,q8nc8.txt,g,and if you curve up to the left ehm about five centimetres,instruct
+validation,q8nc8.txt,g,do you have the rock fall,query_yn
+validation,q8nc8.txt,f,uh-huh,reply_y
+validation,q8nc8.txt,g,right,ready
+validation,q8nc8.txt,g,you should you should finish about two centimetres below the rock fall and about five centimetres to the left of the rock fall,instruct
+validation,q8nc8.txt,f,right,acknowledge
+validation,q8nc8.txt,f,that's the finish then,check
+validation,q8nc8.txt,g,yeah,acknowledge
+validation,q8nc8.txt,f,right,acknowledge
