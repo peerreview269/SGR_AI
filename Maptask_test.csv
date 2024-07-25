@@ -1,4 +1,4 @@
-Set,ID,Spaker,Text,Label
+Set,Name,speaker,text,label
 test,q1ec3.txt,g,okay,ready
 test,q1ec3.txt,g,start off above the diamond mine,instruct
 test,q1ec3.txt,f,okay yeah,acknowledge

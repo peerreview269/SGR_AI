@@ -1,4 +1,4 @@
-Set,ID,Spaker,Text,Label
+Set,Name,speaker,text,label
 validation,q1ec6.txt,g,right,ready
 validation,q1ec6.txt,g,go south and you'll pass some cliffs on your right,instruct
 validation,q1ec6.txt,f,okay,acknowledge

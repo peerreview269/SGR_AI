@@ -1,4 +1,4 @@
-Set,ID,Spaker,Text,Label
+Set,Name,speaker,text,label
 training,q1ec1.txt,g,okay,ready
 training,q1ec1.txt,g,starting off we are above a caravan park,instruct
 training,q1ec1.txt,f,mmhmm,acknowledge
